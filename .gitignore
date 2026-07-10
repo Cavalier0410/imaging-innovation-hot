@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+
+# Generated working data. Keep only the publishable reports and persistent caches.
+data/*
+!data/imaging-hot-report.html
+!data/innovation-product-library.html
+!data/innovation-projects.json
+!data/translation-cache.json

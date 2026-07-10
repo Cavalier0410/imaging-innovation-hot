@@ -1,0 +1,376 @@
+{
+  "name": "Imaging Product RSS Sources",
+  "description": "Seed RSS source list for an AIHOT-style radar focused on emerging imaging products, creator tools, cameras, lenses, cinema gear, drones, action cameras, and AI imaging products.",
+  "verifiedAt": "2026-07-09",
+  "sources": [
+    {
+      "id": "dpreview",
+      "name": "DPReview",
+      "category": "影像综合",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.dpreview.com/feeds/news.xml"
+    },
+    {
+      "id": "petapixel",
+      "name": "PetaPixel",
+      "category": "影像综合",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://petapixel.com/feed/"
+    },
+    {
+      "id": "fstoppers",
+      "name": "Fstoppers",
+      "category": "影像综合",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://fstoppers.com/feed"
+    },
+    {
+      "id": "photography-life",
+      "name": "Photography Life",
+      "category": "影像综合",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://photographylife.com/feed"
+    },
+    {
+      "id": "digital-camera-world",
+      "name": "Digital Camera World",
+      "category": "影像综合",
+      "priority": "P2",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.digitalcameraworld.com/feeds/all"
+    },
+    {
+      "id": "amateur-photographer",
+      "name": "Amateur Photographer",
+      "category": "影像综合",
+      "priority": "P1",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://amateurphotographer.com/feed/"
+    },
+    {
+      "id": "the-phoblographer",
+      "name": "The Phoblographer",
+      "category": "影像综合",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.thephoblographer.com/feed/"
+    },
+    {
+      "id": "shutterbug",
+      "name": "Shutterbug",
+      "category": "影像综合",
+      "priority": "P2",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.shutterbug.com/rss.xml"
+    },
+    {
+      "id": "shotkit",
+      "name": "Shotkit",
+      "category": "影像综合",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://shotkit.com/feed/"
+    },
+    {
+      "id": "camera-labs",
+      "name": "Camera Labs",
+      "category": "相机/镜头评测",
+      "priority": "P2",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.cameralabs.com/feed/"
+    },
+    {
+      "id": "phillip-reeve",
+      "name": "Phillip Reeve",
+      "category": "相机/镜头评测",
+      "priority": "P2",
+      "language": "en",
+      "region": "EU",
+      "feedUrl": "https://phillipreeve.net/blog/feed/"
+    },
+    {
+      "id": "dustin-abbott",
+      "name": "Dustin Abbott",
+      "category": "相机/镜头评测",
+      "priority": "P2",
+      "language": "en",
+      "region": "CA",
+      "feedUrl": "https://dustinabbott.net/feed/"
+    },
+    {
+      "id": "lenstip",
+      "name": "LensTip",
+      "category": "相机/镜头评测",
+      "priority": "P2",
+      "language": "en",
+      "region": "EU",
+      "feedUrl": "https://www.lenstip.com/rss.xml"
+    },
+    {
+      "id": "optical-limits",
+      "name": "Optical Limits",
+      "category": "相机/镜头评测",
+      "priority": "P2",
+      "language": "en",
+      "region": "EU",
+      "feedUrl": "https://www.opticallimits.com/feed/"
+    },
+    {
+      "id": "nikon-rumors",
+      "name": "Nikon Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://nikonrumors.com/feed/"
+    },
+    {
+      "id": "sony-alpha-rumors",
+      "name": "Sony Alpha Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.sonyalpharumors.com/feed/"
+    },
+    {
+      "id": "fuji-rumors",
+      "name": "Fuji Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.fujirumors.com/feed/"
+    },
+    {
+      "id": "photo-rumors",
+      "name": "Photo Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://photorumors.com/feed/"
+    },
+    {
+      "id": "mirrorless-rumors",
+      "name": "Mirrorless Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.mirrorlessrumors.com/feed/"
+    },
+    {
+      "id": "leica-rumors",
+      "name": "Leica Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://leicarumors.com/feed/"
+    },
+    {
+      "id": "43-rumors",
+      "name": "43 Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.43rumors.com/feed/"
+    },
+    {
+      "id": "l-rumors",
+      "name": "L Rumors",
+      "category": "品牌爆料",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.l-rumors.com/feed/"
+    },
+    {
+      "id": "cined",
+      "name": "CineD",
+      "category": "电影机/视频器材",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.cined.com/feed/"
+    },
+    {
+      "id": "newsshooter",
+      "name": "Newsshooter",
+      "category": "电影机/视频器材",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.newsshooter.com/feed/"
+    },
+    {
+      "id": "ymcinema",
+      "name": "Y.M.Cinema",
+      "category": "电影机/视频器材",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://ymcinema.com/feed/"
+    },
+    {
+      "id": "provideocoalition",
+      "name": "ProVideo Coalition",
+      "category": "电影机/视频器材",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.provideocoalition.com/feed/"
+    },
+    {
+      "id": "studiodaily",
+      "name": "StudioDaily",
+      "category": "电影机/视频器材",
+      "priority": "P2",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.studiodaily.com/feed/"
+    },
+    {
+      "id": "dronedj",
+      "name": "DroneDJ",
+      "category": "无人机/运动影像",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://dronedj.com/feed/"
+    },
+    {
+      "id": "360-rumors",
+      "name": "360 Rumors",
+      "category": "无人机/运动影像",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://360rumors.com/feed/"
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家",
+      "category": "中文影像/泛科技",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.ithome.com/rss/"
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "category": "中文影像/泛科技",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.ifanr.com/feed"
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "category": "中文影像/泛科技",
+      "priority": "P2",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://sspai.com/feed"
+    },
+    {
+      "id": "mydrivers",
+      "name": "快科技 / 驱动之家",
+      "category": "中文影像/泛科技",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://rss.mydrivers.com/rss.aspx"
+    },
+    {
+      "id": "technews-tw",
+      "name": "TechNews 科技新报",
+      "category": "中文影像/泛科技",
+      "priority": "P2",
+      "language": "zh-TW",
+      "region": "TW",
+      "feedUrl": "https://technews.tw/feed/"
+    },
+    {
+      "id": "product-hunt",
+      "name": "Product Hunt",
+      "category": "新兴产品/综合",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.producthunt.com/feed"
+    },
+    {
+      "id": "yanko-design",
+      "name": "Yanko Design",
+      "category": "新兴产品/设计",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.yankodesign.com/feed/"
+    },
+    {
+      "id": "the-gadgeteer",
+      "name": "The Gadgeteer",
+      "category": "新兴产品/硬件",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://the-gadgeteer.com/feed/"
+    },
+    {
+      "id": "techcrunch-hardware",
+      "name": "TechCrunch Hardware",
+      "category": "新兴产品/硬件",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://techcrunch.com/category/hardware/feed/"
+    },
+    {
+      "id": "liliputing",
+      "name": "Liliputing",
+      "category": "新兴产品/硬件",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://liliputing.com/feed/"
+    },
+    {
+      "id": "hackaday",
+      "name": "Hackaday",
+      "category": "新兴产品/创客",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://hackaday.com/blog/feed/"
+    },
+    {
+      "id": "hackster",
+      "name": "Hackster News",
+      "category": "新兴产品/创客",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.hackster.io/news.atom"
+    }
+  ]
+}

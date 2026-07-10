@@ -1,0 +1,23 @@
+{
+  "name": "aihot-lite",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:feeds": "node scripts/check-feeds.mjs",
+    "dedupe:items": "node scripts/dedupe-items.mjs",
+    "fetch:feeds": "node scripts/fetch-feeds.mjs",
+    "pipeline": "node scripts/run-pipeline.mjs",
+    "html": "node scripts/make-html.mjs",
+    "report": "node scripts/make-report.mjs",
+    "translate": "node scripts/translate-items.mjs",
+    "library": "node scripts/make-innovation-library.mjs",
+    "library:rebuild": "node scripts/make-innovation-library.mjs --rebuild",
+    "use": "npm run pipeline && npm run translate && npm run report && npm run html && npm run library",
+    "list:feeds": "node scripts/list-feeds.mjs",
+    "verify:dedupe": "node scripts/verify-dedupe.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}

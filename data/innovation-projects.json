@@ -1,0 +1,986 @@
+{
+  "generatedAt": "2026-07-10T03:57:32.190Z",
+  "sourceGeneratedAt": "2026-07-10T01:29:08.522Z",
+  "criteriaVersion": 1,
+  "stats": {
+    "scannedThisRun": 170,
+    "acceptedThisRun": 18,
+    "newThisRun": 0,
+    "projectCount": 25,
+    "categoryCount": 7,
+    "sourceCount": 10,
+    "withImageCount": 20
+  },
+  "categoryCounts": {
+    "专业影像新技术": 7,
+    "空间影像与显示": 4,
+    "智能相机与机器人": 4,
+    "创新光学与传感": 4,
+    "AI 与计算影像": 3,
+    "便携与移动创作": 2,
+    "运动影像与航拍": 1
+  },
+  "projects": [
+    {
+      "id": "b8e830f696a17ef656f3a4f5558a1a47a51c3d9f",
+      "title": "QuadRF: The Open Source RF Camera That Lets You See Wi-Fi Signals",
+      "titleZh": "QuadRF：可让您查看 Wi-Fi 信号的开源 RF 摄像头",
+      "summary": "QuadRF turns a Raspberry Pi 5 into a real-time RF camera to visualize and map wireless signals in AR.",
+      "summaryZh": "QuadRF 将 Raspberry Pi 5 转变为实时 RF 相机，以在 AR 中可视化和映射无线信号。",
+      "url": "https://www.hackster.io/news/quadrf-the-open-source-rf-camera-that-lets-you-see-wi-fi-signals-141ad91f2a2d",
+      "normalizedUrl": "https://hackster.io/news/quadrf-the-open-source-rf-camera-that-lets-you-see-wi-fi-signals-141ad91f2a2d",
+      "publishedAt": "2026-07-09T14:18:01.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "原型/开源",
+      "projectFormat": "开源项目",
+      "innovationScore": 98,
+      "innovationReasons": [
+        "开源可自制",
+        "云端与远程协作",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "QuadRF: The Open Source RF Camera That Lets You See Wi-Fi Signals",
+          "url": "https://www.hackster.io/news/quadrf-the-open-source-rf-camera-that-lets-you-see-wi-fi-signals-141ad91f2a2d",
+          "source": "Hackster News",
+          "publishedAt": "2026-07-09T14:18:01.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:29:30.939Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-07-10T01:29:30.939Z"
+    },
+    {
+      "id": "9ceb5d84e46ddc129935b8920593d56d05bdf6c9",
+      "title": "Blackmagic UltraStudio Express 3G Announced – USB4 Capture and Playback, 3G-SDI and HDMI",
+      "titleZh": "Blackmagic UltraStudio Express 3G 发布 - USB4 采集和播放、3G-SDI 和 HDMI",
+      "summary": "Blackmagic Design has introduced the UltraStudio Express 3G family, a pair of pocket-sized USB4 capture and playback devices that run entirely on bus power for $175 each. The lineup splits into two dedicated models, the Recorder 3G for 3G-SDI and HDMI input and the Monitor 3G for 3G-SDI and HDMI output, both handling all SD and HD standards up to 1080p60. Rather than combining ingest and playout into a single box, Blackmagic Design has separated the two workflows into purpose-built units. That decision is a familiar one for the company, which took the same route with its earlier UltraStudio 3G Monitor and Recorder devices, and the logic is unchanged: a colorist monitoring […]",
+      "summaryZh": "Blackmagic Design 推出了 UltraStudio Express 3G 系列，这是一对袖珍 USB4 采集和播放设备，完全依靠总线电源运行，每台售价 175 美元。该产品系列分为两个专用型号，即用于 3G-SDI 和 HDMI 输入的 Recorder 3G 以及用于 3G-SDI 和 HDMI 输出的 Monitor 3G，两者均可处理高达 1080p60 的所有 SD 和 HD 标准。 Blackmagic Design 没有将采集和播放合并到一个盒子中，而是将两个工作流程分成专用单元。这个决定是一个家庭",
+      "url": "https://www.cined.com/blackmagic-ultrastudio-express-3g-announced-usb4-capture-and-playback-3g-sdi-and-hdmi/",
+      "normalizedUrl": "https://cined.com/blackmagic-ultrastudio-express-3g-announced-usb4-capture-and-playback-3g-sdi-and-hdmi",
+      "publishedAt": "2026-07-09T10:19:36.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 97,
+      "innovationReasons": [
+        "便携形态",
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic UltraStudio Express 3G Announced – USB4 Capture and Playback, 3G-SDI and HDMI",
+          "url": "https://www.cined.com/blackmagic-ultrastudio-express-3g-announced-usb4-capture-and-playback-3g-sdi-and-hdmi/",
+          "source": "CineD",
+          "publishedAt": "2026-07-09T10:19:36.000Z"
+        },
+        {
+          "title": "Blackmagic Design Announces New UltraStudio Express 3G",
+          "url": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-3g/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-07-08T23:48:39.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/5-ultrastudio-express-3g@2x.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "43d1cffa4bff976ab85c2c5c6a368e9b8ff81dfc",
+      "title": "Blackmagic Cameras Capture Immersive Flight for New Cirrus App",
+      "titleZh": "Blackmagic 相机为新 Cirrus 应用程序捕捉沉浸式飞行",
+      "summary": "Cirrus, the global leader in Personal Aviation, has created immersive flight demos for its Cirrus SR22T aircraft using Blackmagic URSA Cine Immersive digital film cameras and DaVinci Resolve Studio editing, color grading, visual effects (VFX) and audio post-production software. Showcasing the aircraft soaring above incredible sights of the Arizona desert, the content is being used [...] Read More... from Blackmagic Cameras Capture Immersive Flight for New Cirrus App",
+      "summaryZh": "个人航空领域的全球领导者 Cirrus 使用 Blackmagic URSA Cine Immersive 数字胶片摄影机和 DaVinci Resolve Studio 编辑、色彩分级、视觉效果 (VFX) 和音频后期制作软件为其 Cirrus SR22T 飞机创建了沉浸式飞行演示。展示飞机在亚利桑那州沙漠的令人难以置信的景色上空翱翔，内容正在使用[...]阅读更多...来自 Blackmagic Cameras Capture Immersive Flight for New Cirrus App",
+      "url": "https://www.provideocoalition.com/blackmagic-cameras-capture-immersive-flight-for-new-cirrus-app/",
+      "normalizedUrl": "https://provideocoalition.com/blackmagic-cameras-capture-immersive-flight-for-new-cirrus-app",
+      "publishedAt": "2026-07-08T22:12:19.000Z",
+      "source": {
+        "id": "provideocoalition",
+        "name": "ProVideo Coalition",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "空间影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic Cameras Capture Immersive Flight for New Cirrus App",
+          "url": "https://www.provideocoalition.com/blackmagic-cameras-capture-immersive-flight-for-new-cirrus-app/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-07-08T22:12:19.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/3-new-cirrus-app@2x.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "b9a62de493140b07116fd47dff19dd569749d069",
+      "title": "Meta’s New AI Image Generator Can Make Pictures From Anyone’s Public Instagram Page",
+      "titleZh": "Meta 的新 AI 图像生成器可以从任何人的 Instagram 公共页面制作图片",
+      "summary": "Meta's Superintelligence Labs division has launched its first image model, which is rolling out across Instagram, WhatsApp, and the Meta AI app. [ Read More ]",
+      "summaryZh": "Meta 的超级智能实验室部门推出了第一个图像模型，该模型正在 Instagram、WhatsApp 和 Meta AI 应用程序上推广。 [ 阅读更多 ]",
+      "url": "https://petapixel.com/2026/07/08/metas-new-ai-image-generator-can-make-pictures-from-anyones-public-instagram-page/",
+      "normalizedUrl": "https://petapixel.com/2026/07/08/metas-new-ai-image-generator-can-make-pictures-from-anyones-public-instagram-page",
+      "publishedAt": "2026-07-08T16:33:19.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "AI 与计算影像",
+      "projectStage": "已公布",
+      "projectFormat": "AI 模型",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "AI 影像",
+        "计算影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Meta’s New AI Image Generator Can Make Pictures From Anyone’s Public Instagram Page",
+          "url": "https://petapixel.com/2026/07/08/metas-new-ai-image-generator-can-make-pictures-from-anyones-public-instagram-page/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-07-08T16:33:19.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/07/Muse-Image.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "314f82913c15a50315073bf7eec84fd8f78b7b2d",
+      "title": "Build Your Own SteamVR-Compatible AR Headset",
+      "titleZh": "打造您自己的 SteamVR 兼容 AR 耳机",
+      "summary": "The Sideloader 3.3 is a DIY AR headset that offers native head tracking and works with SteamVR — and you can build one at home.",
+      "summaryZh": "Sideloader 3.3 是一款 DIY AR 耳机，提供原生头部跟踪并与 SteamVR 配合使用，您可以在家中制作一个。",
+      "url": "https://www.hackster.io/news/build-your-own-steamvr-compatible-ar-headset-d76e86348d8a",
+      "normalizedUrl": "https://hackster.io/news/build-your-own-steamvr-compatible-ar-headset-d76e86348d8a",
+      "publishedAt": "2026-07-08T15:14:58.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "原型/开源",
+      "projectFormat": "开源项目",
+      "innovationScore": 84,
+      "innovationReasons": [
+        "空间影像",
+        "开源可自制"
+      ],
+      "references": [
+        {
+          "title": "Build Your Own SteamVR-Compatible AR Headset",
+          "url": "https://www.hackster.io/news/build-your-own-steamvr-compatible-ar-headset-d76e86348d8a",
+          "source": "Hackster News",
+          "publishedAt": "2026-07-08T15:14:58.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "3fc19f9b373e27db3269e68eeb825745e909897c",
+      "title": "Beni Is a Cute Autonomous Camera Robot On Wheels",
+      "titleZh": "Beni 是一个可爱的带轮子的自主摄像机器人",
+      "summary": "Mondo Robotics has unveiled Beni, which it describes as the world's first portable camera robot designed for \"every consumer and terrain.\" [ Read More ]",
+      "summaryZh": "Mondo Robotics 推出了 Beni，将其描述为世界上第一个专为“每个消费者和地形”设计的便携式摄像机器人。 [ 阅读更多 ]",
+      "url": "https://petapixel.com/2026/07/08/beni-is-a-cute-autonomous-camera-robot-on-wheels/",
+      "normalizedUrl": "https://petapixel.com/2026/07/08/beni-is-a-cute-autonomous-camera-robot-on-wheels",
+      "publishedAt": "2026-07-08T15:00:28.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 87,
+      "innovationReasons": [
+        "便携形态",
+        "自动化拍摄",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Beni Is a Cute Autonomous Camera Robot On Wheels",
+          "url": "https://petapixel.com/2026/07/08/beni-is-a-cute-autonomous-camera-robot-on-wheels/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-07-08T15:00:28.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/07/beni-robot-featured.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "484618ba1ca409b07e6e588fe1c4fe7bd3c3833b",
+      "title": "Harymor Turns Backyard Birdwatching Into a Phone Notification",
+      "titleZh": "Harymor 将后院观鸟变成电话通知",
+      "summary": "Picture the moment that actually sells one of these: you’re stuck on a work call, your phone buzzes, and there’s a cardinal feeding in crisp 2K while you nod along to the meeting. That’s the whole pitch. The real question in the summer of 2026 isn’t whether a camera feeder is fun. It’s whether the […]",
+      "summaryZh": "想象一下真正销售其中一款产品的那一刻：您正在忙着工作电话，您的手机嗡嗡作响，当您点头参加会议时，一位红衣主教正在用清晰的 2K 喂食。这就是整个球场。 2026 年夏天真正的问题不是相机馈线是否有趣。这是否是[...]",
+      "url": "https://the-gadgeteer.com/2026/07/08/harymor-smart-bird-feeder-camera-solar-power/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/07/08/harymor-smart-bird-feeder-camera-solar-power",
+      "publishedAt": "2026-07-08T14:15:23.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "新使用场景"
+      ],
+      "references": [
+        {
+          "title": "Harymor Turns Backyard Birdwatching Into a Phone Notification",
+          "url": "https://the-gadgeteer.com/2026/07/08/harymor-smart-bird-feeder-camera-solar-power/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-07-08T14:15:23.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/07/HARYMOR-Bird-Feeder-with-Camera-with-AI-Identify-Birds-Species-A.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "10be5923abb6e7bddf6e30b32215e1cb693d8d75",
+      "title": "The Elephant in the Robot: EleTac Uses a Camera for a Gentler Touch",
+      "titleZh": "机器人中的大象：EleTac 使用摄像头实现更温和的触摸",
+      "summary": "EleTac is a soft robot gripper inspired by an elephant’s trunk that uses an internal camera to sense touch and safely handle delicate tasks.",
+      "summaryZh": "EleTac 是一款软体机器人抓手，其灵感来自于大象的鼻子，它使用内部摄像头来感应触摸并安全地处理精细的任务。",
+      "url": "https://www.hackster.io/news/the-elephant-in-the-robot-eletac-uses-a-camera-for-a-gentler-touch-5c24b8aaed76",
+      "normalizedUrl": "https://hackster.io/news/the-elephant-in-the-robot-eletac-uses-a-camera-for-a-gentler-touch-5c24b8aaed76",
+      "publishedAt": "2026-07-08T14:11:02.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 72,
+      "innovationReasons": [
+        "自动化拍摄",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "The Elephant in the Robot: EleTac Uses a Camera for a Gentler Touch",
+          "url": "https://www.hackster.io/news/the-elephant-in-the-robot-eletac-uses-a-camera-for-a-gentler-touch-5c24b8aaed76",
+          "source": "Hackster News",
+          "publishedAt": "2026-07-08T14:11:02.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "3051efb68bb685c5c543f8367663daa07c54e57e",
+      "title": "AulGo Pocket Camera Hits Kickstarter – 4K Sony Sensor, 6-Axis EIS, 56g Body",
+      "titleZh": "AulGo 袖珍相机在 Kickstarter 上众筹 – 4K 索尼传感器、6 轴 EIS、56 克机身",
+      "summary": "A new Hong Kong startup called TriLife has taken its AulGo pocket camera to Kickstarter, promising 4K capture from a Sony IMX486 sensor, 6-axis electronic stabilization, and five recording modes in a 56g body that costs a fraction of an Osmo Pocket. At the time of writing the campaign has blown well past its modest funding goal, but the product itself raises as many questions as it answers. Tiny cameras built to slip into a pocket or clip onto a shirt have become one of the most competitive corners of the imaging market, with DJI, Insta360, and GoPro all fighting for the same creators who want a grab-and-go second camera. AulGo enters […]",
+      "summaryZh": "一家名为 TriLife 的新香港初创公司已将其 AulGo 袖珍相机带到了 Kickstarter 众筹平台上，承诺通过索尼 IMX486 传感器进行 4K 拍摄、6 轴电子稳定功能以及 56 克机身中的五种录制模式，而其成本仅为 Osmo Pocket 的一小部分。截至撰写本文时，该活动已远远超出了其适度的融资目标，但该产品本身提出的问题与它回答的问题一样多。用于放入口袋或夹在衬衫上的微型相机已成为成像领域最具竞争力的领域之一",
+      "url": "https://www.cined.com/aulgo-pocket-camera-hits-kickstarter-4k-sony-sensor-6-axis-eis-56g-body/",
+      "normalizedUrl": "https://cined.com/aulgo-pocket-camera-hits-kickstarter-4k-sony-sensor-6-axis-eis-56g-body",
+      "publishedAt": "2026-07-08T11:00:59.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "便携与移动创作",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 100,
+      "innovationReasons": [
+        "众筹验证",
+        "便携形态",
+        "新视角采集",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "AulGo Pocket Camera Hits Kickstarter – 4K Sony Sensor, 6-Axis EIS, 56g Body",
+          "url": "https://www.cined.com/aulgo-pocket-camera-hits-kickstarter-4k-sony-sensor-6-axis-eis-56g-body/",
+          "source": "CineD",
+          "publishedAt": "2026-07-08T11:00:59.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/AulGo-featured.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "371829dad06efeaa06ad825cac5e792741719a1a",
+      "title": "Beeble’s SwitchHDR: AI model for HDR reconstruction from SDR video",
+      "titleZh": "Beeble 的 SwitchHDR：用于从 SDR 视频重建 HDR 的 AI 模型",
+      "summary": "Designed for filmmakers, colorists, and VFX artists, SwitchHDR, which expands Beeble’s suite of AI tools, is available through the Beeble web application. SwitchHDR is a new AI frontier model that reconstructs HDR imagery from conventional SDR video, producing scene-linear 16-bit EXR sequences for professional post-production. The new solutioncombines artist-directed HDR reconstruction with scene-linear 16-bit EXR [...] Read More... from Beeble’s SwitchHDR: AI model for HDR reconstruction from SDR video",
+      "summaryZh": "SwitchHDR 专为电影制作人、调色师和视觉特效艺术家设计，扩展了 Beeble 的 AI 工具套件，可通过 Beeble 网络应用程序使用。 SwitchHDR 是一种新的 AI 前沿模型，可从传统 SDR 视频重建 HDR 图像，生成用于专业后期制作的场景线性 16 位 EXR 序列。新的解决方案将艺术家指导的 HDR 重建与场景线性 16 位 EXR 结合起来 [...] 阅读更多...来自 Beeble 的 SwitchHDR：用于从 SDR 视频重建 HDR 的 AI 模型",
+      "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "normalizedUrl": "https://provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video",
+      "publishedAt": "2026-07-08T09:06:47.000Z",
+      "source": {
+        "id": "provideocoalition",
+        "name": "ProVideo Coalition",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "AI 与计算影像",
+      "projectStage": "持续观察",
+      "projectFormat": "AI 模型",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "AI 影像",
+        "计算影像"
+      ],
+      "references": [
+        {
+          "title": "Beeble’s SwitchHDR: AI model for HDR reconstruction from SDR video",
+          "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-07-08T09:06:47.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/switchhdr002.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "336dfc801f293962e4019efdcf5b231ed60eaac7",
+      "title": "IMAX Keighley: The New 15/70 Film Camera Has a Surprisingly Modern UI",
+      "titleZh": "IMAX Keighley：新型 15/70 胶片摄影机拥有令人惊讶的现代用户界面",
+      "summary": "The new IMAX Keighley film camera is not just about a quieter body, a refined mechanical design, or a new generation of 15/70 filmmaking hardware. A close look at the recently released IMAX clip reveals something equally fascinating: the camera has a surprisingly modern user interface. This is still a pure large-format film camera. It is still moving massive 15/70 film through the gate at a terrifying speed. It is still the opposite of a compact digital cinema camera. But the screen mounted on the camera tells a very different story. Keighley appears to wrap one of the most demanding The post IMAX Keighley: The New 15/70 Film Camera Has a Surprisingly Modern UI appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "全新 IMAX Keighley 电影摄影机不仅仅是更安静的机身、精致的机械设计或新一代 15/70 电影制作硬件。仔细观察最近发布的 IMAX 剪辑，您会发现同样令人着迷的东西：摄像机拥有令人惊讶的现代用户界面。这仍然是一台纯粹的大画幅胶片相机。它仍然以惊人的速度将巨大的 15/70 胶片移过大门。它仍然与紧凑型数字电影摄影机相反。但安装在相机上的屏幕告诉我们",
+      "url": "https://ymcinema.com/2026/07/08/imax-keighley-camera-modern-ui/",
+      "normalizedUrl": "https://ymcinema.com/2026/07/08/imax-keighley-camera-modern-ui",
+      "publishedAt": "2026-07-08T07:58:01.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 82,
+      "innovationReasons": [
+        "便携形态",
+        "传统介质新设计"
+      ],
+      "references": [
+        {
+          "title": "IMAX Keighley: The New 15/70 Film Camera Has a Surprisingly Modern UI",
+          "url": "https://ymcinema.com/2026/07/08/imax-keighley-camera-modern-ui/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-07-08T07:58:01.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/07/IMAX-Keighley-The-New-1570-Film-Camera-Has-a-Surprisingly-Modern-UI.001.webp",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "e82c8408196d920d219966eabbc144e8e0a88f90",
+      "title": "Lamborghini brings its supercars to Apple Vision Pro with a new spatial computing app",
+      "titleZh": "兰博基尼通过新的空间计算应用程序将其超级跑车引入 Apple Vision Pro",
+      "summary": "Lamborghini has announced an official Lamborghini app for Apple Vision Pro, turning its current supercar lineup into a spatial showroom you can place...",
+      "summaryZh": "兰博基尼宣布推出适用于 Apple Vision Pro 的兰博基尼官方应用程序，将其当前的超级跑车阵容转变为一个空间陈列室，您可以放置​​...",
+      "url": "https://the-gadgeteer.com/2026/07/07/lamborghini-brings-its-supercars-to-apple-vision-pro-with-a-new-spatial/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/07/07/lamborghini-brings-its-supercars-to-apple-vision-pro-with-a-new-spatial",
+      "publishedAt": "2026-07-07T17:06:46.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已公布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "Lamborghini brings its supercars to Apple Vision Pro with a new spatial computing app",
+          "url": "https://the-gadgeteer.com/2026/07/07/lamborghini-brings-its-supercars-to-apple-vision-pro-with-a-new-spatial/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-07-07T17:06:46.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/07/lamborghini-brings-its-supercars-to-apple-vision-pro-with-a-new-spatial-01-wp-1280x960-1.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "9891a6a1258e927dabfbbcb14e6dccaeaaed814b",
+      "title": "KipperTie LCcineND Now Available – Remote Controllable 4×5.65” Electronic ND Filter",
+      "titleZh": "KipperTie LCcineND 现已上市 – 远程控制 4×5.65” 电子 ND 滤镜",
+      "summary": "The KipperTie LCcineND is a non-polarising electronic ND filter designed to fit in a single 4×5.65in (101.6×143.5mm) matte box tray. It offers an ND range from 1.5 to 5 stops with color accuracy across all strengths, a durable design, and the ability to remotely control its intensity via a smartphone app or a follow focus motor. It’s now available to order for £1,750 (roughly $2,340). Electronic ND filters offer several advantages over traditional variable ND filters based on rotating polarizers. Indeed, eND filters have no moving optical elements and, most importantly, minimize the risk of ruining your image with polarising artefacts. Sony cameras have been at the forefront of this […]",
+      "summaryZh": "KipperTie LCcineND 是一款非偏振电子 ND 滤镜，设计用于安装在单个 4×5.65 英寸（101.6×143.5 毫米）遮光盒托盘中。它提供 1.5 至 5 档的 ND 范围，具有所有优势的色彩精度、耐用的设计，并且能够通过智能手机应用程序或跟焦电机远程控制其强度。现在可以以 1,750 英镑（约合 2,340 美元）的价格订购。与基于旋转偏振器的传统可变 ND 滤镜相比，电子 ND 滤镜具有多种优势。事实上，eND 滤镜",
+      "url": "https://www.cined.com/kippertie-lccinend-now-available-remote-controllable-4x5-65-electronic-nd-filter/",
+      "normalizedUrl": "https://cined.com/kippertie-lccinend-now-available-remote-controllable-4x5-65-electronic-nd-filter",
+      "publishedAt": "2026-07-07T13:58:00.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 94,
+      "innovationReasons": [
+        "云端与远程协作",
+        "新型光学与传感",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "KipperTie LCcineND Now Available – Remote Controllable 4×5.65” Electronic ND Filter",
+          "url": "https://www.cined.com/kippertie-lccinend-now-available-remote-controllable-4x5-65-electronic-nd-filter/",
+          "source": "CineD",
+          "publishedAt": "2026-07-07T13:58:00.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/KipperTie-LCcineND-featured.jpeg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "a6aa3f94c87fcfe92bb8f9d144ad9c96a6ad7c8c",
+      "title": "ARRI ALEXA 35 Live Xtreme Announced – Up to 8x HFR via SDI, 480fps, Baseband Slow Motion",
+      "titleZh": "ARRI ALEXA 35 Live Xtreme 发布 – 通过 SDI 高达 8 倍 HFR、480fps、基带慢动作",
+      "summary": "ARRI has released the ALEXA 35 Live Xtreme, a broadcast camera that pushes high frame rate output of up to 8x into live productions over traditional SDI, no separate high-speed camera required. It ships with permanent licenses for 8x HFR in HD or 2x in UHD, reaches 480fps in a Sensor Overdrive mode, and feeds super-slow-motion replays into the standard baseband workflow while simultaneously outputting a live program feed. The launch is a logical next step for a camera system that CineD has followed closely over the past year, from the original ALEXA 35 Live Multicam System introduction in 2024 through its large-scale deployment at the Eurovision Song Contest 2026 in Vienna (watch our […]",
+      "summaryZh": "ARRI 发布了 ALEXA 35 Live Xtreme，这是一款广播摄像机，可将高达 8 倍的高帧率输出推向传统 SDI 的现场制作，无需单独的高速摄像机。它附带 8 倍 HFR 高清或 2 倍超高清永久许可证，在传感器超速模式下达到 480 fps，并将超慢动作重放输入标准基带工作流程，同时输出实时节目源。对于 CineD 一直密切关注的摄像机系统来说，此次发布是顺理成章的下一步",
+      "url": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
+      "normalizedUrl": "https://cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion",
+      "publishedAt": "2026-07-07T11:23:04.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 78,
+      "innovationReasons": [
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "ARRI ALEXA 35 Live Xtreme Announced – Up to 8x HFR via SDI, 480fps, Baseband Slow Motion",
+          "url": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
+          "source": "CineD",
+          "publishedAt": "2026-07-07T11:23:04.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/2-ALEXA-35-Live-Xtreme-KeyVisual.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "22f4feaac5aeb22618aa1d941bee1469720aa319",
+      "title": "KNOWLED PL600 RF and PL1200 RF Announced – PaletteLab Engine, 92% Rec.2020, IP65 Weatherproofing",
+      "titleZh": "KNOWLED PL600 RF 和 PL1200 RF 发布 – PaletteLab 引擎，92% Rec.2020，IP65 防风雨",
+      "summary": "Godox has given its PaletteLab color engine two dedicated homes with the KNOWLED PL600 RF and PL1200 RF, a pair of all-in-one point-source fixtures that pair a full-spectrum engine with a claimed CRI of around 98, TLCI of around 99, and 92% Rec.2020 coverage. Both carry an 1800K to 10,000K CCT range, integrated CRMX wireless control, IP65 weather sealing, and a flat Bowens mount, with the 600W head weighing roughly 8.7kg (19.2lb) and the 1200W head around 11.3kg (24.9lb). We first met PaletteLab as a color science platform rather than a shipping product, and the natural question was always which fixtures would carry it into production. The PL600 RF and […]",
+      "summaryZh": "Godox 为其 PaletteLab 色彩引擎提供了两个专用的家，即 KNOWLED PL600 RF 和 PL1200 RF，这是一对一体式点源灯具，与全光谱引擎配对，据称 CRI 约为 98，TLCI 约为 99，Rec.2020 覆盖率为 92%。两者均具有 1800K 至 10,000K CCT 范围、集成 CRMX 无线控制、IP65 防风雨密封和扁平 Bowens 安装座，其中 600W 头重约 8.7 千克（19.2 磅），1200W 头重约 11.3 千克（24.9 磅）。我们第一次见到 PaletteLab 是作为一门色彩科学",
+      "url": "https://www.cined.com/knowled-pl600-rf-and-pl1200-rf-announced-palettelab-rgbww-engine-92-rec-2020-ip65-weatherproofing/",
+      "normalizedUrl": "https://cined.com/knowled-pl600-rf-and-pl1200-rf-announced-palettelab-rgbww-engine-92-rec-2020-ip65-weatherproofing",
+      "publishedAt": "2026-07-06T11:12:07.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已发布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 93,
+      "innovationReasons": [
+        "云端与远程协作",
+        "新型光学与传感",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "KNOWLED PL600 RF and PL1200 RF Announced – Nine-Band PaletteLab Engine, 92% Rec.2020, IP65 Weatherproofing",
+          "url": "https://www.cined.com/knowled-pl600-rf-and-pl1200-rf-announced-palettelab-rgbww-engine-92-rec-2020-ip65-weatherproofing/",
+          "source": "CineD",
+          "publishedAt": "2026-07-06T11:12:07.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/KNOWLED-PL600-RF-and-PL1200-RF.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "754f3b5f4912bc8512e13e0ad5dfd4613a3c048f",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "titleZh": "智能眼镜制造商 Even Realities 估值达到 10 亿美元，美团和腾讯领投 1.5 亿美元融资",
+      "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
+      "summaryZh": "Even Realities是一家前苹果团队，致力于打造无摄像头智能眼镜，以10亿美元的估值从美团和腾讯筹集了1.5亿美元。",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "normalizedUrl": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent",
+      "publishedAt": "2026-07-06T09:00:00.000Z",
+      "source": {
+        "id": "techcrunch-hardware",
+        "name": "TechCrunch Hardware",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已融资",
+      "projectFormat": "硬件产品",
+      "innovationScore": 90,
+      "innovationReasons": [
+        "获得融资",
+        "空间影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+          "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+          "source": "TechCrunch Hardware",
+          "publishedAt": "2026-07-06T09:00:00.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Even-G2-and-R1-with-HUD.jpeg?resize=1200,675",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "b23617da28deee1ff8c910301072141daca29d52",
+      "title": "Stanley Studio",
+      "titleZh": "斯坦利工作室",
+      "summary": "The AI video editor you hire that edits like a human Discussion | Link",
+      "summaryZh": "您雇用的人工智能视频编辑器可以像人类一样进行编辑关联",
+      "url": "https://www.producthunt.com/products/stanley-studio",
+      "normalizedUrl": "https://producthunt.com/products/stanley-studio",
+      "publishedAt": "2026-07-06T03:37:29.000Z",
+      "source": {
+        "id": "product-hunt",
+        "name": "Product Hunt",
+        "category": "新兴产品/综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "AI 与计算影像",
+      "projectStage": "已上线",
+      "projectFormat": "软件/应用",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Stanley Studio",
+          "url": "https://www.producthunt.com/products/stanley-studio",
+          "source": "Product Hunt",
+          "publishedAt": "2026-07-06T03:37:29.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "f15d7f7b385c15d466191a15c5c0d73184abfa12",
+      "title": "This Robot Makes Focus Stacking Easy",
+      "titleZh": "这个机器人使焦点堆叠变得容易",
+      "summary": "Alan of MandicReally built this robot to automate microscope focus stacking photography.",
+      "summaryZh": "Mandic 的 Alan 确实建造了这个机器人来自动化显微镜焦点堆叠摄影。",
+      "url": "https://www.hackster.io/news/this-robot-makes-focus-stacking-easy-81550a874b8a",
+      "normalizedUrl": "https://hackster.io/news/this-robot-makes-focus-stacking-easy-81550a874b8a",
+      "publishedAt": "2026-07-03T21:21:36.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 86,
+      "innovationReasons": [
+        "自动化拍摄",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "This Robot Makes Focus Stacking Easy",
+          "url": "https://www.hackster.io/news/this-robot-makes-focus-stacking-easy-81550a874b8a",
+          "source": "Hackster News",
+          "publishedAt": "2026-07-03T21:21:36.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "e8ac72f862f2a3dd762ba5f2d53990ef4a472d3b",
+      "title": "Tilta iPhone Lenses Bring Fisheye, Macro, Wide, and Telephoto Glass for T-Mount",
+      "titleZh": "Tilta iPhone 镜头配备适用于 T 接口的鱼眼、微距、广角和长焦玻璃",
+      "summary": "Tilta has expanded its Khronos mobile ecosystem with a set of four dedicated lenses for iPhone, threading onto the T-Series Lens Mount Adapter to add focal lengths the phone cannot reach natively. The line covers an 8mm fisheye, a 16mm wide-angle, a 10x macro, and a 40mm telephoto, all machined in a champagne-finish aluminum alloy and priced between $69 and $89. The pitch here is straightforward for anyone already invested in the Khronos platform: rather than swapping to the iPhone’s built-in ultra-wide or digital zoom and accepting the image trade-offs that come with those cameras, you attach optical glass in front of the main sensor and keep working at full […]",
+      "summaryZh": "Tilta 通过一组四个 iPhone 专用镜头扩展了其 Khronos 移动生态系统，连接到 T 系列镜头安装适配器上以增加手机本身无法达到的焦距。该系列产品包括 8 毫米鱼眼镜头、16 毫米广角镜头、10 倍微距镜头和 40 毫米长焦镜头，全部采用香槟色铝合金加工而成，价格在 69 至 89 美元之间。对于已经投资 Khronos 平台的人来说，这里的宣传很简单：而不是换成 iPhone 的内置超宽或数字",
+      "url": "https://www.cined.com/tilta-iphone-lenses-bring-fisheye-macro-wide-and-telephoto-glass-for-t-mount/",
+      "normalizedUrl": "https://cined.com/tilta-iphone-lenses-bring-fisheye-macro-wide-and-telephoto-glass-for-t-mount",
+      "publishedAt": "2026-07-03T11:50:21.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "便携与移动创作",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 89,
+      "innovationReasons": [
+        "新视角采集",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Tilta iPhone Lenses Bring Fisheye, Macro, Wide, and Telephoto Glass for T-Mount",
+          "url": "https://www.cined.com/tilta-iphone-lenses-bring-fisheye-macro-wide-and-telephoto-glass-for-t-mount/",
+          "source": "CineD",
+          "publishedAt": "2026-07-03T11:50:21.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/Tilta-Khronos-iPhone-Lenses.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "8fa46ec3e589c263241bc4a8735f8d8fca422164",
+      "title": "Beat App Introduced – Free Mac Tool for Story Development and Shoot Planning",
+      "titleZh": "Beat 应用程序推出 – 用于故事开发和拍摄规划的免费 Mac 工具",
+      "summary": "Beat is a free Mac app that combines story development, references, characters, locations, and shoot planning on one visual canvas. The app is built around a node-based workspace where users can organize the ideas behind a project, from story beats and visual references to the look of individual scenes. Let’s have a closer look at what it does. Developed by filmmaker João Lutz, a particularly interesting feature is the Set Plan, an overhead workspace for preparing lighting and blocking diagrams before a shoot. The video below walks you through how it works: Set Plan for lighting and blocking Set Plan allows users to place cameras with a field of view […]",
+      "summaryZh": "Beat 是一款免费的 Mac 应用程序，它将故事发展、参考资料、角色、地点和拍摄规划结合在一个视觉画布上。该应用程序围绕基于节点的工作区构建，用户可以在其中组织项目背后的想法，从故事节拍和视觉参考到各个场景的外观。让我们仔细看看它的作用。由电影制作人 João Lutz 开发的一个特别有趣的功能是 Set Plan，这是一个用于在拍摄前准备灯光和框图的头顶工作区。这",
+      "url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
+      "normalizedUrl": "https://cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning",
+      "publishedAt": "2026-07-03T08:47:07.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Beat App Introduced – Free Mac Tool for Story Development and Shoot Planning",
+          "url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
+          "source": "CineD",
+          "publishedAt": "2026-07-03T08:47:07.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/Beat-app.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "c87006db12140256369e29882e696ced00376180",
+      "title": "Artemis Studio for Mac – Chemical Wedding’s Desktop Companion to Its Director’s Viewfinder App",
+      "titleZh": "Artemis Studio Mac 版 – Chemical Wedding 的导演取景器应用程序的桌面伴侣",
+      "summary": "Chemical Wedding has released Artemis Studio, a macOS application that extends its widely used Artemis Director’s Viewfinder into a desktop planning platform. The app syncs shot plans, images, metadata, and project information between iPhone and Mac over iCloud, and is available now on the Mac App Store. Directors, cinematographers, and production teams have leaned on smartphone viewfinder apps for years to preview lenses, scout locations, and frame shots before the camera package arrives. Artemis Studio takes that mobile groundwork and moves it onto the desktop, aiming to keep the growing pile of prep imagery, notes, and technical data organized in one place from scout through shoot day. It targets professionals […]",
+      "summaryZh": "Chemical Wedding 发布了 Artemis Studio，这是一款 macOS 应用程序，它将广泛使用的 Artemis Director 的 Viewfinder 扩展到桌面规划平台。该应用程序通过 iCloud 在 iPhone 和 Mac 之间同步拍摄计划、图像、元数据和项目信息，现已在 Mac App Store 上架。多年来，导演、电影摄影师和制作团队一直依靠智能手机取景应用程序在相机包到达之前预览镜头、侦察位置和取景镜头。 Artemis Studio 采取了这一点",
+      "url": "https://www.cined.com/artemis-studio-for-mac-chemical-weddings-desktop-companion-to-its-directors-viewfinder-app/",
+      "normalizedUrl": "https://cined.com/artemis-studio-for-mac-chemical-weddings-desktop-companion-to-its-directors-viewfinder-app",
+      "publishedAt": "2026-07-02T09:02:57.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 82,
+      "innovationReasons": [
+        "云端与远程协作",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Artemis Studio for Mac – Chemical Wedding’s Desktop Companion to Its Director’s Viewfinder App",
+          "url": "https://www.cined.com/artemis-studio-for-mac-chemical-weddings-desktop-companion-to-its-directors-viewfinder-app/",
+          "source": "CineD",
+          "publishedAt": "2026-07-02T09:02:57.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/Artemis-Studio-featured.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "b9c794fd08b8430ff7cd4ec88f44f1711173cae8",
+      "title": "Accsoon CineView M7 Series Adds Frame.io Integration – Native Cloud Upload, Automatic Resume, and Upload Task Management",
+      "titleZh": "Accsoon CineView M7 系列新增 Frame.io 集成 – 原生云上传、自动续传和上传任务管理",
+      "summary": "Accsoon has added native Adobe Frame.io integration to its CineView M7 series of smart monitors, becoming, by the company’s account, the first Android-based wireless production monitor platform to build a Frame.io workflow directly into the display itself. The free firmware update brings a full upload task pipeline, automatic resume for unstable networks, and a dedicated upload history, turning the monitor into a more direct bridge between on-set capture and cloud-based review. The CineView M7 series has been one of the more active development stories in the affordable monitor space over the past year, and this update continues a pattern we have seen repeatedly since the range first appeared. Rather than […]",
+      "summaryZh": "Accsoon 已将原生 Adob​​e Frame.io 集成添加到其 CineView M7 系列智能显示器中，据该公司称，成为第一个将 Frame.io 工作流程直接构建到显示器本身的基于 Android 的无线生产显示器平台。免费固件更新带来了完整的上传任务管道、不稳定网络的自动恢复以及专用的上传历史记录，使显示器成为现场捕捉和基于云的审查之间更直接的桥梁。 CineView M7 系列是其中之一",
+      "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
+      "normalizedUrl": "https://cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management",
+      "publishedAt": "2026-07-01T12:05:49.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "云端与远程协作",
+        "模块化工作流",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Accsoon CineView M7 Series Adds Frame.io Integration – Native Cloud Upload, Automatic Resume, and Upload Task Management",
+          "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
+          "source": "CineD",
+          "publishedAt": "2026-07-01T12:05:49.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T01:27:33.890Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/Accsoon-CineView-M7-Frame.io5_.jpeg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "8b7163115b1108bdef5948891f35ecbb62e7a627",
+      "title": "Sony Releases IMX785 Samples: A 5MP STARVIS 2 Sensor With a Cinema-Friendly Pixel Philosophy",
+      "titleZh": "索尼发布 IMX785 样品：具有影院友好像素理念的 5MP STARVIS 2 传感器",
+      "summary": "Sony Semiconductor Solutions has released product samples of the IMX785-AQR1, a Type 1/1.7 STARVIS 2 CMOS image sensor with approximately 5.12 megapixels. On paper, this is not a cinema sensor. Sony clearly defines the application as security cameras. But the interesting part remains the same one we pointed out earlier this year: the IMX785 does not chase resolution. It prioritizes larger pixels, sensitivity, HDR, and clean full-pixel readout. That makes it a security sensor with a surprisingly cinema-friendly pixel philosophy. The IMX785 moves into sample release Back in February, we asked whether Sony had built a cinema-friendly sensor by accident. The post Sony Releases IMX785 Samples: A 5MP STARVIS 2 Sensor With a Cinema-Friendly Pixel Philosophy appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "索尼半导体解决方案公司发布了 IMX785-AQR1 的产品样品，这是一款约 5.12 兆像素的 1/1.7 型 STARVIS 2 CMOS 图像传感器。从理论上讲，这不是电影传感器。索尼明确将该应用定义为安全摄像头。但有趣的部分仍然是我们今年早些时候指出的：IMX785 并不追求分辨率。它优先考虑更大的像素、灵敏度、HDR 和干净的全像素读数。这使得它成为一款具有令人惊讶的电影友好像素的安全传感器",
+      "url": "https://ymcinema.com/2026/06/30/sony-imx785-starvis-2-samples/",
+      "normalizedUrl": "https://ymcinema.com/2026/06/30/sony-imx785-starvis-2-samples",
+      "publishedAt": "2026-06-30T09:13:31.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "新型光学与传感"
+      ],
+      "references": [
+        {
+          "title": "Sony Releases IMX785 Samples: A 5MP STARVIS 2 Sensor With a Cinema-Friendly Pixel Philosophy",
+          "url": "https://ymcinema.com/2026/06/30/sony-imx785-starvis-2-samples/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-06-30T09:13:31.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/06/Sony-Releases-IMX785-Samples-A-5MP-STARVIS-2-Sensor-With-a-Cinema-Friendly-Pixel-Philosophy.001.webp",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "3ac1622aa2e9447eb3e200c6ffd53bf475d3c407",
+      "title": "DJI gives tiny FPV drones a much bigger view",
+      "titleZh": "DJI 大疆创新为微型 FPV 无人机提供了更大的视野",
+      "summary": "Sometimes, a wider view can make a bigger difference than a better camera. That’s the thinking behind DJI’s latest addition to its FPV lineup. The company has introduced the DJI O4 Wide Air Unit, an ultra-wide version of the O4 Air Unit that swaps the standard camera lens for a much broader 159-degree field of view. Everything else that made the original appealing, including its lightweight design, 4K recording, and low-latency digital video transmission, largely stays the same.",
+      "summaryZh": "有时，更广阔的视野比更好的相机能产生更大的影响。这就是大疆创新 FPV 系列最新产品背后的想法。该公司推出了 DJI O4 Wide Air Unit，这是 O4 Air Unit 的超广角版本，它取代了标准相机镜头，具有更广阔的 159 度视野。原版吸引人的其他一切，包括轻量级设计、4K 录制和低延迟数字视频传输，基本上保持不变。",
+      "url": "https://dronedj.com/2026/06/29/dji-air-unit-wide-fpv/",
+      "normalizedUrl": "https://dronedj.com/2026/06/29/dji-air-unit-wide-fpv",
+      "publishedAt": "2026-06-30T05:34:00.000Z",
+      "source": {
+        "id": "dronedj",
+        "name": "DroneDJ",
+        "category": "无人机/运动影像",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 90,
+      "innovationReasons": [
+        "新视角采集",
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "DJI gives tiny FPV drones a much bigger view",
+          "url": "https://dronedj.com/2026/06/29/dji-air-unit-wide-fpv/",
+          "source": "DroneDJ",
+          "publishedAt": "2026-06-30T05:34:00.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://i0.wp.com/dronedj.com/wp-content/uploads/sites/2/2026/06/dji-o4-wide-air-unit-fpv-drone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "6525e9a8a6c71624d5b38c3ce0aed16f0ca7c086",
+      "title": "Godox is launching its first camera with a transparent viewfinder: the C100",
+      "titleZh": "神牛推出首款透明取景相机：C100",
+      "summary": "Godox released its digital camera, the C100, with a transparent viewfinder. The C100 is a plastic frame that helps the photographer gauge the approximate shooting area. Godox describes the device as a metering aid for film photography. Additional information: High-transparency intelligent display (screen size ≈ 60.8 × 47.8 mm) with >50% light transmittance. Dimensions: ≈ […] The post Godox is launching its first camera with a transparent viewfinder: the C100 appeared first on Photo Rumors . Related posts: New Godox iT32 iFlash and X5 TTL wireless flash trigger announced (C/N/S/F/O) More Sigma 200mm f/2 DG OS Sports lens leaks: full specifications and more pictures (€3,500!) New Godox V1mid on-camera flash announced (C/N/S/F/O)",
+      "summaryZh": "神牛发布了带有透明取景器的数码相机C100。 C100 是一个塑料框架，可帮助摄影师测量大致的拍摄区域。 Godox将该设备描述为胶片摄影的测光辅助工具。附加信息：高透明智能显示屏（屏幕尺寸约60.8×47.8毫米），透光率>50%。尺寸： ≈ […] 神牛即将推出首款带有透明取景器的相机：C100 首先出现在 Photo Rumors 上。相关文章：新神牛",
+      "url": "https://photorumors.com/2026/06/29/godox-is-launching-its-first-camera-with-transparent-viewfinder-the-c100/",
+      "normalizedUrl": "https://photorumors.com/2026/06/29/godox-is-launching-its-first-camera-with-transparent-viewfinder-the-c100",
+      "publishedAt": "2026-06-29T16:53:47.000Z",
+      "source": {
+        "id": "photo-rumors",
+        "name": "Photo Rumors",
+        "category": "品牌爆料",
+        "priority": "P2",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已发布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 92,
+      "innovationReasons": [
+        "云端与远程协作",
+        "新型光学与传感",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Godox is launching its first camera with a transparent viewfinder: the C100",
+          "url": "https://photorumors.com/2026/06/29/godox-is-launching-its-first-camera-with-transparent-viewfinder-the-c100/",
+          "source": "Photo Rumors",
+          "publishedAt": "2026-06-29T16:53:47.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-10T01:27:33.890Z",
+      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "imageUrl": "https://photorumors.com/wp-content/uploads/2026/06/Godox-C100-camera-13.jpg",
+      "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    }
+  ]
+}

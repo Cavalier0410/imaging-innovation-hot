@@ -1,0 +1,403 @@
+{
+  "name": "Smart Hardware RSS Sources",
+  "description": "Seed RSS source list for a lightweight AIHOT-style smart hardware radar.",
+  "verifiedAt": "2026-07-03",
+  "sources": [
+    {
+      "id": "ithome",
+      "name": "IT之家",
+      "category": "中文科技/硬件",
+      "priority": "P0",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.ithome.com/rss/"
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "category": "中文科技/硬件",
+      "priority": "P0",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.ifanr.com/feed"
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "category": "中文科技/硬件",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://sspai.com/feed"
+    },
+    {
+      "id": "tmtpost",
+      "name": "钛媒体",
+      "category": "中文科技/硬件",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.tmtpost.com/feed"
+    },
+    {
+      "id": "36kr",
+      "name": "36氪",
+      "category": "中文科技/硬件",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.36kr.com/feed"
+    },
+    {
+      "id": "feng",
+      "name": "威锋网",
+      "category": "中文科技/硬件",
+      "priority": "P1",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://www.feng.com/rss.xml"
+    },
+    {
+      "id": "mydrivers",
+      "name": "快科技 / 驱动之家",
+      "category": "中文科技/硬件",
+      "priority": "P0",
+      "language": "zh-CN",
+      "region": "CN",
+      "feedUrl": "https://rss.mydrivers.com/rss.aspx"
+    },
+    {
+      "id": "technews-tw",
+      "name": "TechNews 科技新报",
+      "category": "中文科技/硬件",
+      "priority": "P1",
+      "language": "zh-TW",
+      "region": "TW",
+      "feedUrl": "https://technews.tw/feed/"
+    },
+    {
+      "id": "inside",
+      "name": "INSIDE",
+      "category": "中文科技/硬件",
+      "priority": "P2",
+      "language": "zh-TW",
+      "region": "TW",
+      "feedUrl": "https://www.inside.com.tw/feed/rss"
+    },
+    {
+      "id": "the-verge",
+      "name": "The Verge",
+      "category": "消费电子",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "id": "engadget",
+      "name": "Engadget",
+      "category": "消费电子",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "id": "techcrunch-hardware",
+      "name": "TechCrunch Hardware",
+      "category": "消费电子",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://techcrunch.com/category/hardware/feed/"
+    },
+    {
+      "id": "wired-gear",
+      "name": "WIRED Gear",
+      "category": "消费电子",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.wired.com/feed/category/gear/latest/rss"
+    },
+    {
+      "id": "cnet-news",
+      "name": "CNET News",
+      "category": "消费电子",
+      "priority": "P2",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.cnet.com/rss/news/"
+    },
+    {
+      "id": "ars-gadgets",
+      "name": "Ars Technica Gadgets",
+      "category": "消费电子",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/gadgets"
+    },
+    {
+      "id": "toms-hardware",
+      "name": "Tom's Hardware",
+      "category": "硬件评测",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.tomshardware.com/feeds/all"
+    },
+    {
+      "id": "liliputing",
+      "name": "Liliputing",
+      "category": "硬件评测",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://liliputing.com/feed/"
+    },
+    {
+      "id": "cnx-software",
+      "name": "CNX Software",
+      "category": "嵌入式硬件",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.cnx-software.com/feed/"
+    },
+    {
+      "id": "home-assistant",
+      "name": "Home Assistant",
+      "category": "智能家居",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://home-assistant.io/atom.xml"
+    },
+    {
+      "id": "stacey-on-iot",
+      "name": "Stacey on IoT",
+      "category": "智能家居",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://staceyoniot.com/feed/"
+    },
+    {
+      "id": "automated-home",
+      "name": "Automated Home",
+      "category": "智能家居",
+      "priority": "P1",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.automatedhome.co.uk/feed"
+    },
+    {
+      "id": "the-ambient",
+      "name": "The Ambient",
+      "category": "智能家居",
+      "priority": "P2",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.the-ambient.com/feed"
+    },
+    {
+      "id": "homekit-authority",
+      "name": "HomeKit Authority",
+      "category": "智能家居",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://homekitauthority.com/feed/"
+    },
+    {
+      "id": "robotics-automation-news",
+      "name": "Robotics & Automation News",
+      "category": "机器人/无人机",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://roboticsandautomationnews.com/feed/"
+    },
+    {
+      "id": "dronedj",
+      "name": "DroneDJ",
+      "category": "机器人/无人机",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://dronedj.com/feed/"
+    },
+    {
+      "id": "suas-news",
+      "name": "sUAS News",
+      "category": "机器人/无人机",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.suasnews.com/feed/"
+    },
+    {
+      "id": "techxplore-robotics",
+      "name": "Tech Xplore Robotics",
+      "category": "机器人/研究",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://techxplore.com/rss-feed/robotics-news/"
+    },
+    {
+      "id": "hackaday",
+      "name": "Hackaday",
+      "category": "Maker/开发板",
+      "priority": "P0",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://hackaday.com/blog/feed/"
+    },
+    {
+      "id": "hackster",
+      "name": "Hackster News",
+      "category": "Maker/开发板",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.hackster.io/news.atom"
+    },
+    {
+      "id": "adafruit",
+      "name": "Adafruit Blog",
+      "category": "Maker/开发板",
+      "priority": "P2",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://blog.adafruit.com/feed/"
+    },
+    {
+      "id": "raspberry-pi",
+      "name": "Raspberry Pi",
+      "category": "Maker/开发板",
+      "priority": "P1",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.raspberrypi.com/news/feed/"
+    },
+    {
+      "id": "arduino",
+      "name": "Arduino Blog",
+      "category": "Maker/开发板",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://blog.arduino.cc/feed/"
+    },
+    {
+      "id": "make",
+      "name": "Make Magazine",
+      "category": "Maker/开发板",
+      "priority": "P2",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://makezine.com/feed/"
+    },
+    {
+      "id": "ee-times",
+      "name": "EE Times",
+      "category": "芯片/嵌入式",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.eetimes.com/feed/"
+    },
+    {
+      "id": "embedded",
+      "name": "Embedded.com",
+      "category": "芯片/嵌入式",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.embedded.com/feed/"
+    },
+    {
+      "id": "semiconductor-engineering",
+      "name": "Semiconductor Engineering",
+      "category": "芯片/嵌入式",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://semiengineering.com/feed/"
+    },
+    {
+      "id": "electronics-weekly",
+      "name": "Electronics Weekly",
+      "category": "芯片/嵌入式",
+      "priority": "P1",
+      "language": "en",
+      "region": "UK",
+      "feedUrl": "https://www.electronicsweekly.com/feed/"
+    },
+    {
+      "id": "edn",
+      "name": "EDN",
+      "category": "芯片/嵌入式",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.edn.com/feed/"
+    },
+    {
+      "id": "edge-ai-vision",
+      "name": "Edge AI and Vision",
+      "category": "边缘 AI 硬件",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.edge-ai-vision.com/feed/"
+    },
+    {
+      "id": "apple-newsroom",
+      "name": "Apple Newsroom",
+      "category": "官方生态",
+      "priority": "P0",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://www.apple.com/newsroom/rss-feed.rss"
+    },
+    {
+      "id": "samsung-newsroom",
+      "name": "Samsung Newsroom Global",
+      "category": "官方生态",
+      "priority": "P0",
+      "language": "en",
+      "region": "KR",
+      "feedUrl": "https://news.samsung.com/global/feed"
+    },
+    {
+      "id": "google-blog",
+      "name": "Google Blog",
+      "category": "官方生态",
+      "priority": "P1",
+      "language": "en",
+      "region": "US",
+      "feedUrl": "https://blog.google/rss/"
+    },
+    {
+      "id": "espressif-developer",
+      "name": "Espressif Developer Blog",
+      "category": "官方生态",
+      "priority": "P0",
+      "language": "en",
+      "region": "CN",
+      "feedUrl": "https://developer.espressif.com/blog/index.xml"
+    },
+    {
+      "id": "product-hunt",
+      "name": "Product Hunt",
+      "category": "新产品发现",
+      "priority": "P2",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://www.producthunt.com/feed"
+    }
+  ]
+}
