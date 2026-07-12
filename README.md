@@ -91,3 +91,16 @@ npm run use             # 完整执行全部步骤
 3. 项目合并：只有通过严格创新筛选的内容才能创建项目，低分报道只能补充到已有项目。
 
 项目生成后是普通静态文件，可以部署到 GitHub Pages、Cloudflare Pages、Vercel、Netlify 或任意对象存储。
+
+## 在线部署
+
+站点通过 GitHub Actions 每小时更新并发布到 GitHub Pages：
+
+- 产品库首页：`https://camera.lts4ai.com/`
+- Hot 报告：`https://camera.lts4ai.com/hot.html`
+- 自动更新：每小时第 17 分钟执行
+- 手动更新：在仓库 Actions 页面运行 `Refresh and deploy Pages`
+
+工作流执行现有的 `npm run use`，再将两个 HTML 页面打包为 Pages artifact；生成结果不会每小时提交回仓库。
+
+翻译密钥可配置为 GitHub Actions repository secrets：`OPENAI_API_KEY`、`DEEPSEEK_API_KEY`、`SILICONFLOW_API_KEY` 或 `DASHSCOPE_API_KEY`。未配置时继续使用项目现有的免费翻译回退。
