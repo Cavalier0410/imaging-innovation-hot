@@ -1,26 +1,63 @@
 {
-  "generatedAt": "2026-07-10T03:57:32.190Z",
-  "sourceGeneratedAt": "2026-07-10T01:29:08.522Z",
+  "generatedAt": "2026-07-12T16:04:09.248Z",
+  "sourceGeneratedAt": "2026-07-12T16:03:56.780Z",
   "criteriaVersion": 1,
   "stats": {
-    "scannedThisRun": 170,
-    "acceptedThisRun": 18,
-    "newThisRun": 0,
-    "projectCount": 25,
+    "scannedThisRun": 154,
+    "acceptedThisRun": 13,
+    "newThisRun": 1,
+    "projectCount": 26,
     "categoryCount": 7,
     "sourceCount": 10,
-    "withImageCount": 20
+    "withImageCount": 21
   },
   "categoryCounts": {
     "专业影像新技术": 7,
+    "创新光学与传感": 5,
     "空间影像与显示": 4,
     "智能相机与机器人": 4,
-    "创新光学与传感": 4,
     "AI 与计算影像": 3,
     "便携与移动创作": 2,
     "运动影像与航拍": 1
   },
   "projects": [
+    {
+      "id": "b26098904a391758a324a1df65ad7c55e028ce4c",
+      "title": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
+      "titleZh": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
+      "summary": "SmallRig has introduced a family of magnetic Split Filter Kits built specifically for the dual-lens DJI Osmo Pocket 4P, using a two-piece design that covers both the wide and telephoto lenses in a single snap-on unit. Three kit configurations are available, spanning fixed ND, adjustable VND, CPL, and 1/4 Black Diffusion, with prices ranging from $45.99 to $49.99 and the ability to stack up to two filters at once. The DJI Osmo Pocket 4P is a slightly different animal from previous Pocket models, and that has direct consequences for accessory makers. As we covered when DJI teased the two-camera pro version, the 4P pairs a 1-inch-type main camera with an added 3x […]",
+      "summaryZh": "SmallRig has introduced a family of magnetic Split Filter Kits built specifically for the dual-lens DJI Osmo Pocket 4P, using a two-piece design that covers both the wide and telephoto lenses in a single snap-on unit. Three kit configurations are available, spanning fixed ND, adjustable VND, CPL, and 1/4 Black Diffusion, with prices ranging from $45.99 to $49.99 and the ability to stack up to two filters at once. The DJI Osmo Pocket 4P is a slightly different animal from previous Pocket models, and that has direct",
+      "url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
+      "normalizedUrl": "https://cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd",
+      "publishedAt": "2026-07-10T08:31:55.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
+          "url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
+          "source": "CineD",
+          "publishedAt": "2026-07-10T08:31:55.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-07-12T16:04:09.248Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/07/SmallRig-Osmo-Pocket-4P-featured.jpg",
+      "imageCheckedAt": "2026-07-12T16:04:09.248Z"
+    },
     {
       "id": "b8e830f696a17ef656f3a4f5558a1a47a51c3d9f",
       "title": "QuadRF: The Open Source RF Camera That Lets You See Wi-Fi Signals",
@@ -56,7 +93,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:29:30.939Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-07-10T01:29:30.939Z"
     },
@@ -100,7 +137,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/5-ultrastudio-express-3g@2x.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -138,7 +175,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/3-new-cirrus-app@2x.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -215,7 +252,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -329,7 +366,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -369,7 +406,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/AulGo-featured.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -521,7 +558,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/KipperTie-LCcineND-featured.jpeg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -558,7 +595,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/2-ALEXA-35-Live-Xtreme-KeyVisual.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -597,7 +634,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/KNOWLED-PL600-RF-and-PL1200-RF.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -636,7 +673,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Even-G2-and-R1-with-HUD.jpeg?resize=1200,675",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -750,7 +787,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/Tilta-Khronos-iPhone-Lenses.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
@@ -939,7 +976,7 @@
         }
       ],
       "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T03:57:32.190Z",
+      "lastSeenAt": "2026-07-12T16:04:09.248Z",
       "imageUrl": "https://i0.wp.com/dronedj.com/wp-content/uploads/sites/2/2026/06/dji-o4-wide-air-unit-fpv-drone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
     },
