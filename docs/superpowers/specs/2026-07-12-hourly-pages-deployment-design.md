@@ -54,6 +54,7 @@ If none is configured, the current translation fallback remains in effect.
 ## Failure handling
 
 - Individual RSS failures keep the existing behavior: report source warnings and continue when usable items were fetched.
+- If the free translation endpoint is unreachable, keep uncached source text for that run and retry translation on a later run instead of blocking publication.
 - A generation, validation, artifact upload, or deployment failure stops the workflow and leaves the previously deployed site online.
 - A manual run provides the recovery path after transient feed or platform failures.
 - The workflow does not commit generated files, so a failed run cannot corrupt repository history.

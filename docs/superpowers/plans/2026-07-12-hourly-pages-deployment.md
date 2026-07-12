@@ -238,6 +238,107 @@ git add .github/workflows/pages.yml test/pages-workflow.test.mjs
 git commit -m "ci: refresh and deploy Pages hourly"
 ```
 
+### Task 2.5: Keep publication running when free translation is unreachable
+
+**Files:**
+- Create: `test-support/failing-fetch.mjs`
+- Create: `test/translate-items.test.mjs`
+- Modify: `scripts/translate-items.mjs`
+
+- [ ] **Step 1: Add an integration test that injects a failed network request**
+
+The test runs the real translation script against temporary input, requires a successful exit, verifies the original title is retained, and verifies the untranslated source is not persisted in `translation-cache.json`.
+
+Use this fetch fixture:
+
+```js
+globalThis.fetch = async () => {
+  throw new TypeError("simulated translation network failure");
+};
+```
+
+Use this integration test:
+
+```js
+import assert from "node:assert/strict";
+import { mkdtemp, mkdir, readFile, writeFile } from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import { spawnSync } from "node:child_process";
+import test from "node:test";
+import { fileURLToPath } from "node:url";
+
+const scriptPath = fileURLToPath(new URL("../scripts/translate-items.mjs", import.meta.url));
+const failingFetchUrl = new URL("../test-support/failing-fetch.mjs", import.meta.url);
+
+test("keeps source text without caching it when free translation is unavailable", async () => {
+  const root = await mkdtemp(path.join(os.tmpdir(), "imaging-translation-"));
+  const dataDir = path.join(root, "data");
+  await mkdir(dataDir);
+  await writeFile(
+    path.join(dataDir, "items.selected.json"),
+    JSON.stringify({ generatedAt: null, items: [{ title: "Camera title", summary: "" }] })
+  );
+  await writeFile(path.join(dataDir, "hot-topics.json"), JSON.stringify({ generatedAt: null, items: [] }));
+  await writeFile(path.join(dataDir, "translation-cache.json"), "{}");
+
+  const result = spawnSync(process.execPath, ["--import", failingFetchUrl.href, scriptPath], {
+    cwd: root,
+    encoding: "utf8",
+    env: { ...process.env, TRANSLATE_CONCURRENCY: "1" }
+  });
+
+  assert.equal(result.status, 0, result.stderr);
+  assert.match(result.stderr, /keeping source text/i);
+  const translated = JSON.parse(await readFile(path.join(dataDir, "items.selected.zh.json"), "utf8"));
+  assert.equal(translated.items[0].titleZh, "Camera title");
+  assert.deepEqual(JSON.parse(await readFile(path.join(dataDir, "translation-cache.json"), "utf8")), {});
+});
+```
+
+- [ ] **Step 2: Run the focused test and confirm the network failure exits nonzero**
+
+Run: `node --test test/translate-items.test.mjs`
+
+Expected: FAIL because the rejected Google request currently escapes `translateText`.
+
+- [ ] **Step 3: Make Google translation fail soft for the current run**
+
+Wrap the Google request in `translateText` with a run-level availability flag. On the first rejection, log a warning, stop further Google requests during that process, return the source value, and do not add that source value to the translation cache.
+
+```js
+let googleTranslationAvailable = true;
+
+if (!translated && googleTranslationAvailable) {
+  try {
+    translated = await translateByGoogle(value);
+  } catch (error) {
+    googleTranslationAvailable = false;
+    console.warn(`Google translation failed, keeping source text for this run: ${error.message}`);
+  }
+}
+
+if (translated) {
+  cache[key] = translated;
+  return translated;
+}
+
+return value;
+```
+
+- [ ] **Step 4: Run focused and full tests**
+
+Run: `node --test test/translate-items.test.mjs && npm test`
+
+Expected: the focused test passes and the full suite reports four passing tests.
+
+- [ ] **Step 5: Commit the reliability fix**
+
+```bash
+git add scripts/translate-items.mjs test-support/failing-fetch.mjs test/translate-items.test.mjs docs/superpowers/specs/2026-07-12-hourly-pages-deployment-design.md docs/superpowers/plans/2026-07-12-hourly-pages-deployment.md
+git commit -m "fix: keep updates running when translation is unavailable"
+```
+
 ### Task 3: Document operation and run final verification
 
 **Files:**

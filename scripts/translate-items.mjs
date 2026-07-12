@@ -10,6 +10,7 @@ const selectedZhPath = path.join(dataDir, "items.selected.zh.json");
 const topicsZhPath = path.join(dataDir, "hot-topics.zh.json");
 const concurrency = Number(process.env.TRANSLATE_CONCURRENCY || 3);
 const maxSummaryLength = Number(process.env.TRANSLATE_SUMMARY_CHARS || 520);
+let googleTranslationAvailable = true;
 
 function sha1(value) {
   return crypto.createHash("sha1").update(value).digest("hex");
@@ -122,12 +123,21 @@ async function translateText(text, cache) {
     console.warn(`Model translation failed, falling back: ${error.message}`);
   }
 
-  if (!translated) {
-    translated = await translateByGoogle(value);
+  if (!translated && googleTranslationAvailable) {
+    try {
+      translated = await translateByGoogle(value);
+    } catch (error) {
+      googleTranslationAvailable = false;
+      console.warn(`Google translation failed, keeping source text for this run: ${error.message}`);
+    }
   }
 
-  cache[key] = translated || value;
-  return cache[key];
+  if (translated) {
+    cache[key] = translated;
+    return translated;
+  }
+
+  return value;
 }
 
 async function mapLimit(values, limit, mapper) {
