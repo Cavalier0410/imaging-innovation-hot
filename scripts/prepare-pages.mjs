@@ -7,6 +7,10 @@ export async function preparePages({ dataDir, outputDir }) {
   await mkdir(outputDir, { recursive: true });
   await copyFile(path.join(dataDir, "innovation-product-library.html"), path.join(outputDir, "index.html"));
   await copyFile(path.join(dataDir, "imaging-hot-report.html"), path.join(outputDir, "hot.html"));
+  await copyFile(
+    path.join(dataDir, "imaging-hot-report.html"),
+    path.join(outputDir, "imaging-hot-report.html")
+  );
   await writeFile(path.join(outputDir, ".nojekyll"), "");
 }
 

@@ -17,6 +17,7 @@ test("maps the product library to index and the Hot report to hot.html", async (
 
   assert.equal(await readFile(path.join(outputDir, "index.html"), "utf8"), "<title>Library</title>");
   assert.equal(await readFile(path.join(outputDir, "hot.html"), "utf8"), "<title>Hot</title>");
+  assert.equal(await readFile(path.join(outputDir, "imaging-hot-report.html"), "utf8"), "<title>Hot</title>");
   assert.equal(await readFile(path.join(outputDir, ".nojekyll"), "utf8"), "");
 });
 
