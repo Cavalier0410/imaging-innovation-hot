@@ -11,6 +11,7 @@ test("workflow schedules hourly content generation and Pages deployment", async 
   assert.match(workflow, /npm ci/);
   assert.match(workflow, /npm run use/);
   assert.match(workflow, /npm run pages:prepare/);
+  assert.match(workflow, /actions\/configure-pages@v5[\s\S]*?with:\s*\n\s+enablement: true/);
   assert.match(workflow, /actions\/upload-pages-artifact@v3/);
   assert.match(workflow, /actions\/deploy-pages@v4/);
   assert.match(workflow, /pages: write/);
