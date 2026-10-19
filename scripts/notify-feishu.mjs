@@ -104,9 +104,17 @@ try {
   process.exit(0);
 }
 
+const runStamp = data.generatedAt;
 const cutoff = Date.now() - windowMinutes * 60 * 1000;
+const isFresh = (project) => {
+  if (!project.firstSeenAt) return false;
+  // 同一次构建中新建的项目，firstSeenAt 与 generatedAt 完全相等；
+  // 用等值判断可以避免小时级窗口把同一批项目重复推送。
+  if (runStamp) return project.firstSeenAt === runStamp;
+  return new Date(project.firstSeenAt).getTime() >= cutoff;
+};
 const fresh = (data.projects || [])
-  .filter((project) => project.firstSeenAt && new Date(project.firstSeenAt).getTime() >= cutoff)
+  .filter(isFresh)
   .filter((project) => Number(project.innovationScore || 0) >= minScore)
   .sort((a, b) => Number(b.innovationScore || 0) - Number(a.innovationScore || 0));
 
