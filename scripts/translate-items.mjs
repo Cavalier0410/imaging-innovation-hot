@@ -10,7 +10,11 @@ const selectedZhPath = path.join(dataDir, "items.selected.zh.json");
 const topicsZhPath = path.join(dataDir, "hot-topics.zh.json");
 const concurrency = Number(process.env.TRANSLATE_CONCURRENCY || 3);
 const maxSummaryLength = Number(process.env.TRANSLATE_SUMMARY_CHARS || 520);
+const googleFailureLimit = Number(process.env.TRANSLATE_GOOGLE_FAILURE_LIMIT || 5);
 let googleTranslationAvailable = true;
+let googleConsecutiveFailures = 0;
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function sha1(value) {
   return crypto.createHash("sha1").update(value).digest("hex");
@@ -46,7 +50,7 @@ async function saveCache(cache) {
   await fs.writeFile(cachePath, JSON.stringify(cache, null, 2), "utf8");
 }
 
-async function translateByGoogle(text) {
+async function requestGoogleTranslation(text) {
   const url = new URL("https://translate.googleapis.com/translate_a/single");
   url.searchParams.set("client", "gtx");
   url.searchParams.set("sl", "auto");
@@ -66,6 +70,30 @@ async function translateByGoogle(text) {
 
   const payload = await response.json();
   return clean((payload?.[0] || []).map((part) => part?.[0] || "").join(""));
+}
+
+async function translateByGoogle(text) {
+  let lastError = null;
+
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    try {
+      const translated = await requestGoogleTranslation(text);
+      googleConsecutiveFailures = 0;
+      return translated;
+    } catch (error) {
+      lastError = error;
+      const retryable = /HTTP (429|5\d\d)/.test(error.message);
+      if (!retryable || attempt === 1) break;
+      await sleep(1200 + attempt * 1800);
+    }
+  }
+
+  googleConsecutiveFailures += 1;
+  if (googleConsecutiveFailures >= googleFailureLimit) {
+    googleTranslationAvailable = false;
+  }
+
+  throw lastError;
 }
 
 async function translateByOpenAI(text) {
@@ -127,8 +155,11 @@ async function translateText(text, cache) {
     try {
       translated = await translateByGoogle(value);
     } catch (error) {
-      googleTranslationAvailable = false;
-      console.warn(`Google translation failed, keeping source text for this run: ${error.message}`);
+      if (googleTranslationAvailable) {
+        console.warn(`Google translation failed, keeping source text: ${error.message}`);
+      } else {
+        console.warn(`Google translation disabled for this run after repeated failures: ${error.message}`);
+      }
     }
   }
 

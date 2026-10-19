@@ -26,6 +26,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -39,6 +40,15 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Restore persistent data
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/innovation-projects.json
+            data/translation-cache.json
+          key: radar-data-${{ github.run_id }}
+          restore-keys: |
+            radar-data-
       - name: Refresh reports
         run: npm run use
         env:
