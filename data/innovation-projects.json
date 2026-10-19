@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-12T16:04:09.248Z",
+  "generatedAt": "2026-09-11T16:35:39.527Z",
   "sourceGeneratedAt": "2026-07-12T16:03:56.780Z",
   "criteriaVersion": 1,
   "stats": {
     "scannedThisRun": 154,
     "acceptedThisRun": 13,
     "newThisRun": 1,
-    "projectCount": 26,
+    "projectCount": 35,
     "categoryCount": 7,
-    "sourceCount": 10,
-    "withImageCount": 21
+    "sourceCount": 12,
+    "withImageCount": 30
   },
   "categoryCounts": {
-    "专业影像新技术": 7,
-    "创新光学与传感": 5,
-    "空间影像与显示": 4,
+    "专业影像新技术": 12,
+    "创新光学与传感": 6,
+    "空间影像与显示": 5,
     "智能相机与机器人": 4,
     "AI 与计算影像": 3,
-    "便携与移动创作": 2,
-    "运动影像与航拍": 1
+    "便携与移动创作": 3,
+    "运动影像与航拍": 2
   },
   "projects": [
     {
@@ -1018,6 +1018,358 @@
       "lastSeenAt": "2026-07-10T03:57:32.190Z",
       "imageUrl": "https://photorumors.com/wp-content/uploads/2026/06/Godox-C100-camera-13.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z"
+    },
+    {
+      "id": "038058f07d927495e130500285c4af653f93bb43",
+      "title": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
+      "titleZh": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
+      "summary": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One Most pocket gimbal cameras chase versatility by piling on extra lenses, extra zoom ranges, extra everything. The Insta360 Luna Pro takes the opposite approach, stripping...",
+      "summaryZh": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One Most pocket gimbal cameras chase versatility by piling on extra lenses, extra zoom ranges, extra everything. The Insta360 Luna Pro takes the opposite approach, stripping...",
+      "url": "https://www.yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/",
+      "normalizedUrl": "https://yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one",
+      "publishedAt": "2026-09-11T09:15:08.000Z",
+      "source": {
+        "id": "yanko-design",
+        "name": "Yanko Design",
+        "category": "新兴产品/设计",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "便携与移动创作",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "便携形态",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
+          "url": "https://www.yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/",
+          "source": "Yanko Design",
+          "publishedAt": "2026-09-11T09:15:08.000Z"
+        },
+        {
+          "title": "Insta360’s Luna Pro Goes Global and Has Most of the Ultra’s Features",
+          "url": "https://petapixel.com/2026/09/10/insta360s-luna-pro-goes-global-and-has-most-of-the-ultras-features/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-09-10T13:52:52.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/09/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/insta360-luna-pro-13.jpg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "4154acd7504640f2cdbeaef75a9e29445910b770",
+      "title": "Atomos ATOMOSphere Integrates with ShotPut Studio",
+      "titleZh": "Atomos ATOMOSphere Integrates with ShotPut Studio",
+      "summary": "Atomos ATOMOSphere now features an integration with ShotPut Studio to help automate cloud media workflows. The new integration sends camera originals and proxies directly to ATOMOSphere while adding certified Apple ProRes RAW decoding. This integration was designed to give production teams a faster, more automated way to transfer, transcode, and organize media. If you are … Continued The post Atomos ATOMOSphere Integrates with ShotPut Studio appeared first on Newsshooter .",
+      "summaryZh": "Atomos ATOMOSphere now features an integration with ShotPut Studio to help automate cloud media workflows. The new integration sends camera originals and proxies directly to ATOMOSphere while adding certified Apple ProRes RAW decoding. This integration was designed to give production teams a faster, more automated way to transfer, transcode, and organize media. If you are … Continued The post Atomos ATOMOSphere Integrates with ShotPut Studio appeared first on Newsshooter .",
+      "url": "https://www.newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio/",
+      "normalizedUrl": "https://newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio",
+      "publishedAt": "2026-09-11T07:04:51.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 92,
+      "innovationReasons": [
+        "自动化拍摄",
+        "云端与远程协作",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Atomos ATOMOSphere Integrates with ShotPut Studio",
+          "url": "https://www.newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-09-11T07:04:51.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/ShotPut-740x416.jpg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "1f45a3c0e0c69b7ee83387d4ce983c40f2eb70bb",
+      "title": "Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors",
+      "titleZh": "Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors",
+      "summary": "Flanders Scientific and Pomfort are bringing four-camera live grading to XMP series monitors. Pomfort Livegrade 7.2 adds four simultaneous LUT channels for streamlined multi-camera grading, quad-view monitoring, and independent processed outputs. The integration combines Livegrade’s look-management tools with the four SDI inputs and built-in image processing of XMP Series monitors. Each camera can be assigned … Continued The post Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors appeared first on Newsshooter .",
+      "summaryZh": "Flanders Scientific and Pomfort are bringing four-camera live grading to XMP series monitors. Pomfort Livegrade 7.2 adds four simultaneous LUT channels for streamlined multi-camera grading, quad-view monitoring, and independent processed outputs. The integration combines Livegrade’s look-management tools with the four SDI inputs and built-in image processing of XMP Series monitors. Each camera can be assigned … Continued The post Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors ap",
+      "url": "https://www.newsshooter.com/2026/09/11/flanders-scientific-pomfort-bring-four-camera-live-grading-to-xmp-series-monitors/",
+      "normalizedUrl": "https://newsshooter.com/2026/09/11/flanders-scientific-pomfort-bring-four-camera-live-grading-to-xmp-series-monitors",
+      "publishedAt": "2026-09-11T07:04:30.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 73,
+      "innovationReasons": [
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors",
+          "url": "https://www.newsshooter.com/2026/09/11/flanders-scientific-pomfort-bring-four-camera-live-grading-to-xmp-series-monitors/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-09-11T07:04:30.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/XMP-Series.png",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "a06054328a887d4ecd32f80ce9f43e25079b0191",
+      "title": "BleeqUp’s Rover Smart Glasses Tilt Their Camera for Better Cycling Footage",
+      "titleZh": "BleeqUp’s Rover Smart Glasses Tilt Their Camera for Better Cycling Footage",
+      "summary": "Helmet- and glasses-mounted cameras usually have one fixed view, even though a cyclist’s head position changes with the bike, terrain, and riding posture. BleeqUp’s new Rover sports glasses address that problem with a camera that physically tilts to three positions. That small mechanical choice may be more useful than the long list of AI features […]",
+      "summaryZh": "Helmet- and glasses-mounted cameras usually have one fixed view, even though a cyclist’s head position changes with the bike, terrain, and riding posture. BleeqUp’s new Rover sports glasses address that problem with a camera that physically tilts to three positions. That small mechanical choice may be more useful than the long list of AI features […]",
+      "url": "https://the-gadgeteer.com/2026/09/10/bleequp-rover-ai-sports-glasses-adjustable-camera-cycling/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/09/10/bleequp-rover-ai-sports-glasses-adjustable-camera-cycling",
+      "publishedAt": "2026-09-10T15:00:10.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 84,
+      "innovationReasons": [
+        "AI 影像",
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "BleeqUp’s Rover Smart Glasses Tilt Their Camera for Better Cycling Footage",
+          "url": "https://the-gadgeteer.com/2026/09/10/bleequp-rover-ai-sports-glasses-adjustable-camera-cycling/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-09-10T15:00:10.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/09/BleeqUp-Rover-AI-Sports-Glasses-1280x712.jpg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "4c2a453e135613ceb836e3f53e337c3430c90733",
+      "title": "Z CAM Unveils E1N: Tiny 1-Inch 4K 60p NDI Camera With MFT Mount",
+      "titleZh": "Z CAM Unveils E1N: Tiny 1-Inch 4K 60p NDI Camera With MFT Mount",
+      "summary": "Z CAM has unveiled the E1N, an extremely compact network camera built around a 1-inch CMOS sensor, capable of 4K at up to 60 frames per second with 10-bit color. The camera also incorporates an interchangeable Micro Four Thirds lens mount, NDI HX3, PoE+, and Z CAM’s EzLink multicamera synchronization technology. The company is presenting the E1N at IBC 2026 under the simple slogan “When Size Matters.” And in Z CAM’s case, that statement carries some history. The E1N is not another traditional cinema camera. Instead, it appears designed for applications where physical size, remote operation, IP connectivity, and flexible The post Z CAM Unveils E1N: Tiny 1-Inch 4K 60p NDI Camera With MFT Mount appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "Z CAM has unveiled the E1N, an extremely compact network camera built around a 1-inch CMOS sensor, capable of 4K at up to 60 frames per second with 10-bit color. The camera also incorporates an interchangeable Micro Four Thirds lens mount, NDI HX3, PoE+, and Z CAM’s EzLink multicamera synchronization technology. The company is presenting the E1N at IBC 2026 under the simple slogan “When Size Matters.” And in Z CAM’s case, that statement carries some history. The E1N is not another traditional cinema camera. Instead",
+      "url": "https://ymcinema.com/2026/09/10/z-cam-e1n-1-inch-4k-60p-ndi-mft/",
+      "normalizedUrl": "https://ymcinema.com/2026/09/10/z-cam-e1n-1-inch-4k-60p-ndi-mft",
+      "publishedAt": "2026-09-10T14:28:29.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "Z CAM Unveils E1N: Tiny 1-Inch 4K 60p NDI Camera With MFT Mount",
+          "url": "https://ymcinema.com/2026/09/10/z-cam-e1n-1-inch-4k-60p-ndi-mft/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-09-10T14:28:29.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/09/Z-CAM-Unveils-E1N-Tiny-1-Inch-4K-60p-NDI-Camera-With-MFT-Mount.001.webp",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "6fa696b6caa631f3e2653d91485d5c6d10bd76a5",
+      "title": "Teradek Bolt 7 Introduced – 6GHz Zero-Delay Wireless Video, 900MHz Radio for Camera Control, and More",
+      "titleZh": "Teradek Bolt 7 Introduced – 6GHz Zero-Delay Wireless Video, 900MHz Radio for Camera Control, and More",
+      "summary": "Built on the same 6GHz platform as the Bolt 6 for zero-delay wireless video transmission, the new Teradek Bolt 7 features a new, dedicated 900MHz RF channel for data and remote camera control, a larger full-color OLED display, a new direct Wired Pairing mode, USB-C video with select cameras and monitors, and more. Pricing starts at $5,990 for a TX+RX bundle. Four years have gone by since Teradek last updated its industry-leading, zero-delay wireless video system. Launched at IBC 2022, the Bolt 6 was the company’s first model to exploit the low-interference 6GHz band. Now, with IBC 2026 right around the corner, the new Bolt 7 inherits this capability while […]",
+      "summaryZh": "Built on the same 6GHz platform as the Bolt 6 for zero-delay wireless video transmission, the new Teradek Bolt 7 features a new, dedicated 900MHz RF channel for data and remote camera control, a larger full-color OLED display, a new direct Wired Pairing mode, USB-C video with select cameras and monitors, and more. Pricing starts at $5,990 for a TX+RX bundle. Four years have gone by since Teradek last updated its industry-leading, zero-delay wireless video system. Launched at IBC 2022, the Bolt 6 was the company’s f",
+      "url": "https://www.cined.com/teradek-bolt-7-introduced-6ghz-zero-delay-wireless-video-900mhz-radio-for-camera-control-and-more/",
+      "normalizedUrl": "https://cined.com/teradek-bolt-7-introduced-6ghz-zero-delay-wireless-video-900mhz-radio-for-camera-control-and-more",
+      "publishedAt": "2026-09-10T13:44:00.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "Teradek Bolt 7 Introduced – 6GHz Zero-Delay Wireless Video, 900MHz Radio for Camera Control, and More",
+          "url": "https://www.cined.com/teradek-bolt-7-introduced-6ghz-zero-delay-wireless-video-900mhz-radio-for-camera-control-and-more/",
+          "source": "CineD",
+          "publishedAt": "2026-09-10T13:44:00.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/09/Teradek-Bolt-7-featured.jpeg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "351e50cc382f051037e3fd8ebad391de4d0f8c9f",
+      "title": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
+      "titleZh": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
+      "summary": "Not only has Tilta just released a custom-fit cage for the new Hollyland Pyro 7 Ultra wireless transceiver monitor, but it has also demonstrated how this new device can integrate with its existing Nucleus-M II ecosystem, offering an all-in-one solution for focus pullers. Just a few days ago, Hollyland released the Pyro 7 Ultra, a 7-inch wireless transceiver screen that can act as a director’s, on-camera, or even focus-pulling monitor. Built on the success of the original Pyro 7, this upgraded version brings a brighter display, a wider color gamut, Calman calibration, lower latency, a redesigned operating system, and more. Now, Tilta is coming up with a dedicated cage that […]",
+      "summaryZh": "Not only has Tilta just released a custom-fit cage for the new Hollyland Pyro 7 Ultra wireless transceiver monitor, but it has also demonstrated how this new device can integrate with its existing Nucleus-M II ecosystem, offering an all-in-one solution for focus pullers. Just a few days ago, Hollyland released the Pyro 7 Ultra, a 7-inch wireless transceiver screen that can act as a director’s, on-camera, or even focus-pulling monitor. Built on the success of the original Pyro 7, this upgraded version brings a brigh",
+      "url": "https://www.cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated/",
+      "normalizedUrl": "https://cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated",
+      "publishedAt": "2026-09-10T09:20:32.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 86,
+      "innovationReasons": [
+        "云端与远程协作",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
+          "url": "https://www.cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated/",
+          "source": "CineD",
+          "publishedAt": "2026-09-10T09:20:32.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/09/Tilta-Monitor-Cage-Hollyland-Pyro-7-Ultra-featured.jpeg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "0de92c794bab951181644359fd5457d42becdaa7",
+      "title": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
+      "titleZh": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
+      "summary": "So here it is, DaVinci Resolve 21.1, and it is a much bigger release than the point number suggests. Blackmagic Design has built a native MCP server into the Studio edition so that Claude, Claude Code, and ChatGPT Codex can organize media, cut highlight reels, and batch render on your behalf, added individual trim passes for Dolby Vision, HDR10+ and HDR Vivid, and wired FUJIFILM, Leica, and Sony cameras into the Photo page. It has also quietly moved Python scripting out of the free version, and the reason Blackmagic gives for that is the most interesting paragraph in the whole release notes. Blackmagic counts more than 100 new tools and […]",
+      "summaryZh": "So here it is, DaVinci Resolve 21.1, and it is a much bigger release than the point number suggests. Blackmagic Design has built a native MCP server into the Studio edition so that Claude, Claude Code, and ChatGPT Codex can organize media, cut highlight reels, and batch render on your behalf, added individual trim passes for Dolby Vision, HDR10+ and HDR Vivid, and wired FUJIFILM, Leica, and Sony cameras into the Photo page. It has also quietly moved Python scripting out of the free version, and the reason Blackmagi",
+      "url": "https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/",
+      "normalizedUrl": "https://cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio",
+      "publishedAt": "2026-09-09T08:10:54.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 78,
+      "innovationReasons": [
+        "AI 影像",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
+          "url": "https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/",
+          "source": "CineD",
+          "publishedAt": "2026-09-09T08:10:54.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/09/DaVinci-21.1-featured.jpg",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
+    },
+    {
+      "id": "3c1ecfe1c70f4dd46b51c99792064983f461793c",
+      "title": "Live from IFA: DJI unveils the Osmo 360 II",
+      "titleZh": "Live from IFA: DJI unveils the Osmo 360 II",
+      "summary": "DJI is back with another 360 action camera to keep the pressure on its competitors. The camera sees an overall spec boost, a new square sensor, new AI tools for better low light performance, and the addition of D-Log. more…",
+      "summaryZh": "DJI is back with another 360 action camera to keep the pressure on its competitors. The camera sees an overall spec boost, a new square sensor, new AI tools for better low light performance, and the addition of D-Log. more…",
+      "url": "https://dronedj.com/2026/09/03/live-from-ifa-dji-unveils-the-osmo-360-ii/",
+      "normalizedUrl": "https://dronedj.com/2026/09/03/live-from-ifa-dji-unveils-the-osmo-360-ii",
+      "publishedAt": "2026-09-03T11:00:00.000Z",
+      "source": {
+        "id": "dronedj",
+        "name": "DroneDJ",
+        "category": "无人机/运动影像",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "已公布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 90,
+      "innovationReasons": [
+        "AI 影像",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Live from IFA: DJI unveils the Osmo 360 II",
+          "url": "https://dronedj.com/2026/09/03/live-from-ifa-dji-unveils-the-osmo-360-ii/",
+          "source": "DroneDJ",
+          "publishedAt": "2026-09-03T11:00:00.000Z"
+        },
+        {
+          "title": "DJI’s upcoming Osmo 360 II camera films historic rocket launch",
+          "url": "https://dronedj.com/2026/08/31/dji-osmo-360-ii-rocket/",
+          "source": "DroneDJ",
+          "publishedAt": "2026-09-01T06:10:00.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-09-11T16:35:39.527Z",
+      "lastSeenAt": "2026-09-11T16:35:39.527Z",
+      "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/unnamed.jpg?quality=82&strip=all&resize=1200,628",
+      "imageCheckedAt": "2026-09-11T16:35:39.527Z"
     }
   ]
 }

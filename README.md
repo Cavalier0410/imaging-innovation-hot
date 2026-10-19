@@ -71,6 +71,8 @@ npm run translate       # 翻译标题和摘要
 npm run report          # 生成 Markdown 报告
 npm run html            # 生成 Hot HTML
 npm run library         # 更新创新项目库
+npm run feed            # 生成 data/feed.xml（RSS）
+npm run notify          # 把新增项目推到飞书（需 FEISHU_WEBHOOK）
 npm run use             # 完整执行全部步骤
 ```
 
@@ -82,6 +84,8 @@ npm run use             # 完整执行全部步骤
 - `scripts/translate-items.mjs`：标题与摘要翻译
 - `scripts/make-html.mjs`：行业 Hot 页面生成
 - `scripts/make-innovation-library.mjs`：创新项目筛选、合并和页面生成
+- `scripts/make-feed.mjs`：把项目库导出为 RSS（`data/feed.xml`）
+- `scripts/notify-feishu.mjs`：新增项目和构建失败的飞书推送
 - `data/innovation-projects.json`：需要长期保留的项目数据库
 
 ## 去重逻辑
@@ -98,9 +102,25 @@ npm run use             # 完整执行全部步骤
 
 - 产品库首页：`https://camera.lts4ai.com/`
 - Hot 报告：`https://camera.lts4ai.com/hot.html`
+- RSS 订阅：`https://camera.lts4ai.com/feed.xml`
 - 自动更新：每小时第 17 分钟执行
 - 手动更新：在仓库 Actions 页面运行 `Refresh and deploy Pages`
 
-工作流执行现有的 `npm run use`，再将两个 HTML 页面打包为 Pages artifact；生成结果不会每小时提交回仓库。
+工作流执行 `npm run use`（包含 feed 生成），再把 HTML 与 `feed.xml` 打包为 Pages artifact；生成结果不会每小时提交回仓库。
 
 翻译密钥可配置为 GitHub Actions repository secrets：`OPENAI_API_KEY`、`DEEPSEEK_API_KEY`、`SILICONFLOW_API_KEY` 或 `DASHSCOPE_API_KEY`。未配置时继续使用项目现有的免费翻译回退。
+
+### 飞书推送
+
+新增项目通过飞书**群自定义机器人**推送，不需要创建应用，也不需要企业管理员授权：
+
+1. 在目标飞书群 → 设置 → 群机器人 → 添加机器人 → 自定义机器人，复制 webhook 地址。
+2. 仓库 Settings → Secrets and variables → Actions，添加 `FEISHU_WEBHOOK`（必填）。
+3. 如果机器人开启了签名校验，再添加 `FEISHU_SECRET`（可选）。
+4. 阈值和条数用 `FEISHU_MIN_SCORE`（默认 80）、`FEISHU_LIMIT`（默认 5）调整，写在 `pages.yml` 的 env 里。
+
+未配置 `FEISHU_WEBHOOK` 时脚本自动跳过，不影响构建；构建失败也会推一条失败告警到同一个群。
+
+### 防止定时任务被停用
+
+GitHub 会在仓库连续 60 天没有提交时自动停用 schedule 工作流（本项目 2026-09-11 就是这样停的）。`keepalive.yml` 每周一自动提交一次 `.github/keepalive.txt`，保持仓库有 activity。如果 Actions 页面仍显示 workflow 被禁用，手动点一次 Enable 即可恢复。

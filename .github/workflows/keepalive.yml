@@ -1,0 +1,40 @@
+name: Keepalive
+
+# GitHub 会在仓库连续 60 天没有提交时自动停用 schedule 工作流
+# （pages.yml 曾在 2026-09-11 因此被禁用）。这个工作流每周提交一次
+# 时间戳，保证仓库始终有 activity。
+on:
+  schedule:
+    - cron: "23 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: keepalive
+  cancel-in-progress: true
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Stamp keepalive file
+        run: |
+          mkdir -p .github
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/keepalive.txt
+          cat .github/keepalive.txt
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/keepalive.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: keepalive $(date -u +%Y-%m-%d)"
+            git push
+          fi

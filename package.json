@@ -13,9 +13,11 @@
     "translate": "node scripts/translate-items.mjs",
     "library": "node scripts/make-innovation-library.mjs",
     "library:rebuild": "node scripts/make-innovation-library.mjs --rebuild",
+    "feed": "node scripts/make-feed.mjs",
+    "notify": "node scripts/notify-feishu.mjs",
     "pages:prepare": "node scripts/prepare-pages.mjs",
     "test": "node --test",
-    "use": "npm run pipeline && npm run translate && npm run report && npm run html && npm run library",
+    "use": "npm run pipeline && npm run translate && npm run report && npm run html && npm run library && npm run feed",
     "list:feeds": "node scripts/list-feeds.mjs",
     "verify:dedupe": "node scripts/verify-dedupe.mjs"
   },

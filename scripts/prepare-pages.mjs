@@ -1,6 +1,15 @@
-import { copyFile, mkdir, rm, writeFile } from "node:fs/promises";
+import { access, copyFile, mkdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+
+async function exists(target) {
+  try {
+    await access(target);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 export async function preparePages({ dataDir, outputDir }) {
   await rm(outputDir, { recursive: true, force: true });
@@ -11,6 +20,12 @@ export async function preparePages({ dataDir, outputDir }) {
     path.join(dataDir, "imaging-hot-report.html"),
     path.join(outputDir, "imaging-hot-report.html")
   );
+
+  const feedPath = path.join(dataDir, "feed.xml");
+  if (await exists(feedPath)) {
+    await copyFile(feedPath, path.join(outputDir, "feed.xml"));
+  }
+
   await writeFile(path.join(outputDir, ".nojekyll"), "");
 }
 

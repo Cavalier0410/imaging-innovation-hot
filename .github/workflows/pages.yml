@@ -59,3 +59,18 @@ jobs:
       - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Notify Feishu about new projects
+        continue-on-error: true
+        run: node scripts/notify-feishu.mjs
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          FEISHU_MIN_SCORE: "80"
+          FEISHU_LIMIT: "5"
+      - name: Notify Feishu about failure
+        if: failure()
+        continue-on-error: true
+        run: node scripts/notify-feishu.mjs --failure
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}

@@ -130,6 +130,7 @@ const html = `<!doctype html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>影像产品 Hot</title>
+  <link rel="alternate" type="application/rss+xml" title="创新影像产品项目库" href="https://camera.lts4ai.com/feed.xml">
   <style>
     :root {
       --bg: #f6f7f8;
