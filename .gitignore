@@ -10,3 +10,5 @@ data/*
 !data/innovation-projects.json
 !data/translation-cache.json
 !data/notify-state.json
+!data/feedback.json
+!data/scoring-profile.json

@@ -1,0 +1,11 @@
+{
+  "generatedAt": null,
+  "status": "insufficient",
+  "method": "weighted-ridge",
+  "sampleCount": 0,
+  "intercept": 0,
+  "maxAdjustment": 20,
+  "category": {},
+  "source": {},
+  "bin": {}
+}

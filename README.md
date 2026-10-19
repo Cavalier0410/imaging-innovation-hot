@@ -119,13 +119,26 @@ npm run use             # 完整执行全部步骤
 1. 在目标飞书群 → 设置 → 群机器人 → 添加机器人 → 自定义机器人，复制 webhook 地址。
 2. 仓库 Settings → Secrets and variables → Actions，添加 `FEISHU_WEBHOOK`（必填）。
 3. 如果机器人开启了签名校验，再添加 `FEISHU_SECRET`（可选）。
-4. 阈值和条数用 `FEISHU_MIN_SCORE`（默认 80）、`FEISHU_LIMIT`（默认 5）调整，写在 `pages.yml` 的 env 里。
+4. 汇总的分数门槛和条数用 `FEISHU_MIN_SCORE`、`FEISHU_LIMIT` 调整（默认不设门槛、最多 10 条），写在 `digest.yml` 的 env 里。
 
 没有合适的群时，可以建一个**只有自己的群**：消息页 → 创建群组 → 不选成员直接创建，再把机器人加进去，消息只有你能看到（官方《飞书的个人使用小技巧》就是用单人群当个人笔记本）。如果企业版限制建群必须选人，可以注册一个个人版账号建一个只有自己的团队，或者拉一个小号建 2 人群后让对方退出。
 
 推送节奏由 `digest.yml` 控制：每天 **11:00 和 17:00**（Asia/Shanghai）各汇总一次，只包含上次汇总之后的新项目；没有新项目就不发。想立刻看一次：Actions → Feishu digest → Run workflow（勾 `dry_run` 只打印不发送）。已发送到的位置记录在 `data/notify-state.json`。
 
 未配置 `FEISHU_WEBHOOK` 时脚本自动跳过，不影响构建；构建失败也会推一条失败告警到同一个群。
+
+### 评分反馈与周度校准
+
+每个项目卡片右下角有「打分」链接，点开是一个预填好的 GitHub issue：填 0-100 分（可以写理由）提交即可。`feedback.yml` 会把分数写进 `data/feedback.json`，评论并关闭 issue。
+
+每周一 10:00（Asia/Shanghai），`calibrate.yml` 用这些反馈重新拟合一次评分偏差：
+
+- 以你的分数为目标、机器原始分（`baseScore`）为基准，学习「类别 / 来源 / 分数段」三个维度上的系统性高估或低估；
+- 带时间衰减（半衰期 120 天）的 ridge 回归，样本少于 3 条不生效；
+- 单个项目的总调整上限 ±20 分，避免一次打分把排序带偏；
+- 结果写入 `data/scoring-profile.json`，之后每小时构建按 `baseScore + 校准偏差` 显示新的创新度。
+
+想马上重算：Actions → Calibrate scores → Run workflow。原始分保存在 `baseScore`，鼠标悬停分数可以看到。
 
 ### 防止定时任务被停用
 

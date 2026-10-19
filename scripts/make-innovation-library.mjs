@@ -3,6 +3,7 @@ import path from "node:path";
 
 const dataDir = path.resolve("data");
 const outputDataPath = path.join(dataDir, "innovation-projects.json");
+const repoSlug = process.env.GITHUB_REPOSITORY || "Cavalier0410/imaging-innovation-hot";
 const outputHtmlPath = path.join(dataDir, "innovation-product-library.html");
 const rebuild = process.env.INNOVATION_LIBRARY_REBUILD === "1" || process.argv.includes("--rebuild");
 const fetchImages = process.env.FETCH_PROJECT_IMAGES !== "0";
@@ -374,6 +375,10 @@ function mergeProject(target, incoming, generatedAt) {
     references: references.sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || ""))),
     firstSeenAt: target.firstSeenAt || generatedAt,
     lastSeenAt: generatedAt,
+    baseScore: Math.max(
+      Number(target.baseScore ?? target.innovationScore ?? 0),
+      Number(incoming.baseScore ?? incoming.innovationScore ?? 0)
+    ),
     innovationScore: Math.max(Number(target.innovationScore || 0), Number(incoming.innovationScore || 0))
   };
 }
@@ -456,6 +461,18 @@ function favicon(url) {
   }
 }
 
+function feedbackUrl(project) {
+  const title = `[评分] ${project.titleZh || project.title}`;
+  const body = [
+    `项目ID: ${project.id}`,
+    `项目: ${project.titleZh || project.title}`,
+    `机器分: ${project.innovationScore}`,
+    "我的评分（0-100）: ",
+    "备注（可选）: "
+  ].join("\n");
+  return `https://github.com/${repoSlug}/issues/new?labels=score-feedback&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+}
+
 function projectCard(project) {
   const search = [
     project.title,
@@ -483,7 +500,8 @@ function projectCard(project) {
         <div class="meta-row">
           <span class="stage">${escapeHtml(project.projectStage)}</span>
           <span>${escapeHtml(project.projectFormat)}</span>
-          <span>创新度 ${escapeHtml(project.innovationScore)}</span>
+          <span title="原始分 ${escapeHtml(project.baseScore)}">创新度 ${escapeHtml(project.innovationScore)}</span>
+          ${project.userScore != null ? `<span class="user-score">你 ${escapeHtml(project.userScore)}</span>` : ""}
         </div>
         <h2>${escapeHtml(project.titleZh || project.title)}</h2>
         ${project.titleZh && project.titleZh !== project.title ? `<p class="original-title">${escapeHtml(project.title)}</p>` : ""}
@@ -491,7 +509,10 @@ function projectCard(project) {
         <p class="reasons">${escapeHtml(reasonText)}</p>
         <div class="project-footer">
           <span class="source">${icon ? `<img src="${escapeHtml(icon)}" alt="">` : ""}${escapeHtml(sourceName(project))} · ${escapeHtml(formatDate(project.publishedAt))}${referenceCount > 1 ? ` · ${referenceCount} 篇报道` : ""}</span>
-          <a href="${escapeHtml(project.url)}" target="_blank" rel="noreferrer">查看项目</a>
+          <span class="card-links">
+            <a class="score-link" href="${escapeHtml(feedbackUrl(project))}" target="_blank" rel="noreferrer">打分</a>
+            <a href="${escapeHtml(project.url)}" target="_blank" rel="noreferrer">查看项目</a>
+          </span>
         </div>
       </div>
     </article>`;
@@ -527,7 +548,7 @@ for (const candidate of candidates.sort((a, b) => b.innovationScore - a.innovati
   if (existingIndex >= 0) {
     projects[existingIndex] = mergeProject(projects[existingIndex], candidate, generatedAt);
   } else {
-    projects.push({ ...candidate, firstSeenAt: generatedAt, lastSeenAt: generatedAt });
+    projects.push({ ...candidate, baseScore: candidate.innovationScore, firstSeenAt: generatedAt, lastSeenAt: generatedAt });
     newThisRun += 1;
   }
 }
@@ -556,6 +577,42 @@ if (fetchImages) {
     project.imageUrl = await findPreviewImage(project.url);
     project.imageCheckedAt = generatedAt;
   });
+}
+
+const [scoringProfile, feedbackData] = await Promise.all([
+  readJson(path.join(dataDir, "scoring-profile.json"), null),
+  readJson(path.join(dataDir, "feedback.json"), { items: [] })
+]);
+
+const latestFeedback = new Map();
+for (const item of feedbackData.items || []) {
+  if (!item.projectId) continue;
+  const previous = latestFeedback.get(item.projectId);
+  if (!previous || String(item.createdAt || "") > String(previous.createdAt || "")) {
+    latestFeedback.set(item.projectId, item);
+  }
+}
+
+function calibrationAdjustment(project, baseScore) {
+  if (!scoringProfile || scoringProfile.status !== "active") return 0;
+  const bin = baseScore < 80 ? "70-79" : baseScore < 90 ? "80-89" : "90-100";
+  const adjustment =
+    Number(scoringProfile.intercept || 0) +
+    Number(scoringProfile.category?.[project.projectCategory] || 0) +
+    Number(scoringProfile.source?.[sourceName(project)] || 0) +
+    Number(scoringProfile.bin?.[bin] || 0);
+  const limit = Number(scoringProfile.maxAdjustment || 20);
+  return Math.round(Math.max(-limit, Math.min(limit, adjustment)));
+}
+
+for (const project of projects) {
+  project.baseScore = Math.round(Number(project.baseScore ?? project.innovationScore ?? 0));
+  const adjusted = project.baseScore + calibrationAdjustment(project, project.baseScore);
+  project.innovationScore = Math.max(0, Math.min(100, Math.round(adjusted)));
+
+  const feedback = latestFeedback.get(project.id);
+  if (feedback) project.userScore = Number(feedback.userScore);
+  else delete project.userScore;
 }
 
 projects.sort((a, b) => {
@@ -916,6 +973,25 @@ const html = `<!doctype html>
       width: 16px;
       height: 16px;
       flex: 0 0 auto;
+    }
+
+    .user-score {
+      padding: 2px 7px;
+      color: #8a5a00;
+      background: #fff3d6;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+
+    .card-links {
+      display: flex;
+      gap: 10px;
+      flex: 0 0 auto;
+      align-items: center;
+    }
+
+    .score-link {
+      color: var(--muted);
     }
 
     .project-footer a {

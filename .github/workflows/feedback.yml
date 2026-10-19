@@ -1,0 +1,43 @@
+name: Record score feedback
+
+# 在项目卡片上点「打分」会创建一个带 score-feedback 标签的 issue。
+# 这个工作流把 issue 里的评分写进 data/feedback.json，然后评论并关闭 issue。
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: score-feedback-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  record:
+    if: |
+      github.event.issue.user.login == github.repository_owner &&
+      contains(github.event.issue.labels.*.name, 'score-feedback')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Restore persistent data
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/innovation-projects.json
+            data/translation-cache.json
+            data/notify-state.json
+          key: radar-data-${{ github.run_id }}
+          restore-keys: |
+            radar-data-
+      - name: Record feedback
+        run: node scripts/ingest-feedback.mjs
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

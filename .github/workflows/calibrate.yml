@@ -1,0 +1,46 @@
+name: Calibrate scores
+
+# 每周一 10:00（Asia/Shanghai）用你的评分反馈重新拟合一次评分偏差。
+on:
+  schedule:
+    - cron: "0 2 * * 1" # Monday 10:00 Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: score-calibration
+  cancel-in-progress: false
+
+jobs:
+  calibrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Restore persistent data
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/innovation-projects.json
+            data/translation-cache.json
+            data/notify-state.json
+          key: radar-data-${{ github.run_id }}
+          restore-keys: |
+            radar-data-
+      - name: Fit scoring profile
+        run: node scripts/calibrate-scores.mjs
+      - name: Persist profile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/scoring-profile.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: weekly score calibration $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
