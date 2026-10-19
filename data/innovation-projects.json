@@ -1,32 +1,112 @@
 {
-  "generatedAt": "2026-10-19T09:05:42.520Z",
-  "sourceGeneratedAt": "2026-10-19T09:05:36.159Z",
+  "generatedAt": "2026-10-19T09:50:33.588Z",
+  "sourceGeneratedAt": "2026-10-19T09:48:52.116Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 172,
-    "acceptedThisRun": 10,
-    "newThisRun": 0,
-    "projectCount": 46,
+    "scannedThisRun": 183,
+    "acceptedThisRun": 11,
+    "newThisRun": 4,
+    "projectCount": 41,
     "categoryCount": 7,
-    "sourceCount": 13,
-    "withImageCount": 40
+    "sourceCount": 14,
+    "withImageCount": 34
   },
   "categoryCounts": {
-    "专业影像新技术": 16,
-    "创新光学与传感": 9,
-    "空间影像与显示": 8,
+    "专业影像新技术": 12,
+    "空间影像与显示": 9,
+    "创新光学与传感": 7,
     "AI 与计算影像": 4,
     "智能相机与机器人": 4,
-    "便携与移动创作": 3,
-    "运动影像与航拍": 2
+    "运动影像与航拍": 3,
+    "便携与移动创作": 2
   },
   "projects": [
     {
+      "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
+      "title": "見たものを撮って、その場でAIに聞ける。カメラ搭載イヤホン「ARES」",
+      "titleZh": "你可以把看到的东西拍下来，并现场询问AI。带摄像头的耳机“ARES”",
+      "summary": "※リターン品の配送が完了するまで、香港行知優品は深市多多米文化有限公司の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 ARESは、耳元に8MP広角カメラを搭載。 目線に近い位置から撮影することで、目の前の景色を自然な一人称視点で記録できます。 動画は2112×1568・30fps、写真は3264×2448ピクセルに対応。EIS電子式手ブレ補正と6軸IMUが、歩行中やランニング、サイクリングなど、動きのあるシーンでの撮影をサポートします。 さらに、低遅延の映像伝送によるライブ配信にも対応。720P・1080P・2Kから画質を選択できます。撮影は本体ボタンのほか音声指示でも操作でき、スマートフォンを取り出さずに、「撮る・残す・届ける」までをハンズフリーで楽しめます。 ARESのカメラで捉えた物体や風景、ランドマークなどについて、その場でAIに質問できます。 気になった建物や商品を見ながら、「これは何？」「どんな特徴がある？」と尋ねるだけで、知りたい情報を確認できます。 目の前の文字についても、その意味や翻訳をAIに質問可能。旅先の案内表示やメニューなど、見えている情報をその場で理解する体験をサポートします。 ARESにはAI音声アシスタントを搭載し、日本語を含む15言語での対話に対応。 機能ボタンを約2秒間長押しするほか、「Hey XiaoYi」と呼びかけることで起動できます。 オンライン環境では、天気や旅行プランなど、知りたいことを自然な言葉でAIに質問できます。 さらに、ネット接続がない環境でも、「写真を撮って」「録画を開始して」「音楽を再生して」など、基本操作を自然な音声指示で行えます。 ARESは、142言語に対応したAI翻訳で、異なる言語でのコミュニケーションをサポートします。 旅行先での会話はもちろん、出張や商談など、さまざまなシーンで活用できます。 さらに、録音した音声は文字起こしが可能。内容をテキストで確認できるだけでなく、AIが重要なポイントを整理し、要約します。 録音 → 文字起こし → AI要約までを一連で行えるため、会話や記録をあとから効率よく振り返ることができます。 ARESは、耳をふさがないオープンイヤー設計。 周囲の音を聞き取りながら、音楽や通話を楽しめます。 30mW×2のステレオスピーカーとデュアルマイクを搭載し、日常のリスニングから通話まで幅広く活用できます。 スマートフォンのナビアプリを使用しているときは、案内音声をARESから再生できるため、歩行中や移動中もスマートフォンの画面を何度も確認する手間を減らせます。 ARESには32GBのストレージを内蔵。 撮影した写真や動画を本体に保存でき、スマートフォンの容量を気にせず記録を残せます。 Wi-Fi 6の2.4",
+      "summaryZh": "*在退货产品交付之前，香港行之货品是深圳市多元文化有限公司的官方经销商，拥有日本独家销售权。欲了解更多信息，请参阅页面底部的风险与挑战。 ARES 的耳朵上配备了 8MP 广角摄像头。通过从接近视线的位置进行拍摄，您可以以自然的第一人称视角记录眼前的风景。支持 2112 x 1568、30fps 的视频，支持 3264 x 2448 像素的照片。 EIS电子防抖和6轴IMU支持步行、跑步、骑行等运动场景拍摄。此外，它还支持低延迟视频传输的直播。您可以从 720P、1080P 和 2K 中选择图像质量。拍摄可以使用语音命令以及主机上的按钮进行操作，让您无需拿出智能手机即可享受免提“拍摄、保存和传送”的乐趣。你可以向现场的AI询问ARES相机拍摄到的物体、风景、地标等问题。在查看您感兴趣的建筑物或产品时，您只需询问“这是什么？”就可以找到您想要的信息。和“它有什么特点？”你还可以向人工智能询问你面前的字符的含义和翻译。我可以看到目的地的信息显示和菜单。",
+      "url": "https://www.makuake.com/project/kretaares/",
+      "normalizedUrl": "https://makuake.com/project/kretaares",
+      "publishedAt": "2026-10-28T02:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "見たものを撮って、その場でAIに聞ける。カメラ搭載イヤホン「ARES」",
+          "url": "https://www.makuake.com/project/kretaares/",
+          "source": "Makuake",
+          "publishedAt": "2026-10-28T02:00:00.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "imageUrl": "https://static.makuake.com/upload/project/54064/main_54064.png?version=1792047335&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-10-19T09:50:33.588Z"
+    },
+    {
+      "id": "3ed873213eecd9268e05ddfde10acd95334b8771",
+      "title": "TypAir’s Wearable Keyboard Prototype Lets You Type Without Speaking Aloud",
+      "titleZh": "TypAir 的可穿戴键盘原型让您无需大声说话即可打字",
+      "summary": "TypAir’s Wearable Keyboard Prototype Lets You Type Without Speaking Aloud Typing through smart glasses can mean speaking messages aloud or reaching for another device. MindRove’s TypAir offers a quieter option, attaching a gesture-based Bluetooth keyboard...",
+      "summaryZh": "TypAir 的可穿戴键盘原型让您无需大声说话即可打字通过智能眼镜打字可能意味着大声说出消息或伸手去拿另一台设备。 MindRove 的 TypAir 提供了一个更安静的选项，连接基于手势的蓝牙键盘......",
+      "url": "https://www.yankodesign.com/2026/10/19/typairs-wearable-keyboard-prototype-lets-you-type-without-speaking-aloud/",
+      "normalizedUrl": "https://yankodesign.com/2026/10/19/typairs-wearable-keyboard-prototype-lets-you-type-without-speaking-aloud",
+      "publishedAt": "2026-10-19T09:15:27.000Z",
+      "source": {
+        "id": "yanko-design",
+        "name": "Yanko Design",
+        "category": "新兴产品/设计",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "原型/开源",
+      "projectFormat": "硬件产品",
+      "innovationScore": 92,
+      "innovationReasons": [
+        "原型探索",
+        "空间影像",
+        "便携形态",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "TypAir’s Wearable Keyboard Prototype Lets You Type Without Speaking Aloud",
+          "url": "https://www.yankodesign.com/2026/10/19/typairs-wearable-keyboard-prototype-lets-you-type-without-speaking-aloud/",
+          "source": "Yanko Design",
+          "publishedAt": "2026-10-19T09:15:27.000Z"
+        }
+      ],
+      "baseScore": 92,
+      "firstSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/typairs-wearable-keyboard-prototype-lets-you-type-without-speaking-aloud/typair-wearable-blutooth-keyboard-01.jpg",
+      "imageCheckedAt": "2026-10-19T09:50:33.588Z"
+    },
+    {
       "id": "7bd8f0f44bcacee2d5a2c10fa16030696eef4a37",
       "title": "Arduino's $34 USB Camera Simplifies Computer Vision",
-      "titleZh": "Arduino's $34 USB Camera Simplifies Computer Vision",
+      "titleZh": "Arduino 的 34 美元 USB 摄像头简化了计算机视觉",
       "summary": "Arduino's new USB Camera makes adding AI vision to your projects easier with plug-and-play compatibility and built-in lighting and audio.",
-      "summaryZh": "Arduino's new USB Camera makes adding AI vision to your projects easier with plug-and-play compatibility and built-in lighting and audio.",
+      "summaryZh": "Arduino 的新型 USB 摄像头通过即插即用兼容性以及内置照明和音频，让您更轻松地将 AI 视觉添加到您的项目中。",
       "url": "https://www.hackster.io/news/arduino-s-34-usb-camera-simplifies-computer-vision-788263fad793",
       "normalizedUrl": "https://hackster.io/news/arduino-s-34-usb-camera-simplifies-computer-vision-788263fad793",
       "publishedAt": "2026-10-18T12:24:54.000Z",
@@ -54,7 +134,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -99,11 +179,90 @@
       "baseScore": 71
     },
     {
+      "id": "68ec8a3a0f5bb3f91d6477016724b67a555e4aa2",
+      "title": "Humans Are No Match for This AI Racing Drone",
+      "titleZh": "人类不是这款人工智能赛车无人机的对手",
+      "summary": "TU Delft's MonoRace drone AI uses just a single camera to outfly world champion human pilots at speeds up to 100 km/h.",
+      "summaryZh": "代尔夫特理工大学的 MonoRace 无人机 AI 仅使用一个摄像头就能以高达 100 公里/小时的速度超越世界冠军人类飞行员。",
+      "url": "https://www.hackster.io/news/humans-are-no-match-for-this-ai-racing-drone-7cb686167bff",
+      "normalizedUrl": "https://hackster.io/news/humans-are-no-match-for-this-ai-racing-drone-7cb686167bff",
+      "publishedAt": "2026-10-16T15:42:03.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Humans Are No Match for This AI Racing Drone",
+          "url": "https://www.hackster.io/news/humans-are-no-match-for-this-ai-racing-drone-7cb686167bff",
+          "source": "Hackster News",
+          "publishedAt": "2026-10-16T15:42:03.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-19T09:50:33.588Z"
+    },
+    {
+      "id": "493b9127f739a34bea75d1ed6944fdf748df9cfd",
+      "title": "The Dinooh is a digital compact camera crossed with a… Game Boy?",
+      "titleZh": "Dinooh 是一款紧凑型数码相机，带有……Game Boy？",
+      "summary": "This Kickstarter camera is another cheap ‘digital film’ compact, but with a unique twist, and a cute name. The post The Dinooh is a digital compact camera crossed with a… Game Boy? appeared first on Amateur Photographer .",
+      "summaryZh": "这款 Kickstarter 相机是另一款廉价的“数码胶片”紧凑型相机，但具有独特的风格和可爱的名字。迪诺 (Dinooh) 是一款小型数码相机，与……游戏男孩 (Game Boy) 结合在一起？首先出现在业余摄影师上。",
+      "url": "https://amateurphotographer.com/latest/photo-news/the-dinooh-is-a-digital-compact-camera-crossed-with-a-game-boy/",
+      "normalizedUrl": "https://amateurphotographer.com/latest/photo-news/the-dinooh-is-a-digital-compact-camera-crossed-with-a-game-boy",
+      "publishedAt": "2026-10-16T11:14:07.000Z",
+      "source": {
+        "id": "amateur-photographer",
+        "name": "Amateur Photographer",
+        "category": "影像综合",
+        "priority": "P1",
+        "language": "en",
+        "region": "UK"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 78,
+      "innovationReasons": [
+        "众筹验证",
+        "便携形态",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "The Dinooh is a digital compact camera crossed with a… Game Boy?",
+          "url": "https://amateurphotographer.com/latest/photo-news/the-dinooh-is-a-digital-compact-camera-crossed-with-a-game-boy/",
+          "source": "Amateur Photographer",
+          "publishedAt": "2026-10-16T11:14:07.000Z"
+        }
+      ],
+      "baseScore": 78,
+      "firstSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
+      "imageCheckedAt": "2026-10-19T09:50:33.588Z"
+    },
+    {
       "id": "bdbf7a26cb99aa47e2f665ff5b66ff734e2e95b2",
       "title": "Sony announced two new microphones: ECM-W5 and ECM-AX10",
-      "titleZh": "Sony announced two new microphones: ECM-W5 and ECM-AX10",
+      "titleZh": "索尼宣布推出两款新麦克风：ECM-W5 和 ECM-AX10",
       "summary": "The ECM-AX10 is the world’s first Eclipsa Audio certified microphone for smartphones while the ECM-W5 features direct-to-camera 32bit float audio recording and wireless monitoring. Sony’s ECM-AX10 is the world’s first Eclipsa Audio-certified microphone for smartphones. Eclipsa Audio is an open-source spatial audio technology based on the IAMF specification, available under a royalty-free license from the [...] Read More... from Sony announced two new microphones: ECM-W5 and ECM-AX10",
-      "summaryZh": "The ECM-AX10 is the world’s first Eclipsa Audio certified microphone for smartphones while the ECM-W5 features direct-to-camera 32bit float audio recording and wireless monitoring. Sony’s ECM-AX10 is the world’s first Eclipsa Audio-certified microphone for smartphones. Eclipsa Audio is an open-source spatial audio technology based on the IAMF specification, available under a royalty-free license from the [...] Read More... from Sony announced two new microphones: ECM-W5 and ECM-AX10",
+      "summaryZh": "ECM-AX10 是全球首款通过 Eclipsa Audio 认证的智能手机麦克风，而 ECM-W5 则具有直接到摄像机的 32 位浮动音频录制和无线监控功能。索尼 ECM-AX10 是全球首款通过 Eclipsa Audio 认证的智能手机麦克风。 Eclipsa Audio 是一种基于 IAMF 规范的开源空间音频技术，可根据 [...] 阅读更多... 的免版税许可使用。索尼宣布推出两款新麦克风：ECM-W5 和 ECM-AX10",
       "url": "https://www.provideocoalition.com/sony-announced-two-new-microphones-ecm-w5-and-ecm-ax10/",
       "normalizedUrl": "https://provideocoalition.com/sony-announced-two-new-microphones-ecm-w5-and-ecm-ax10",
       "publishedAt": "2026-10-16T10:59:40.000Z",
@@ -118,11 +277,12 @@
       "projectCategory": "空间影像与显示",
       "projectStage": "原型/开源",
       "projectFormat": "开源项目",
-      "innovationScore": 84,
+      "innovationScore": 98,
       "innovationReasons": [
         "空间影像",
         "开源可自制",
-        "云端与远程协作"
+        "云端与远程协作",
+        "新产品形态"
       ],
       "references": [
         {
@@ -133,17 +293,17 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonymicrecmax10_03.jpg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
-      "baseScore": 84
+      "baseScore": 98
     },
     {
       "id": "ff4fd8d3ae59759b010eb29cae192533fe2f0009",
       "title": "Krea 3",
-      "titleZh": "Krea 3",
+      "titleZh": "创意3",
       "summary": "Krea's AI image model: 2K edits in under 8 seconds Discussion | Link",
-      "summaryZh": "Krea's AI image model: 2K edits in under 8 seconds Discussion | Link",
+      "summaryZh": "Krea 的 AI 图像模型：8 秒内编辑 2K 次关联",
       "url": "https://www.producthunt.com/products/krea",
       "normalizedUrl": "https://producthunt.com/products/krea",
       "publishedAt": "2026-10-16T00:01:46.000Z",
@@ -172,55 +332,17 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 76
     },
     {
-      "id": "4bad89e143a7cdfc51fa1e73b8fe2a0ad4aef567",
-      "title": "Blackmagic Camera 10.3.1",
-      "titleZh": "Blackmagic Camera 10.3.1",
-      "summary": "Blackmagic Design has released Blackmagic Camera 10.3.1, which adds improved stability when starting a stream to Blackmagic Cloud with the Blackmagic URSA Broadcast G2. It also mentions manufacturing improvements for the PYXIS 12K, but there are no details as to what that actually means. What’s new in Blackmagic Camera 10.3.1 Blackmagic PYXIS 12K Manufacturing improvements. ... Read more The post Blackmagic Camera 10.3.1 appeared first on Newsshooter .",
-      "summaryZh": "Blackmagic Design has released Blackmagic Camera 10.3.1, which adds improved stability when starting a stream to Blackmagic Cloud with the Blackmagic URSA Broadcast G2. It also mentions manufacturing improvements for the PYXIS 12K, but there are no details as to what that actually means. What’s new in Blackmagic Camera 10.3.1 Blackmagic PYXIS 12K Manufacturing improvements. ... Read more The post Blackmagic Camera 10.3.1 appeared first on Newsshooter .",
-      "url": "https://www.newsshooter.com/2026/10/15/blackmagic-camera-10-3-1/",
-      "normalizedUrl": "https://newsshooter.com/2026/10/15/blackmagic-camera-10-3-1",
-      "publishedAt": "2026-10-15T23:49:05.000Z",
-      "source": {
-        "id": "newsshooter",
-        "name": "Newsshooter",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "已发布",
-      "projectFormat": "硬件产品",
-      "innovationScore": 78,
-      "innovationReasons": [
-        "云端与远程协作"
-      ],
-      "references": [
-        {
-          "title": "Blackmagic Camera 10.3.1",
-          "url": "https://www.newsshooter.com/2026/10/15/blackmagic-camera-10-3-1/",
-          "source": "Newsshooter",
-          "publishedAt": "2026-10-15T23:49:05.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
-      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-8.44.42.png",
-      "imageCheckedAt": "2026-10-19T03:21:14.921Z",
-      "baseScore": 78
-    },
-    {
       "id": "f3c1239b6e820e1e96b73b9bb4faf8eb5a4af0c6",
       "title": "Picothermal Turns Your Smartphone Into a Thermal Camera",
-      "titleZh": "Picothermal Turns Your Smartphone Into a Thermal Camera",
+      "titleZh": "Pico Thermal 将您的智能手机变成热像仪",
       "summary": "Picothermal is an open source, USB-C thermal camera that turns your smartphone into a 160×120 thermal imager without installing an app.",
-      "summaryZh": "Picothermal is an open source, USB-C thermal camera that turns your smartphone into a 160×120 thermal imager without installing an app.",
+      "summaryZh": "Picotherm 是一款开源 USB-C 热成像仪，无需安装应用程序，即可将您的智能手机变成 160×120 热成像仪。",
       "url": "https://www.hackster.io/news/picothermal-turns-your-smartphone-into-a-thermal-camera-dcc9d432ef51",
       "normalizedUrl": "https://hackster.io/news/picothermal-turns-your-smartphone-into-a-thermal-camera-dcc9d432ef51",
       "publishedAt": "2026-10-15T15:00:56.000Z",
@@ -235,9 +357,10 @@
       "projectCategory": "专业影像新技术",
       "projectStage": "原型/开源",
       "projectFormat": "开源项目",
-      "innovationScore": 77,
+      "innovationScore": 91,
       "innovationReasons": [
-        "开源可自制"
+        "开源可自制",
+        "新产品形态"
       ],
       "references": [
         {
@@ -248,17 +371,17 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011348/_U9qLEJuyjd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
-      "baseScore": 77
+      "baseScore": 91
     },
     {
       "id": "f9a2bac78feb45f708ebc1b43d8d861af24c7ad3",
       "title": "Sony ECM-W5 Wireless Microphone System Announced – 32-Bit Float via MI Shoe, 64GB Backup Recording, Timecode",
-      "titleZh": "Sony ECM-W5 Wireless Microphone System Announced – 32-Bit Float via MI Shoe, 64GB Backup Recording, Timecode",
+      "titleZh": "索尼 ECM-W5 无线麦克风系统发布 – 通过 MI Shoe 实现 32 位浮点、64GB 备份录音、时间码",
       "summary": "Sony has introduced the ECM-W5, a two-transmitter, one-receiver wireless microphone system that sends 32-bit float audio digitally into compatible Sony cameras through the Multi Interface (MI) Shoe. Each transmitter records an internal backup to up to 64GB of storage, the system supports timecode and up to four channels, and the kit costs $399.99. Sony’s previous wireless systems, the ECM-W3 and ECM-W3S, also mount on the MI Shoe, and the company compares the new system directly with the ECM-W3. We have covered Sony’s compact audio accessories before, from the ECM-W2BT wireless microphone and ECM-LV1 lavalier to the recent ECM-AX10 spatial audio microphone for smartphones. The ECM-W5 moves Sony’s camera-mounted wireless line […]",
-      "summaryZh": "Sony has introduced the ECM-W5, a two-transmitter, one-receiver wireless microphone system that sends 32-bit float audio digitally into compatible Sony cameras through the Multi Interface (MI) Shoe. Each transmitter records an internal backup to up to 64GB of storage, the system supports timecode and up to four channels, and the kit costs $399.99. Sony’s previous wireless systems, the ECM-W3 and ECM-W3S, also mount on the MI Shoe, and the company compares the new system directly with the ECM-W3. We have covered Son",
+      "summaryZh": "索尼推出了 ECM-W5，这是一款两个发射器、一个接收器的无线麦克风系统，可通过多接口 (MI) 热靴以数字方式将 32 位浮动音频发送到兼容的索尼相机中。每个发射器都会记录高达 64GB 存储空间的内部备份，该系统支持时间码和最多四个通道，套件售价为 399.99 美元。索尼之前的无线系统ECM-W3和ECM-W3S也安装在MI Shoe上，该公司将新系统直接与ECM-W3进行比较。我们已经覆盖了儿子",
       "url": "https://www.cined.com/sony-ecm-w5-wireless-microphone-system-announced-32-bit-float-via-mi-shoe-64gb-backup-recording-timecode/",
       "normalizedUrl": "https://cined.com/sony-ecm-w5-wireless-microphone-system-announced-32-bit-float-via-mi-shoe-64gb-backup-recording-timecode",
       "publishedAt": "2026-10-15T11:40:07.000Z",
@@ -288,7 +411,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -296,9 +419,9 @@
     {
       "id": "5e569e94f15888416c1a3a766a5a8ad48a560472",
       "title": "The Wristband That Knows What Your Fingers Are Doing",
-      "titleZh": "The Wristband That Knows What Your Fingers Are Doing",
+      "titleZh": "知道你手指在做什么的腕带",
       "summary": "Will van den Bogert built a bracelet that uses pressure sensors and machine learning to recognize hand gestures without a camera.",
-      "summaryZh": "Will van den Bogert built a bracelet that uses pressure sensors and machine learning to recognize hand gestures without a camera.",
+      "summaryZh": "Will van den Bogert 制作了一款手环，它使用压力传感器和机器学习来识别手势，无需摄像头。",
       "url": "https://www.hackster.io/news/the-wristband-that-knows-what-your-fingers-are-doing-d2f2e67dd62c",
       "normalizedUrl": "https://hackster.io/news/the-wristband-that-knows-what-your-fingers-are-doing-d2f2e67dd62c",
       "publishedAt": "2026-10-14T16:38:22.000Z",
@@ -326,7 +449,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2010842/_7oEDLWWgvH.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 73
@@ -334,9 +457,9 @@
     {
       "id": "83cf0d36dc68d779c3f7b3f636fa21b18c7bce97",
       "title": "Sony ECM-AX10 Spatial Audio Microphone for Smartphones Announced – Four Capsules, Ambisonics and Binaural, Eclipsa Audio Export",
-      "titleZh": "Sony ECM-AX10 Spatial Audio Microphone for Smartphones Announced – Four Capsules, Ambisonics and Binaural, Eclipsa Audio Export",
+      "titleZh": "索尼推出适用于智能手机的 ECM-AX10 空间音频麦克风 – 四个胶囊、Ambisonics 和双耳、Eclipsa 音频导出",
       "summary": "SSony has introduced the ECM-AX10, a 24g / 0.85oz USB-C microphone that plugs straight into a smartphone and records spatial audio with four omnidirectional capsules. It captures first-order Ambisonics, binaural or stereo, and Sony’s companion app exports to the Eclipsa Audio format, which Sony highlights for playback on YouTube. Spatial capture is showing up across compact gear, from 360 cameras such as the DJI Osmo 360 II to phone-based workflows. Most phone microphones, including wireless clip-on systems, still record mono or stereo. The ECM-AX10 is Sony’s attempt to bring Ambisonics recording, more familiar from VR and sound design work, to a device that lives on a phone’s USB-C port. According […]",
-      "summaryZh": "SSony has introduced the ECM-AX10, a 24g / 0.85oz USB-C microphone that plugs straight into a smartphone and records spatial audio with four omnidirectional capsules. It captures first-order Ambisonics, binaural or stereo, and Sony’s companion app exports to the Eclipsa Audio format, which Sony highlights for playback on YouTube. Spatial capture is showing up across compact gear, from 360 cameras such as the DJI Osmo 360 II to phone-based workflows. Most phone microphones, including wireless clip-on systems, still",
+      "summaryZh": "SSony 推出了 ECM-AX10，这是一款 24 克/0.85 盎司 USB-C 麦克风，可直接插入智能手机，并通过四个全向拾音头记录空间音频。它捕获一阶高保真度立体声响复制、双耳或立体声，索尼的配套应用程序可导出为 Eclipsa 音频格式，索尼在 YouTube 上强调了这种格式的播放。空间捕捉在紧凑型设备中得到体现，从 DJI Osmo 360 II 等 360 度相机到基于手机的工作流程。大多数手机麦克风，包括无线夹式系统，仍然",
       "url": "https://www.cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export/",
       "normalizedUrl": "https://cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export",
       "publishedAt": "2026-10-14T13:28:31.000Z",
@@ -367,172 +490,10 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
+      "lastSeenAt": "2026-10-19T09:50:33.588Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
-    },
-    {
-      "id": "ac54362d8d96230bf6cc29262ebba1f9feba67da",
-      "title": "GoPro MISSION 1 Series Update Released – Zero-Lag Shutter, Continuous 50MP RAW Photos and Anamorphic Lens Support",
-      "titleZh": "GoPro MISSION 1 Series Update Released – Zero-Lag Shutter, Continuous 50MP RAW Photos and Anamorphic Lens Support",
-      "summary": "GoPro has released a free firmware update for the MISSION 1 series that rebuilds how the cameras take photos, with a zero-lag shutter and continuous capture of more than 20 RAW frames at 50MP. The MISSION Monitor app gains waveform, RGB parade, false color and wireless connectivity. And for filmmakers, a new GoPro Labs build brings anamorphic lens support to the MISSION 1 PRO ILS. The update arrives in three parts. All MISSION 1 series cameras (MISSION 1, MISSION 1 PRO and MISSION 1 PRO ILS) get a new photo engine with what GoPro calls Rapid Photo, a shutter that fires the instant the button is pressed, plus a Continuous […]",
-      "summaryZh": "GoPro has released a free firmware update for the MISSION 1 series that rebuilds how the cameras take photos, with a zero-lag shutter and continuous capture of more than 20 RAW frames at 50MP. The MISSION Monitor app gains waveform, RGB parade, false color and wireless connectivity. And for filmmakers, a new GoPro Labs build brings anamorphic lens support to the MISSION 1 PRO ILS. The update arrives in three parts. All MISSION 1 series cameras (MISSION 1, MISSION 1 PRO and MISSION 1 PRO ILS) get a new photo engine",
-      "url": "https://www.cined.com/gopro-mission-1-series-update-released-zero-lag-shutter-continuous-50mp-raw-photos-and-anamorphic-lens-support/",
-      "normalizedUrl": "https://cined.com/gopro-mission-1-series-update-released-zero-lag-shutter-continuous-50mp-raw-photos-and-anamorphic-lens-support",
-      "publishedAt": "2026-10-13T14:46:49.000Z",
-      "source": {
-        "id": "cined",
-        "name": "CineD",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "创新光学与传感",
-      "projectStage": "已发布",
-      "projectFormat": "软件/应用",
-      "innovationScore": 78,
-      "innovationReasons": [
-        "云端与远程协作"
-      ],
-      "references": [
-        {
-          "title": "GoPro MISSION 1 Series Update Released – Zero-Lag Shutter, Continuous 50MP RAW Photos and Anamorphic Lens Support",
-          "url": "https://www.cined.com/gopro-mission-1-series-update-released-zero-lag-shutter-continuous-50mp-raw-photos-and-anamorphic-lens-support/",
-          "source": "CineD",
-          "publishedAt": "2026-10-13T14:46:49.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
-      "imageUrl": "https://www.cined.com/content/uploads/2026/10/SI10550_261012_GPC_M1PRO_PhotoMode_1J8A8683.jpg",
-      "imageCheckedAt": "2026-10-19T03:21:14.921Z",
-      "baseScore": 78
-    },
-    {
-      "id": "57d0c730c367f92597f33f2acbce13cf759da339",
-      "title": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1",
-      "titleZh": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1",
-      "summary": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1: Nikon NX Tether Version 2.6.1: Tether Profile Version 13.0 Added support for the Z5IIC. Imaging Recipe selection is now available for the Picture Control item in the shooting settings pane when connecting to a camera with Imaging Recipes registered. *1 The […] The post Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1 appeared first on Nikon Rumors . Related posts: SmallRig accessory ecosystem for Nikon Z5IIC camera announced Nikon Z5IIC camera officially announced The Nikon Z5IIC camera is rumored to be cheaper than the Z5II",
-      "summaryZh": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1: Nikon NX Tether Version 2.6.1: Tether Profile Version 13.0 Added support for the Z5IIC. Imaging Recipe selection is now available for the Picture Control item in the shooting settings pane when connecting to a camera with Imaging Recipes registered. *1 The […] The post Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1 appeared first on Nikon Rumors . Related posts: SmallRig accessory ecosyste",
-      "url": "https://nikonrumors.com/2026/10/13/nikon-released-nx-tether-version-2-6-1-and-wireless-transmitter-utility-version-1-16-1.aspx/",
-      "normalizedUrl": "https://nikonrumors.com/2026/10/13/nikon-released-nx-tether-version-2-6-1-and-wireless-transmitter-utility-version-1-16-1.aspx",
-      "publishedAt": "2026-10-13T09:59:23.000Z",
-      "source": {
-        "id": "nikon-rumors",
-        "name": "Nikon Rumors",
-        "category": "品牌爆料",
-        "priority": "P2",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "已发布",
-      "projectFormat": "硬件产品",
-      "innovationScore": 72,
-      "innovationReasons": [
-        "云端与远程协作",
-        "模块化工作流"
-      ],
-      "references": [
-        {
-          "title": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1",
-          "url": "https://nikonrumors.com/2026/10/13/nikon-released-nx-tether-version-2-6-1-and-wireless-transmitter-utility-version-1-16-1.aspx/",
-          "source": "Nikon Rumors",
-          "publishedAt": "2026-10-13T09:59:23.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:05:42.520Z",
-      "imageUrl": "https://nikonrumors.com/wp-content/uploads/2024/02/Nikon-NX-Tether-1.jpg",
-      "imageCheckedAt": "2026-10-19T03:21:14.921Z",
-      "baseScore": 72
-    },
-    {
-      "id": "038058f07d927495e130500285c4af653f93bb43",
-      "title": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
-      "titleZh": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
-      "summary": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One Most pocket gimbal cameras chase versatility by piling on extra lenses, extra zoom ranges, extra everything. The Insta360 Luna Pro takes the opposite approach, stripping...",
-      "summaryZh": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One Most pocket gimbal cameras chase versatility by piling on extra lenses, extra zoom ranges, extra everything. The Insta360 Luna Pro takes the opposite approach, stripping...",
-      "url": "https://www.yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/",
-      "normalizedUrl": "https://yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one",
-      "publishedAt": "2026-09-11T09:15:08.000Z",
-      "source": {
-        "id": "yanko-design",
-        "name": "Yanko Design",
-        "category": "新兴产品/设计",
-        "priority": "P0",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "便携与移动创作",
-      "projectStage": "持续观察",
-      "projectFormat": "硬件产品",
-      "innovationScore": 79,
-      "innovationReasons": [
-        "便携形态",
-        "新视角采集"
-      ],
-      "references": [
-        {
-          "title": "Most Pocket Cameras Pile On Lenses, Insta360 Luna Pro Leans On One",
-          "url": "https://www.yankodesign.com/2026/09/11/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/",
-          "source": "Yanko Design",
-          "publishedAt": "2026-09-11T09:15:08.000Z"
-        },
-        {
-          "title": "Insta360’s Luna Pro Goes Global and Has Most of the Ultra’s Features",
-          "url": "https://petapixel.com/2026/09/10/insta360s-luna-pro-goes-global-and-has-most-of-the-ultras-features/",
-          "source": "PetaPixel",
-          "publishedAt": "2026-09-10T13:52:52.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-09-11T16:35:39.527Z",
-      "lastSeenAt": "2026-09-11T16:35:39.527Z",
-      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/09/most-pocket-cameras-pile-on-lenses-insta360-luna-pro-leans-on-one/insta360-luna-pro-13.jpg",
-      "imageCheckedAt": "2026-09-11T16:35:39.527Z",
-      "baseScore": 79
-    },
-    {
-      "id": "4154acd7504640f2cdbeaef75a9e29445910b770",
-      "title": "Atomos ATOMOSphere Integrates with ShotPut Studio",
-      "titleZh": "Atomos ATOMOSphere Integrates with ShotPut Studio",
-      "summary": "Atomos ATOMOSphere now features an integration with ShotPut Studio to help automate cloud media workflows. The new integration sends camera originals and proxies directly to ATOMOSphere while adding certified Apple ProRes RAW decoding. This integration was designed to give production teams a faster, more automated way to transfer, transcode, and organize media. If you are … Continued The post Atomos ATOMOSphere Integrates with ShotPut Studio appeared first on Newsshooter .",
-      "summaryZh": "Atomos ATOMOSphere now features an integration with ShotPut Studio to help automate cloud media workflows. The new integration sends camera originals and proxies directly to ATOMOSphere while adding certified Apple ProRes RAW decoding. This integration was designed to give production teams a faster, more automated way to transfer, transcode, and organize media. If you are … Continued The post Atomos ATOMOSphere Integrates with ShotPut Studio appeared first on Newsshooter .",
-      "url": "https://www.newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio/",
-      "normalizedUrl": "https://newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio",
-      "publishedAt": "2026-09-11T07:04:51.000Z",
-      "source": {
-        "id": "newsshooter",
-        "name": "Newsshooter",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "持续观察",
-      "projectFormat": "软件/应用",
-      "innovationScore": 87,
-      "innovationReasons": [
-        "自动化拍摄",
-        "云端与远程协作",
-        "模块化工作流"
-      ],
-      "references": [
-        {
-          "title": "Atomos ATOMOSphere Integrates with ShotPut Studio",
-          "url": "https://www.newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio/",
-          "source": "Newsshooter",
-          "publishedAt": "2026-09-11T07:04:51.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-09-11T16:35:39.527Z",
-      "lastSeenAt": "2026-09-11T16:35:39.527Z",
-      "imageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/ShotPut-740x416.jpg",
-      "imageCheckedAt": "2026-09-11T16:35:39.527Z",
-      "baseScore": 87
     },
     {
       "id": "1f45a3c0e0c69b7ee83387d4ce983c40f2eb70bb",
@@ -688,84 +649,6 @@
       "baseScore": 74
     },
     {
-      "id": "351e50cc382f051037e3fd8ebad391de4d0f8c9f",
-      "title": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
-      "titleZh": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
-      "summary": "Not only has Tilta just released a custom-fit cage for the new Hollyland Pyro 7 Ultra wireless transceiver monitor, but it has also demonstrated how this new device can integrate with its existing Nucleus-M II ecosystem, offering an all-in-one solution for focus pullers. Just a few days ago, Hollyland released the Pyro 7 Ultra, a 7-inch wireless transceiver screen that can act as a director’s, on-camera, or even focus-pulling monitor. Built on the success of the original Pyro 7, this upgraded version brings a brighter display, a wider color gamut, Calman calibration, lower latency, a redesigned operating system, and more. Now, Tilta is coming up with a dedicated cage that […]",
-      "summaryZh": "Not only has Tilta just released a custom-fit cage for the new Hollyland Pyro 7 Ultra wireless transceiver monitor, but it has also demonstrated how this new device can integrate with its existing Nucleus-M II ecosystem, offering an all-in-one solution for focus pullers. Just a few days ago, Hollyland released the Pyro 7 Ultra, a 7-inch wireless transceiver screen that can act as a director’s, on-camera, or even focus-pulling monitor. Built on the success of the original Pyro 7, this upgraded version brings a brigh",
-      "url": "https://www.cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated/",
-      "normalizedUrl": "https://cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated",
-      "publishedAt": "2026-09-10T09:20:32.000Z",
-      "source": {
-        "id": "cined",
-        "name": "CineD",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "已发布",
-      "projectFormat": "硬件产品",
-      "innovationScore": 81,
-      "innovationReasons": [
-        "云端与远程协作",
-        "模块化工作流"
-      ],
-      "references": [
-        {
-          "title": "Tilta Monitor Cage for Hollyland Pyro 7 Ultra and Integration with Nucleus-M II Demonstrated",
-          "url": "https://www.cined.com/tilta-monitor-cage-for-hollyland-pyro-7-ultra-and-integration-with-nucleus-m-ii-demonstrated/",
-          "source": "CineD",
-          "publishedAt": "2026-09-10T09:20:32.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-09-11T16:35:39.527Z",
-      "lastSeenAt": "2026-09-11T16:35:39.527Z",
-      "imageUrl": "https://www.cined.com/content/uploads/2026/09/Tilta-Monitor-Cage-Hollyland-Pyro-7-Ultra-featured.jpeg",
-      "imageCheckedAt": "2026-09-11T16:35:39.527Z",
-      "baseScore": 81
-    },
-    {
-      "id": "0de92c794bab951181644359fd5457d42becdaa7",
-      "title": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
-      "titleZh": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
-      "summary": "So here it is, DaVinci Resolve 21.1, and it is a much bigger release than the point number suggests. Blackmagic Design has built a native MCP server into the Studio edition so that Claude, Claude Code, and ChatGPT Codex can organize media, cut highlight reels, and batch render on your behalf, added individual trim passes for Dolby Vision, HDR10+ and HDR Vivid, and wired FUJIFILM, Leica, and Sony cameras into the Photo page. It has also quietly moved Python scripting out of the free version, and the reason Blackmagic gives for that is the most interesting paragraph in the whole release notes. Blackmagic counts more than 100 new tools and […]",
-      "summaryZh": "So here it is, DaVinci Resolve 21.1, and it is a much bigger release than the point number suggests. Blackmagic Design has built a native MCP server into the Studio edition so that Claude, Claude Code, and ChatGPT Codex can organize media, cut highlight reels, and batch render on your behalf, added individual trim passes for Dolby Vision, HDR10+ and HDR Vivid, and wired FUJIFILM, Leica, and Sony cameras into the Photo page. It has also quietly moved Python scripting out of the free version, and the reason Blackmagi",
-      "url": "https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/",
-      "normalizedUrl": "https://cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio",
-      "publishedAt": "2026-09-09T08:10:54.000Z",
-      "source": {
-        "id": "cined",
-        "name": "CineD",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "已发布",
-      "projectFormat": "软件/应用",
-      "innovationScore": 73,
-      "innovationReasons": [
-        "AI 影像",
-        "模块化工作流"
-      ],
-      "references": [
-        {
-          "title": "DaVinci Resolve 21.1 Released – AI Assistant Integration via MCP, Individual HDR Trims, and Python Scripting Moves to Studio",
-          "url": "https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/",
-          "source": "CineD",
-          "publishedAt": "2026-09-09T08:10:54.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-09-11T16:35:39.527Z",
-      "lastSeenAt": "2026-09-11T16:35:39.527Z",
-      "imageUrl": "https://www.cined.com/content/uploads/2026/09/DaVinci-21.1-featured.jpg",
-      "imageCheckedAt": "2026-09-11T16:35:39.527Z",
-      "baseScore": 73
-    },
-    {
       "id": "3c1ecfe1c70f4dd46b51c99792064983f461793c",
       "title": "Live from IFA: DJI unveils the Osmo 360 II",
       "titleZh": "Live from IFA: DJI unveils the Osmo 360 II",
@@ -809,44 +692,6 @@
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/unnamed.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-09-11T16:35:39.527Z",
       "baseScore": 85
-    },
-    {
-      "id": "b26098904a391758a324a1df65ad7c55e028ce4c",
-      "title": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
-      "titleZh": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
-      "summary": "SmallRig has introduced a family of magnetic Split Filter Kits built specifically for the dual-lens DJI Osmo Pocket 4P, using a two-piece design that covers both the wide and telephoto lenses in a single snap-on unit. Three kit configurations are available, spanning fixed ND, adjustable VND, CPL, and 1/4 Black Diffusion, with prices ranging from $45.99 to $49.99 and the ability to stack up to two filters at once. The DJI Osmo Pocket 4P is a slightly different animal from previous Pocket models, and that has direct consequences for accessory makers. As we covered when DJI teased the two-camera pro version, the 4P pairs a 1-inch-type main camera with an added 3x […]",
-      "summaryZh": "SmallRig has introduced a family of magnetic Split Filter Kits built specifically for the dual-lens DJI Osmo Pocket 4P, using a two-piece design that covers both the wide and telephoto lenses in a single snap-on unit. Three kit configurations are available, spanning fixed ND, adjustable VND, CPL, and 1/4 Black Diffusion, with prices ranging from $45.99 to $49.99 and the ability to stack up to two filters at once. The DJI Osmo Pocket 4P is a slightly different animal from previous Pocket models, and that has direct",
-      "url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
-      "normalizedUrl": "https://cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd",
-      "publishedAt": "2026-07-10T08:31:55.000Z",
-      "source": {
-        "id": "cined",
-        "name": "CineD",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "创新光学与传感",
-      "projectStage": "已公布",
-      "projectFormat": "硬件产品",
-      "innovationScore": 70,
-      "innovationReasons": [
-        "便携形态"
-      ],
-      "references": [
-        {
-          "title": "SmallRig Split Filter Kits for DJI Osmo Pocket 4P Announced – Snap-On Dual Design, Stackable Optics, Adjustable VND",
-          "url": "https://www.cined.com/smallrig-split-filter-kits-for-dji-osmo-pocket-4p-announced-snap-on-dual-design-stackable-optics-adjustable-vnd/",
-          "source": "CineD",
-          "publishedAt": "2026-07-10T08:31:55.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-07-12T16:04:09.248Z",
-      "lastSeenAt": "2026-07-12T16:04:09.248Z",
-      "imageUrl": "https://www.cined.com/content/uploads/2026/07/SmallRig-Osmo-Pocket-4P-featured.jpg",
-      "imageCheckedAt": "2026-07-12T16:04:09.248Z",
-      "baseScore": 70
     },
     {
       "id": "b8e830f696a17ef656f3a4f5558a1a47a51c3d9f",
@@ -1676,46 +1521,6 @@
       "imageUrl": "https://www.cined.com/content/uploads/2026/07/Artemis-Studio-featured.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z",
       "baseScore": 77
-    },
-    {
-      "id": "b9c794fd08b8430ff7cd4ec88f44f1711173cae8",
-      "title": "Accsoon CineView M7 Series Adds Frame.io Integration – Native Cloud Upload, Automatic Resume, and Upload Task Management",
-      "titleZh": "Accsoon CineView M7 系列新增 Frame.io 集成 – 原生云上传、自动续传和上传任务管理",
-      "summary": "Accsoon has added native Adobe Frame.io integration to its CineView M7 series of smart monitors, becoming, by the company’s account, the first Android-based wireless production monitor platform to build a Frame.io workflow directly into the display itself. The free firmware update brings a full upload task pipeline, automatic resume for unstable networks, and a dedicated upload history, turning the monitor into a more direct bridge between on-set capture and cloud-based review. The CineView M7 series has been one of the more active development stories in the affordable monitor space over the past year, and this update continues a pattern we have seen repeatedly since the range first appeared. Rather than […]",
-      "summaryZh": "Accsoon 已将原生 Adob​​e Frame.io 集成添加到其 CineView M7 系列智能显示器中，据该公司称，成为第一个将 Frame.io 工作流程直接构建到显示器本身的基于 Android 的无线生产显示器平台。免费固件更新带来了完整的上传任务管道、不稳定网络的自动恢复以及专用的上传历史记录，使显示器成为现场捕捉和基于云的审查之间更直接的桥梁。 CineView M7 系列是其中之一",
-      "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
-      "normalizedUrl": "https://cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management",
-      "publishedAt": "2026-07-01T12:05:49.000Z",
-      "source": {
-        "id": "cined",
-        "name": "CineD",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "持续观察",
-      "projectFormat": "软件/应用",
-      "innovationScore": 76,
-      "innovationReasons": [
-        "云端与远程协作",
-        "模块化工作流",
-        "新产品形态"
-      ],
-      "references": [
-        {
-          "title": "Accsoon CineView M7 Series Adds Frame.io Integration – Native Cloud Upload, Automatic Resume, and Upload Task Management",
-          "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
-          "source": "CineD",
-          "publishedAt": "2026-07-01T12:05:49.000Z"
-        }
-      ],
-      "firstSeenAt": "2026-07-10T01:27:33.890Z",
-      "lastSeenAt": "2026-07-10T01:27:33.890Z",
-      "imageUrl": "https://www.cined.com/content/uploads/2026/07/Accsoon-CineView-M7-Frame.io5_.jpeg",
-      "imageCheckedAt": "2026-07-10T01:27:33.890Z",
-      "baseScore": 76
     },
     {
       "id": "8b7163115b1108bdef5948891f35ecbb62e7a627",

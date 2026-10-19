@@ -371,6 +371,36 @@
       "language": "en",
       "region": "Global",
       "feedUrl": "https://www.hackster.io/news.atom"
+    },
+    {
+      "id": "makuake",
+      "name": "Makuake",
+      "category": "众筹/日本",
+      "priority": "P1",
+      "language": "ja",
+      "region": "JP",
+      "feedUrl": "https://www.makuake.com/rss/",
+      "note": "官方 RSS"
+    },
+    {
+      "id": "kickstarter-news",
+      "name": "Kickstarter",
+      "category": "众筹/全球",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Akickstarter.com%20(camera%20OR%20lens%20OR%20film%20OR%20photography)&hl=en-US&gl=US&ceid=US%3Aen",
+      "note": "Kickstarter 屏蔽机器人直连，走 Google News 索引"
+    },
+    {
+      "id": "indiegogo-news",
+      "name": "Indiegogo",
+      "category": "众筹/全球",
+      "priority": "P1",
+      "language": "en",
+      "region": "Global",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Aindiegogo.com%20(camera%20OR%20lens%20OR%20film%20OR%20photography)&hl=en-US&gl=US&ceid=US%3Aen",
+      "note": "Indiegogo 屏蔽机器人直连，走 Google News 索引"
     }
   ]
 }

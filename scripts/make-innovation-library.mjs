@@ -66,6 +66,24 @@ const titleRejectPatterns = [
   /\bunder \$?\d+/i,
   /\bcheapest\b/i,
   /\bwatch:/i,
+  /\bupdate(?:s|d)?\b/i,
+  /\bversion\s*\d/i,
+  /\b(?:camera|app|software|driver|firmware)\s+\d+\.\d+/i,
+  /\b\d+\.\d+(?:\.\d+)?\s+(?:released|update|now available)\b/i,
+  /\badds?\s+(?:support|integration|compatibility)\b/i,
+  /\bintegrat(?:e|es|ed|ion|ing)\b/i,
+  /\bnow supports\b/i,
+  /\bcage\b/i,
+  /\bfilter kits?\b/i,
+  /\bmount adapters?\b/i,
+  /\bquick release\b/i,
+  /\btop handle\b/i,
+  /\bscreen protector\b/i,
+  /\bhands-on\b/i,
+  /\bfirst look\b/i,
+  /\bfield test\b/i,
+  /\btested\b/i,
+  /^most\b/i,
   /评测|测评|对比|教程|固件|降价|优惠|传闻|爆料|购买指南/
 ];
 
@@ -119,7 +137,7 @@ const projectSignalPatterns = [
   /\braised? \$?\d/i,
   /\bfunding\b/i,
   /\bnew\b/i,
-  /发布|推出|亮相|首发|众筹|预售|原型|开源|上线|融资|问世/
+  /发布|推出|亮相|首发|众筹|预售|原型|开源|上线|融资|问世|発売|発表|登場|開始|プロジェクト/
 ];
 
 const visualProductPatterns = [
@@ -160,7 +178,7 @@ const visualProductPatterns = [
   /\bphone lenses?\b/i,
   /\biPhone lenses?\b/i,
   /\bcamera feeder\b/i,
-  /相机|摄像|影像|图像模型|视频模型|智能眼镜|空间计算|头显|取景器|传感器|监视器|电子 ND|焦点堆栈|电影机|视觉机器人/
+  /相机|摄像|影像|图像模型|视频模型|智能眼镜|空间计算|头显|取景器|传感器|监视器|电子 ND|焦点堆栈|电影机|视觉机器人|カメラ|写真|レンズ|撮影|映像|ビデオ|フォト/
 ];
 
 const droneVisualPatterns = [
@@ -191,7 +209,7 @@ const innovationPatterns = [
   [ /low-latency|USB4|Thunderbolt 4|480fps|HFR|high frame rate/i, "高性能工作流" ],
   [ /modular|adaptive|ecosystem|node-based|integrat(?:e|ed|ion)/i, "模块化工作流" ],
   [ /birdwatching|bird feeder|notification/i, "新使用场景" ],
-  [ /智能|生成式|空间影像|沉浸式|便携|口袋|穿戴|自动化|机器人|开源|计算摄影|远程控制|云端|透明取景器|电子 ND|全景/i, "新产品形态" ]
+  [ /智能|生成式|空间影像|沉浸式|便携|口袋|穿戴|自动化|机器人|开源|计算摄影|远程控制|云端|透明取景器|电子 ND|全景|世界初|新開発|軽量|小型|自動|クラウドファンディング/i, "新产品形态" ]
 ];
 
 const conventionalLensPattern = /\b(?:AF|MF)?\s*\d{1,3}(?:-\d{1,3})?mm\b|\bf\/?\d(?:\.\d+)?\b|定焦镜头|变焦镜头/i;
