@@ -1,11 +1,16 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-10-19T03:42:21.721Z",
   "status": "insufficient",
   "method": "weighted-ridge",
+  "lambda": 2,
+  "halfLifeDays": 120,
   "sampleCount": 0,
+  "minSamples": 3,
+  "meanResidual": 0,
   "intercept": 0,
   "maxAdjustment": 20,
   "category": {},
   "source": {},
-  "bin": {}
+  "bin": {},
+  "samples": []
 }
