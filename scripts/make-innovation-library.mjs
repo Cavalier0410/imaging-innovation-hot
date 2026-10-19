@@ -7,15 +7,22 @@ const repoSlug = process.env.GITHUB_REPOSITORY || "Cavalier0410/imaging-innovati
 const outputHtmlPath = path.join(dataDir, "innovation-product-library.html");
 const rebuild = process.env.INNOVATION_LIBRARY_REBUILD === "1" || process.argv.includes("--rebuild");
 const fetchImages = process.env.FETCH_PROJECT_IMAGES !== "0";
-const criteriaVersion = 1;
+const criteriaVersion = 2;
 
+// 只给「发现型」来源一点门槛豁免：它们经常在没有明确发布动词的情况下介绍
+// 新东西（众筹、DIY、设计概念）。行业媒体（CineD、Newsshooter 等）不在此列，
+// 应该和 DPReview、PetaPixel 一样靠内容本身得分。
 const trustedDiscoverySources = new Set([
   "Product Hunt",
   "Yanko Design",
   "The Gadgeteer",
   "TechCrunch Hardware",
   "Hackster News",
-  "Hackaday",
+  "Hackaday"
+]);
+
+// v2 起不再享受信任源 +5 的行业媒体，旧数据做一次性 -5 校正。
+const retiredTrustedSources = new Set([
   "CineD",
   "Newsshooter",
   "Y.M.Cinema",
@@ -541,6 +548,17 @@ const projects = (existingData.projects || [])
       projectFormat: classifyFormat(text)
     };
   });
+// v1 的信任源加分已取消：对旧库里的相关来源做一次性 -5 校正，之后 criteriaVersion 升到 2。
+if (Number(existingData.criteriaVersion || 1) < 2) {
+  for (const project of projects) {
+    if (!retiredTrustedSources.has(sourceName(project))) continue;
+    project.baseScore = Math.max(
+      0,
+      Number(project.baseScore ?? project.innovationScore ?? 0) - 5
+    );
+  }
+}
+
 let newThisRun = 0;
 
 for (const candidate of candidates.sort((a, b) => b.innovationScore - a.innovationScore)) {
