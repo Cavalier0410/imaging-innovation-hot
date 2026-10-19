@@ -144,6 +144,7 @@ if (!data) {
 }
 
 let fresh;
+let sentIds = new Set();
 
 if (isDigest) {
   const state = await readJson(statePath, {});
@@ -155,7 +156,21 @@ if (isDigest) {
         ? new Date(state.lastDigestAt)
         : new Date(Date.now() - fallbackWindowHours * 60 * 60 * 1000);
 
-  fresh = (data.projects || [])
+  sentIds = new Set(Array.isArray(state.sentProjectIds) ? state.sentProjectIds : []);
+
+  // 旧状态没有 sentProjectIds：用上次发送前 24 小时的项目做一次种子，
+  // 避免升级后第一次回放把已经发过的项目再发一遍。
+  if (!Array.isArray(state.sentProjectIds) && state.lastDigestAt) {
+    const lastSent = new Date(state.lastDigestAt);
+    const seedFrom = new Date(lastSent.getTime() - 24 * 60 * 60 * 1000);
+    for (const project of data.projects || []) {
+      if (!project.firstSeenAt) continue;
+      const seen = new Date(project.firstSeenAt);
+      if (seen > seedFrom && seen <= lastSent) sentIds.add(project.id);
+    }
+  }
+
+  const candidates = (data.projects || [])
     .filter((project) => project.firstSeenAt && new Date(project.firstSeenAt) > since)
     .filter((project) => Number(project.innovationScore || 0) >= minScore)
     .sort((a, b) => {
@@ -164,8 +179,12 @@ if (isDigest) {
       return new Date(b.firstSeenAt || 0) - new Date(a.firstSeenAt || 0);
     });
 
+  const alreadySent = candidates.filter((project) => sentIds.has(project.id)).length;
+  fresh = candidates.filter((project) => !sentIds.has(project.id));
+
   console.log(
     `Digest window since ${since.toISOString()}: ${fresh.length} new project(s)` +
+      (alreadySent ? `, ${alreadySent} already sent` : "") +
       (isDryRun ? " (dry run)" : "")
   );
 } else {
@@ -241,12 +260,14 @@ if (isDryRun) {
 await post(payload);
 
 if (isDigest) {
+  const sentProjectIds = [...new Set([...sentIds, ...fresh.map((project) => project.id)])].slice(-500);
   await writeFile(
     statePath,
     JSON.stringify(
       {
         lastDigestAt: new Date().toISOString(),
-        lastCount: fresh.length
+        lastCount: fresh.length,
+        sentProjectIds
       },
       null,
       2
