@@ -125,6 +125,8 @@ npm run use             # 完整执行全部步骤
 
 推送节奏由 `digest.yml` 控制：每天 **11:00 和 17:00**（Asia/Shanghai）各汇总一次，只包含上次汇总之后的新项目；没有新项目就不发。想立刻看一次：Actions → Feishu digest → Run workflow（勾 `dry_run` 只打印不发送）。已发送到的位置记录在 `data/notify-state.json`。
 
+每条汇总最多展示 10 条，并且同一个来源最多 2 条（`FEISHU_MAX_PER_SOURCE` 可调），避免某个高产媒体刷屏；超出部分会在末尾提示“还有 N 个”。
+
 未配置 `FEISHU_WEBHOOK` 时脚本自动跳过，不影响构建；构建失败也会推一条失败告警到同一个群。
 
 ### 评分反馈与周度校准

@@ -12,6 +12,7 @@ const secret = process.env.FEISHU_SECRET;
 const siteUrl = (process.env.SITE_URL || "https://camera.lts4ai.com").replace(/\/$/, "");
 const minScore = Number(process.env.FEISHU_MIN_SCORE || (isDigest ? 0 : 80));
 const limit = Number(process.env.FEISHU_LIMIT || (isDigest ? 10 : 5));
+const maxPerSource = Number(process.env.FEISHU_MAX_PER_SOURCE || 2);
 const fallbackWindowHours = Number(process.env.FEISHU_WINDOW_HOURS || 12);
 
 const statePath = path.join(process.cwd(), "data", "notify-state.json");
@@ -175,7 +176,33 @@ if (fresh.length === 0) {
   process.exit(0);
 }
 
-const top = fresh.slice(0, limit);
+function diversify(items, count, perSourceCap) {
+  const picked = [];
+  const overflow = [];
+  const counts = new Map();
+
+  for (const item of items) {
+    const source = item.source?.name || "未知来源";
+    const used = counts.get(source) || 0;
+    if (used < perSourceCap) {
+      picked.push(item);
+      counts.set(source, used + 1);
+    } else {
+      overflow.push(item);
+    }
+  }
+
+  const result = picked.slice(0, count);
+  if (result.length < count) {
+    for (const item of overflow) {
+      if (result.length >= count) break;
+      result.push(item);
+    }
+  }
+  return result;
+}
+
+const top = diversify(fresh, limit, maxPerSource);
 const intro = isDigest
   ? `**${shanghaiStamp()} 汇总** · 自上次推送以来的新项目`
   : "本次构建新增的项目";
