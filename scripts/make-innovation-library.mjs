@@ -266,7 +266,7 @@ function classifyCategory(text) {
 }
 
 function classifyStage(text, sourceName) {
-  if (/kickstarter|crowdfund|众筹/i.test(text)) return "众筹中";
+  if (/kickstarter|crowdfund|makuake|クラウドファンディング|マクアケ|众筹/i.test(text)) return "众筹中";
   if (/prototype|build your own|\bDIY\b|open[ -]source|原型|开源|自制/i.test(text)) return "原型/开源";
   if (/raised? \$?\d|funding|valuation|融资|估值/i.test(text)) return "已融资";
   if (/shipping|now available|available to order|released|上线|开售|现已提供/i.test(text)) return "已发布";
@@ -282,6 +282,10 @@ function classifyFormat(text) {
   return "硬件产品";
 }
 
+function isCrowdfundingSource(item) {
+  return /^(kickstarter|indiegogo|makuake)/i.test(item.source?.id || "");
+}
+
 function evaluateItem(item) {
   const title = clean(item.title);
   const summary = clean(item.summary);
@@ -289,13 +293,16 @@ function evaluateItem(item) {
   const summaryZh = clean(item.summaryZh);
   const text = `${title} ${summary} ${titleZh} ${summaryZh}`;
   const sourceName = item.source?.name || "Unknown";
+  const crowdfunding = isCrowdfundingSource(item);
 
   if (!title || matchesAny(title, titleRejectPatterns)) return null;
   if (matchesAny(title, accessoryRejectPatterns)) return null;
   if (traditionalCameraModelPattern.test(title) && !breakthroughCameraPattern.test(text)) return null;
   const evidenceText = `${title} ${summary.slice(0, 360)}`;
   if (matchesAny(evidenceText, evidenceRejectPatterns)) return null;
-  if (!matchesAny(text, visualProductPatterns)) return null;
+  // 众筹页的描述里常出现「写真」「撮影」这类泛用词，视觉产品判断只看标题，避免把锅具、球杆放进来。
+  const visualText = crowdfunding ? `${title} ${titleZh}` : text;
+  if (!matchesAny(visualText, visualProductPatterns)) return null;
 
   if (/\bdrone/i.test(text) && !matchesAny(text, droneVisualPatterns)) return null;
 
@@ -307,7 +314,8 @@ function evaluateItem(item) {
     .filter((label, index, values) => values.indexOf(label) === index);
 
   const discoveryException = /camera feeder|birdwatch|观鸟/i.test(text);
-  if (!projectSignal && !(trustedSource && (innovationReasons.length >= 2 || discoveryException))) return null;
+  if (!projectSignal && !crowdfunding && !(trustedSource && (innovationReasons.length >= 2 || discoveryException))) return null;
+  if (crowdfunding && innovationReasons.length === 0) innovationReasons.push("众筹验证");
   if (innovationReasons.length === 0) return null;
 
   let innovationScore = 35;
@@ -319,6 +327,7 @@ function evaluateItem(item) {
   if (/transparent viewfinder|electronic ND|camera robot|focus stacking|STARVIS|480fps|high frame rate|kickstarter|crowdfund|开源|透明取景器|电子 ND/i.test(text)) {
     innovationScore += 7;
   }
+  if (crowdfunding) innovationScore += 10;
 
   const conventionalLens = conventionalLensPattern.test(text) && /\blens(?:es)?\b|镜头/i.test(text);
   if (conventionalLens && !/electronic|transparent|phone|iPhone|modular|computational|AI\b|智能|电子|透明|手机/i.test(text)) {
@@ -327,11 +336,11 @@ function evaluateItem(item) {
   if (majorBrandPattern.test(text) && innovationReasons.length < 2) innovationScore -= 8;
 
   innovationScore = Math.max(0, Math.min(100, innovationScore));
-  if (innovationScore < 72) return null;
+  if (innovationScore < (crowdfunding ? 60 : 72)) return null;
 
   const stage = classifyStage(text, sourceName);
   const reasons = [...innovationReasons];
-  if (stage === "众筹中") reasons.unshift("众筹验证");
+  if (stage === "众筹中" && !reasons.includes("众筹验证")) reasons.unshift("众筹验证");
   if (stage === "已融资") reasons.unshift("获得融资");
   if (stage === "原型/开源" && !reasons.includes("开源可自制")) reasons.unshift("原型探索");
 

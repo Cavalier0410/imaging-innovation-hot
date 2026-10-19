@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-19T09:50:33.588Z",
+  "generatedAt": "2026-10-19T09:55:14.610Z",
   "sourceGeneratedAt": "2026-10-19T09:48:52.116Z",
   "criteriaVersion": 2,
   "stats": {
     "scannedThisRun": 183,
-    "acceptedThisRun": 11,
-    "newThisRun": 4,
-    "projectCount": 41,
+    "acceptedThisRun": 13,
+    "newThisRun": 2,
+    "projectCount": 43,
     "categoryCount": 7,
-    "sourceCount": 14,
-    "withImageCount": 34
+    "sourceCount": 15,
+    "withImageCount": 35
   },
   "categoryCounts": {
-    "专业影像新技术": 12,
+    "专业影像新技术": 14,
     "空间影像与显示": 9,
     "创新光学与传感": 7,
     "AI 与计算影像": 4,
@@ -21,6 +21,45 @@
     "便携与移动创作": 2
   },
   "projects": [
+    {
+      "id": "df4a336c9854b7b245312c89b094797d8c4174f5",
+      "title": "Cricut｜写真やイラストをシールに！全自動フォトステッカープリンター",
+      "titleZh": "蟋蟀 |将照片和插图变成贴纸！全自动照片贴纸打印机",
+      "summary": "※リターン品の配送が完了するまで、株式会社VYPER JAPANはＣricut Stickerpix Print + CutとCricut Stickerpix Printの日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 あなたの中の“好き”を、カタチに。 世界1000万人以上のユーザーと歩んできたCricut（クリカット）から、待望の1台、全自動フォトステッカープリンター「Stickerpix Print + Cut」が登場。 写真やデザインを選んだら、あとはおまかせ。 プリント・ラミネート・カットまで全自動。 なぜ、スマホの中の“お気に入り”のデータが、お家で簡単にシールやフォトに？ その理由は、印刷・ラミネート・カットを1台でこなす「Stickerpix Print + Cut」にあります。 「プリント」を押したら、あとは約1分待つだけ。 ステッカーやシールにするものは、あなた次第。 スマホの中の“好き”が、ステッカーやシールになる。 旅の思い出、友達や家族との写真、 子どもが描いた絵も、ペットも、好きなイラストも… あなたの“好き”が、自分だけのステッカーやシールに変わります。 写真やデザインを選んだら、あとはおまかせ。 プリントからラミネート、輪郭に沿ったカットまで、この1台が自動で仕上げます。ハサミで切ったり、ラミネートを貼り合わせたりする手間もありません。 使うのは、Cricut Design Spaceアプリ。 「選ぶ → 整える → 作る」の3ステップ。難しい操作は一切なく、はじめてでも直感的に楽しめます。 ※自動背景消し機能の利用には有料サブスクリプションが必要です。なお、手動背景消し機能は無料でご利用いただけます。 ゼロからデザインしなくても、デザインが苦手でも大丈夫！好きなデザインを選ぶだけで、すぐに始められます。 *1コンテンツライブラリの全機能を利用するには、有料のCricut Accessサブスクリプションが必要です。 利用規約が適用されます。*2特定のソフトウェア機能には有料サブスクリプションが必要です。 利用規約と詳細については、 cricut.com をご覧ください。毎月の無料付与のクレジットにてAI機能をご利用いただけます。 写真やイラストの輪郭に沿って自動で精密カット。高精度のカッティングシステムで、複雑な形状や細かな部分まできれいに仕上げます。 細かな輪郭も、自動でカット。 細かな輪郭まで、きれいにカット。 ※精密カット機能は、Print + Cutのみ対応しています。 使用上の注意 水に強いシールですが、食洗機・電子レンジでのご使用は推奨しておりません。手洗い、濡れた布で軽く拭く、または水で洗い流す程度を想定した設計です。 プリントと同時にラミネートま",
+      "summaryZh": "*在退货产品发货之前，VYPER JAPAN Co., Ltd. 是日本的授权经销商，拥有 Cricut Stickerpix Print + Cut 和 Cricut Stickerpix Print 的独家销售权。欲了解更多信息，请参阅页面底部的风险与挑战。塑造你的“爱”。与全球超过 1000 万用户合作的 Cricut 发布了期待已久的全自动照片贴纸打印机“Stickerpix Print + Cut”。一旦您选择了照片和设计，剩下的就交给您了。全自动印刷、覆膜、裁切。为什么您可以在家中轻松地将智能手机上“最喜欢的”数据变成贴纸或照片？其原因是“Stickerpix Print + Cut”，它可以在一台机器上打印、层压和切割。按“打印”后，您只需等待约 1 分钟即可。您选择将什么制作成贴纸或贴纸取决于您。智能手机上的“点赞”可以变成贴纸或贴纸。你的旅行回忆、与朋友和家人的照片、你的孩子、你的宠物、你最喜欢的插图……你的“爱”可以是你自己的贴纸。",
+      "url": "https://www.makuake.com/project/cricutstickerpix/",
+      "normalizedUrl": "https://makuake.com/project/cricutstickerpix",
+      "publishedAt": "2026-11-16T03:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Cricut｜写真やイラストをシールに！全自動フォトステッカープリンター",
+          "url": "https://www.makuake.com/project/cricutstickerpix/",
+          "source": "Makuake",
+          "publishedAt": "2026-11-16T03:00:00.000Z"
+        }
+      ],
+      "baseScore": 80,
+      "firstSeenAt": "2026-10-19T09:55:14.610Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
+      "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-10-19T09:55:14.610Z"
+    },
     {
       "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
       "title": "見たものを撮って、その場でAIに聞ける。カメラ搭載イヤホン「ARES」",
@@ -41,7 +80,7 @@
       "projectCategory": "专业影像新技术",
       "projectStage": "持续观察",
       "projectFormat": "硬件产品",
-      "innovationScore": 74,
+      "innovationScore": 84,
       "innovationReasons": [
         "AI 影像",
         "新产品形态"
@@ -54,9 +93,9 @@
           "publishedAt": "2026-10-28T02:00:00.000Z"
         }
       ],
-      "baseScore": 74,
+      "baseScore": 84,
       "firstSeenAt": "2026-10-19T09:50:33.588Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://static.makuake.com/upload/project/54064/main_54064.png?version=1792047335&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:50:33.588Z"
     },
@@ -97,7 +136,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-19T09:50:33.588Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/typairs-wearable-keyboard-prototype-lets-you-type-without-speaking-aloud/typair-wearable-blutooth-keyboard-01.jpg",
       "imageCheckedAt": "2026-10-19T09:50:33.588Z"
     },
@@ -134,7 +173,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -213,7 +252,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-19T09:50:33.588Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:50:33.588Z"
     },
@@ -253,7 +292,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T09:50:33.588Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T09:50:33.588Z"
     },
@@ -293,7 +332,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonymicrecmax10_03.jpg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 98
@@ -332,7 +371,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 76
@@ -371,7 +410,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011348/_U9qLEJuyjd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 91
@@ -411,7 +450,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -449,7 +488,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2010842/_7oEDLWWgvH.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 73
@@ -490,7 +529,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-19T09:50:33.588Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
@@ -1638,6 +1677,45 @@
       "imageUrl": "https://photorumors.com/wp-content/uploads/2026/06/Godox-C100-camera-13.jpg",
       "imageCheckedAt": "2026-07-10T01:27:33.890Z",
       "baseScore": 92
+    },
+    {
+      "id": "db2ec70a14bb835eb25cd3b39fad3e53d0bfb48d",
+      "title": "Insta360 Air 360 VR Clip On Camera for Smartphone by Bianca Zhang - Indiegogo",
+      "titleZh": "适用于智能手机的 Insta360 Air 360 VR 夹式相机 by Bianca Zhu - Indiegogo",
+      "summary": "Insta360 Air 360 VR Clip On Camera for Smartphone by Bianca Zhang &nbsp;&nbsp; Indiegogo",
+      "summaryZh": "适用于智能手机的 Insta360 Air 360 VR 夹式相机，作者：Bianca Zhu Indiegogo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmdlVnIyZDZXSTFPSW1QWklWbDlRZjBYR0taLVdrU1NJdnB6VHJxNlpucTdJOHJKY3B6Q1NfcUloenZtaTQxd3hHQXNRREtGXzJfejR5VkxJOWFYTFhTMTJoQ1lvcE5WV3RKZHBCSUlUWk9wdEhOTllqeUFfLU9hSFRrR0IxZHFzRk9rcGxpX1p3WGNFWTAwZkpicmVBSmhj?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmdlVnIyZDZXSTFPSW1QWklWbDlRZjBYR0taLVdrU1NJdnB6VHJxNlpucTdJOHJKY3B6Q1NfcUloenZtaTQxd3hHQXNRREtGXzJfejR5VkxJOWFYTFhTMTJoQ1lvcE5WV3RKZHBCSUlUWk9wdEhOTllqeUFfLU9hSFRrR0IxZHFzRk9rcGxpX1p3WGNFWTAwZkpicmVBSmhj?oc=5",
+      "publishedAt": "2025-10-18T01:06:38.000Z",
+      "source": {
+        "id": "indiegogo-news",
+        "name": "Indiegogo",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "新视角采集",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Insta360 Air 360 VR Clip On Camera for Smartphone by Bianca Zhang - Indiegogo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmdlVnIyZDZXSTFPSW1QWklWbDlRZjBYR0taLVdrU1NJdnB6VHJxNlpucTdJOHJKY3B6Q1NfcUloenZtaTQxd3hHQXNRREtGXzJfejR5VkxJOWFYTFhTMTJoQ1lvcE5WV3RKZHBCSUlUWk9wdEhOTllqeUFfLU9hSFRrR0IxZHFzRk9rcGxpX1p3WGNFWTAwZkpicmVBSmhj?oc=5",
+          "source": "Indiegogo",
+          "publishedAt": "2025-10-18T01:06:38.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-10-19T09:55:14.610Z",
+      "lastSeenAt": "2026-10-19T09:55:14.610Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-19T09:55:14.610Z"
     }
   ]
 }
