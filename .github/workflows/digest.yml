@@ -12,6 +12,10 @@ on:
         description: "只打印汇总，不发送、不改状态"
         type: boolean
         default: false
+      since:
+        description: "覆盖汇总起点（ISO 时间，可选）"
+        type: string
+        required: false
 
 permissions:
   contents: write
@@ -42,6 +46,7 @@ jobs:
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          FEISHU_SINCE: ${{ inputs.since }}
       - name: Persist digest state
         if: ${{ !inputs.dry_run }}
         run: |

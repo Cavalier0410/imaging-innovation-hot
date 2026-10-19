@@ -15,6 +15,7 @@ const limit = Number(process.env.FEISHU_LIMIT || (isDigest ? 10 : 5));
 const maxPerSource = Number(process.env.FEISHU_MAX_PER_SOURCE || 2);
 const fallbackWindowHours = Number(process.env.FEISHU_WINDOW_HOURS || 12);
 
+const sinceOverride = process.env.FEISHU_SINCE;
 const statePath = path.join(process.cwd(), "data", "notify-state.json");
 const dataPath = path.join(process.cwd(), "data", "innovation-projects.json");
 
@@ -146,9 +147,13 @@ let fresh;
 
 if (isDigest) {
   const state = await readJson(statePath, {});
-  const since = state.lastDigestAt
-    ? new Date(state.lastDigestAt)
-    : new Date(Date.now() - fallbackWindowHours * 60 * 60 * 1000);
+  const overrideDate = sinceOverride ? new Date(sinceOverride) : null;
+  const since =
+    overrideDate && !Number.isNaN(overrideDate.getTime())
+      ? overrideDate
+      : state.lastDigestAt
+        ? new Date(state.lastDigestAt)
+        : new Date(Date.now() - fallbackWindowHours * 60 * 60 * 1000);
 
   fresh = (data.projects || [])
     .filter((project) => project.firstSeenAt && new Date(project.firstSeenAt) > since)
