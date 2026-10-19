@@ -1,0 +1,57 @@
+name: Feishu digest
+
+# 每天 11:00 和 17:00（Asia/Shanghai）各发一次汇总，只包含上次汇总之后的新项目。
+# 也可以手动触发：Actions → Feishu digest → Run workflow。
+on:
+  schedule:
+    - cron: "0 3 * * *" # 11:00 Asia/Shanghai
+    - cron: "0 9 * * *" # 17:00 Asia/Shanghai
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只打印汇总，不发送、不改状态"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feishu-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Restore persistent data
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/innovation-projects.json
+            data/translation-cache.json
+            data/notify-state.json
+          key: radar-data-${{ github.run_id }}
+          restore-keys: |
+            radar-data-
+      - name: Send digest
+        run: node scripts/notify-feishu.mjs --digest ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+      - name: Persist digest state
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/notify-state.json data/innovation-projects.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: digest snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash
+            git push
+          fi

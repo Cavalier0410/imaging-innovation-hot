@@ -9,3 +9,4 @@ data/*
 !data/innovation-product-library.html
 !data/innovation-projects.json
 !data/translation-cache.json
+!data/notify-state.json
