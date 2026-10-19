@@ -52,11 +52,13 @@ npm run library:rebuild
 如果设置以下任意环境变量，会优先使用 OpenAI 兼容模型；失败时自动退回 Google 翻译：
 
 ```text
-OPENAI_API_KEY
-DEEPSEEK_API_KEY
-SILICONFLOW_API_KEY
-DASHSCOPE_API_KEY
+OPENAI_API_KEY       # gpt-4o-mini
+DEEPSEEK_API_KEY     # deepseek-chat
+SILICONFLOW_API_KEY  # Qwen/Qwen2.5-7B-Instruct
+DASHSCOPE_API_KEY    # qwen-turbo
 ```
+
+模型和 Base URL 可以用 `OPENAI_TRANSLATE_MODEL`、`OPENAI_BASE_URL` 覆盖。GitHub Actions 的免费出口 IP 经常被 Google 翻译限流（HTTP 429），如果发现标题没有翻译，在仓库 Secrets 里加一个 `DEEPSEEK_API_KEY` 即可稳定走模型翻译。
 
 不要把密钥提交到仓库。项目已忽略 `.env` 和 `.env.*` 文件。
 

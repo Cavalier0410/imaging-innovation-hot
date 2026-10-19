@@ -96,18 +96,50 @@ async function translateByGoogle(text) {
   throw lastError;
 }
 
-async function translateByOpenAI(text) {
-  const apiKey =
-    process.env.OPENAI_API_KEY ||
-    process.env.DEEPSEEK_API_KEY ||
-    process.env.SILICONFLOW_API_KEY ||
-    process.env.DASHSCOPE_API_KEY;
-  if (!apiKey) return null;
+function resolveTranslationBackend() {
+  const baseUrlOverride = process.env.OPENAI_BASE_URL;
+  const modelOverride = process.env.OPENAI_TRANSLATE_MODEL || process.env.TRANSLATE_MODEL;
 
-  const baseUrl =
-    process.env.OPENAI_BASE_URL ||
-    (process.env.DEEPSEEK_API_KEY ? "https://api.deepseek.com/v1" : "https://api.openai.com/v1");
-  const model = process.env.OPENAI_TRANSLATE_MODEL || process.env.TRANSLATE_MODEL || "gpt-4o-mini";
+  if (process.env.OPENAI_API_KEY) {
+    return {
+      apiKey: process.env.OPENAI_API_KEY,
+      baseUrl: baseUrlOverride || "https://api.openai.com/v1",
+      model: modelOverride || "gpt-4o-mini"
+    };
+  }
+
+  if (process.env.DEEPSEEK_API_KEY) {
+    return {
+      apiKey: process.env.DEEPSEEK_API_KEY,
+      baseUrl: baseUrlOverride || "https://api.deepseek.com/v1",
+      model: modelOverride || "deepseek-chat"
+    };
+  }
+
+  if (process.env.SILICONFLOW_API_KEY) {
+    return {
+      apiKey: process.env.SILICONFLOW_API_KEY,
+      baseUrl: baseUrlOverride || "https://api.siliconflow.cn/v1",
+      model: modelOverride || "Qwen/Qwen2.5-7B-Instruct"
+    };
+  }
+
+  if (process.env.DASHSCOPE_API_KEY) {
+    return {
+      apiKey: process.env.DASHSCOPE_API_KEY,
+      baseUrl: baseUrlOverride || "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      model: modelOverride || "qwen-turbo"
+    };
+  }
+
+  return null;
+}
+
+async function translateByOpenAI(text) {
+  const backend = resolveTranslationBackend();
+  if (!backend) return null;
+
+  const { apiKey, baseUrl, model } = backend;
 
   const response = await fetch(`${baseUrl.replace(/\/$/, "")}/chat/completions`, {
     method: "POST",
