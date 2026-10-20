@@ -87,6 +87,48 @@ function shanghaiStamp() {
   }).format(new Date());
 }
 
+function shanghaiDateHour() {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    hour12: false
+  }).formatToParts(new Date());
+  const get = (type) => parts.find((part) => part.type === type)?.value || "";
+  return {
+    date: `${get("year")}-${get("month")}-${get("day")}`,
+    hour: Number(get("hour"))
+  };
+}
+
+function dailyEmptyCard(projectCount) {
+  return card({
+    config: { wide_screen_mode: true },
+    header: {
+      template: "grey",
+      title: { tag: "plain_text", content: "影像雷达 · 今日无新增" }
+    },
+    elements: [
+      {
+        tag: "div",
+        text: {
+          tag: "lark_md",
+          content: `今天没有发现新的影像产品。\n\n项目库目前共 **${projectCount}** 个。`
+        }
+      },
+      {
+        tag: "div",
+        text: {
+          tag: "lark_md",
+          content: `[打开项目库](${siteUrl}/) · [行业 Hot 报告](${siteUrl}/hot.html)`
+        }
+      }
+    ]
+  });
+}
+
 function projectLine(project, index) {
   const title = project.titleZh || project.title || "未命名项目";
   const link = project.url || project.normalizedUrl || siteUrl;
@@ -167,6 +209,15 @@ let sentIds = new Set();
 
 if (isDigest) {
   const state = await readJson(statePath, {});
+
+  if (process.env.FEISHU_SCHEDULED === "1" && state.lastDigestAt) {
+    const minutes = (Date.now() - new Date(state.lastDigestAt).getTime()) / 60000;
+    if (minutes >= 0 && minutes < 55) {
+      console.log(`Last digest ${minutes.toFixed(0)} minute(s) ago; skipping this run.`);
+      process.exit(0);
+    }
+  }
+
   const overrideDate = sinceOverride ? new Date(sinceOverride) : null;
   const since =
     overrideDate && !Number.isNaN(overrideDate.getTime())
@@ -206,6 +257,39 @@ if (isDigest) {
       (alreadySent ? `, ${alreadySent} already sent` : "") +
       (isDryRun ? " (dry run)" : "")
   );
+
+  if (fresh.length === 0) {
+    const { date: today, hour } = shanghaiDateHour();
+    const scheduled = process.env.FEISHU_SCHEDULED === "1";
+
+    // 每天至少一条：傍晚 17:00 之后如果今天还什么都没发，就发一条“今日无新增”。
+    if (scheduled && state.lastDigestDate !== today && hour >= 17) {
+      if (isDryRun) {
+        console.log("DRY RUN: would send the daily no-update digest.");
+        process.exit(0);
+      }
+      await post(dailyEmptyCard((data.projects || []).length));
+      await writeFile(
+        statePath,
+        JSON.stringify(
+          {
+            lastDigestAt: new Date().toISOString(),
+            lastDigestDate: today,
+            lastCount: 0,
+            sentProjectIds: [...sentIds]
+          },
+          null,
+          2
+        ),
+        "utf8"
+      );
+      console.log("Sent daily no-update digest.");
+      process.exit(0);
+    }
+
+    console.log("No new projects above threshold; skipping Feishu notification.");
+    process.exit(0);
+  }
 } else {
   const runStamp = data.generatedAt;
   fresh = (data.projects || [])
@@ -285,6 +369,7 @@ if (isDigest) {
     JSON.stringify(
       {
         lastDigestAt: new Date().toISOString(),
+        lastDigestDate: shanghaiDateHour().date,
         lastCount: fresh.length,
         sentProjectIds
       },
