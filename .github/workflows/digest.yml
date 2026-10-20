@@ -47,6 +47,7 @@ jobs:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
           FEISHU_SINCE: ${{ inputs.since }}
+          FEISHU_SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '' }}
       - name: Persist digest state
         if: ${{ !inputs.dry_run }}
         run: |

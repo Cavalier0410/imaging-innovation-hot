@@ -137,6 +137,25 @@ if (isFailure) {
   process.exit(0);
 }
 
+if (isDigest && !isDryRun && process.env.FEISHU_SCHEDULED === "1") {
+  const parts = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Asia/Shanghai",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false
+  }).formatToParts(new Date());
+  const hour = Number(parts.find((part) => part.type === "hour")?.value || 0);
+  const minute = Number(parts.find((part) => part.type === "minute")?.value || 0);
+  const inWindow =
+    hour === 11 || (hour === 12 && minute <= 30) || hour === 17 || (hour === 18 && minute <= 30);
+  if (!inWindow) {
+    console.log(
+      `Scheduled digest at ${hour}:${String(minute).padStart(2, "0")} Asia/Shanghai is outside the 11:00/17:00 window; skipping.`
+    );
+    process.exit(0);
+  }
+}
+
 const data = await readJson(dataPath, null);
 if (!data) {
   console.log("No project data to notify; skipping.");
