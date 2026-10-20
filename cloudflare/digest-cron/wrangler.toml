@@ -1,0 +1,7 @@
+name = "imaging-digest-cron"
+main = "src/index.js"
+compatibility_date = "2026-10-19"
+
+# Cloudflare cron 使用 UTC：03:00 / 09:00 UTC = 11:00 / 17:00 Asia/Shanghai
+[triggers]
+crons = ["0 3 * * *", "0 9 * * *"]
