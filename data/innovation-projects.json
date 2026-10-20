@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T06:00:27.654Z",
-  "sourceGeneratedAt": "2026-10-20T06:00:20.921Z",
+  "generatedAt": "2026-10-20T11:34:18.487Z",
+  "sourceGeneratedAt": "2026-10-20T11:34:11.525Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 193,
-    "acceptedThisRun": 15,
+    "scannedThisRun": 196,
+    "acceptedThisRun": 12,
     "newThisRun": 0,
     "projectCount": 46,
     "categoryCount": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -134,7 +134,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -212,7 +212,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -291,7 +291,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-19T09:31:10.264Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011650/_kAy9uLE8ca.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T09:31:10.264Z"
     },
@@ -331,7 +331,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -371,7 +371,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonymicrecmax10_03.jpg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 98
@@ -449,7 +449,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011348/_U9qLEJuyjd.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 91
@@ -489,7 +489,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -568,7 +568,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
@@ -610,7 +610,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -651,7 +651,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1840,7 +1840,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T06:00:27.654Z",
+      "lastSeenAt": "2026-10-20T11:34:18.487Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
