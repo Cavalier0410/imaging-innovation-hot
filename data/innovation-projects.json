@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-20T11:34:18.487Z",
-  "sourceGeneratedAt": "2026-10-20T11:34:11.525Z",
+  "generatedAt": "2026-10-20T23:52:45.151Z",
+  "sourceGeneratedAt": "2026-10-20T23:52:38.949Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 196,
+    "scannedThisRun": 190,
     "acceptedThisRun": 12,
     "newThisRun": 0,
-    "projectCount": 46,
+    "projectCount": 47,
     "categoryCount": 7,
     "sourceCount": 16,
-    "withImageCount": 39
+    "withImageCount": 40
   },
   "categoryCounts": {
     "专业影像新技术": 14,
-    "空间影像与显示": 11,
+    "空间影像与显示": 12,
     "创新光学与传感": 7,
     "运动影像与航拍": 4,
     "AI 与计算影像": 4,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -100,6 +100,44 @@
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "c5f24e8a7dc66f7da030b60ad5c2e60dbf6bfcb9",
+      "title": "These smart glasses turn your blinks into electricity",
+      "titleZh": "These smart glasses turn your blinks into electricity",
+      "summary": "These smart glasses turn your blinks into electricity Your face is a power plant, and you’ve been running it for free your whole life. Every blink and jaw clench releases a tiny burst...",
+      "summaryZh": "These smart glasses turn your blinks into electricity Your face is a power plant, and you’ve been running it for free your whole life. Every blink and jaw clench releases a tiny burst...",
+      "url": "https://www.yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity/",
+      "normalizedUrl": "https://yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity",
+      "publishedAt": "2026-10-20T20:30:21.000Z",
+      "source": {
+        "id": "yanko-design",
+        "name": "Yanko Design",
+        "category": "新兴产品/设计",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "These smart glasses turn your blinks into electricity",
+          "url": "https://www.yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity/",
+          "source": "Yanko Design",
+          "publishedAt": "2026-10-20T20:30:21.000Z"
+        }
+      ],
+      "baseScore": 79,
+      "firstSeenAt": "2026-10-20T20:35:25.660Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/glassteng_1.jpg",
+      "imageCheckedAt": "2026-10-20T20:35:25.660Z"
+    },
+    {
       "id": "ad946d99adc5eb46433422f5f55ae3a2eb9b2801",
       "title": "Panasonic and Sigma rumored to announce new L-mount cameras in the coming weeks",
       "titleZh": "据传松下和西格玛将在未来几周内推出新的 L 卡口相机",
@@ -134,7 +172,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -212,7 +250,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -291,7 +329,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-19T09:31:10.264Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011650/_kAy9uLE8ca.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T09:31:10.264Z"
     },
@@ -331,7 +369,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -371,7 +409,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonymicrecmax10_03.jpg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 98
@@ -489,7 +527,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -568,7 +606,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
@@ -610,7 +648,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -651,7 +689,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1840,7 +1878,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T11:34:18.487Z",
+      "lastSeenAt": "2026-10-20T23:52:45.151Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
