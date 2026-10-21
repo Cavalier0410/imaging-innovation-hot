@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-20T23:52:45.151Z",
-  "sourceGeneratedAt": "2026-10-20T23:52:38.949Z",
+  "generatedAt": "2026-10-21T04:44:02.227Z",
+  "sourceGeneratedAt": "2026-10-21T04:43:55.927Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 190,
-    "acceptedThisRun": 12,
-    "newThisRun": 0,
-    "projectCount": 47,
+    "scannedThisRun": 195,
+    "acceptedThisRun": 13,
+    "newThisRun": 1,
+    "projectCount": 48,
     "categoryCount": 7,
     "sourceCount": 16,
-    "withImageCount": 40
+    "withImageCount": 41
   },
   "categoryCounts": {
     "专业影像新技术": 14,
     "空间影像与显示": 12,
     "创新光学与传感": 7,
-    "运动影像与航拍": 4,
+    "运动影像与航拍": 5,
     "AI 与计算影像": 4,
     "智能相机与机器人": 4,
     "便携与移动创作": 2
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -100,6 +100,51 @@
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "743c15ab52628942639e22e02e74d3a0e3ffd463",
+      "title": "Antigravity A1 Becomes a Wearable-Controlled 8K 360° Follow Camera",
+      "titleZh": "Antigravity A1 Becomes a Wearable-Controlled 8K 360° Follow Camera",
+      "summary": "Antigravity’s new Follow Me Bundle transforms the A1 drone into a wearable-controlled 360° follow camera. The bundle offers a wearable alternative to the Vision Goggles and Grip Controller through Watch and Ring Remotes. The Watch provides a live preview and key flight controls, while the Ring Remote’s Drag-to-Fly function lets users reposition A1 with a ... Read more The post Antigravity A1 Becomes a Wearable-Controlled 8K 360° Follow Camera appeared first on Newsshooter .",
+      "summaryZh": "Antigravity’s new Follow Me Bundle transforms the A1 drone into a wearable-controlled 360° follow camera. The bundle offers a wearable alternative to the Vision Goggles and Grip Controller through Watch and Ring Remotes. The Watch provides a live preview and key flight controls, while the Ring Remote’s Drag-to-Fly function lets users reposition A1 with a ... Read more The post Antigravity A1 Becomes a Wearable-Controlled 8K 360° Follow Camera appeared first on Newsshooter .",
+      "url": "https://www.newsshooter.com/2026/10/20/antigravity-a1-becomes-a-wearable-controlled-8k-360-follow-camera/",
+      "normalizedUrl": "https://newsshooter.com/2026/10/20/antigravity-a1-becomes-a-wearable-controlled-8k-360-follow-camera",
+      "publishedAt": "2026-10-21T00:03:30.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "便携形态",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Antigravity A1 Becomes a Wearable-Controlled 8K 360° Follow Camera",
+          "url": "https://www.newsshooter.com/2026/10/20/antigravity-a1-becomes-a-wearable-controlled-8k-360-follow-camera/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-21T00:03:30.000Z"
+        },
+        {
+          "title": "Antigravity A1: new bundle transforms it into an 8K 360 follow-me drone",
+          "url": "https://www.provideocoalition.com/antigravity-a1-new-bundle-transforms-it-into-an-8k-360-follow-me-drone/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-10-20T13:00:33.000Z"
+        }
+      ],
+      "baseScore": 81,
+      "firstSeenAt": "2026-10-21T04:44:02.227Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Lifestyle-1.jpeg",
+      "imageCheckedAt": "2026-10-21T04:44:02.227Z"
+    },
+    {
       "id": "c5f24e8a7dc66f7da030b60ad5c2e60dbf6bfcb9",
       "title": "These smart glasses turn your blinks into electricity",
       "titleZh": "These smart glasses turn your blinks into electricity",
@@ -133,7 +178,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-20T20:35:25.660Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/glassteng_1.jpg",
       "imageCheckedAt": "2026-10-20T20:35:25.660Z"
     },
@@ -172,7 +217,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -250,7 +295,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -329,7 +374,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-19T09:31:10.264Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011650/_kAy9uLE8ca.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T09:31:10.264Z"
     },
@@ -369,7 +414,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -409,7 +454,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonymicrecmax10_03.jpg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 98
@@ -527,7 +572,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -606,7 +651,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
@@ -648,7 +693,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -689,7 +734,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1878,7 +1923,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-20T23:52:45.151Z",
+      "lastSeenAt": "2026-10-21T04:44:02.227Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
