@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T10:07:57.672Z",
-  "sourceGeneratedAt": "2026-10-21T10:07:34.143Z",
+  "generatedAt": "2026-10-21T23:18:19.348Z",
+  "sourceGeneratedAt": "2026-10-21T23:18:12.715Z",
   "criteriaVersion": 2,
   "stats": {
     "scannedThisRun": 195,
-    "acceptedThisRun": 13,
+    "acceptedThisRun": 11,
     "newThisRun": 0,
     "projectCount": 48,
     "categoryCount": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -141,16 +141,16 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-10-21T04:44:02.227Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Lifestyle-1.jpeg",
       "imageCheckedAt": "2026-10-21T04:44:02.227Z"
     },
     {
-      "id": "c5f24e8a7dc66f7da030b60ad5c2e60dbf6bfcb9",
-      "title": "These smart glasses turn your blinks into electricity",
-      "titleZh": "这些智能眼镜将你的眨眼转化为电能",
-      "summary": "These smart glasses turn your blinks into electricity Your face is a power plant, and you’ve been running it for free your whole life. Every blink and jaw clench releases a tiny burst...",
-      "summaryZh": "这些智能眼镜将你的眨眼转化为电能。你的脸是一座发电厂，而你一生都在免费运行它。每一次眨眼和每一次咬紧牙关都会释放出微小的爆发……",
+      "id": "57e4ecc83a85535cb61086c4801fad4ee648d3ad",
+      "title": "These Blink-powered Smart Glasses Could Change Wearables Forever",
+      "titleZh": "These Blink-powered Smart Glasses Could Change Wearables Forever",
+      "summary": "These Blink-powered Smart Glasses Could Change Wearables Forever Your face is a power plant, and you’ve been running it for free your whole life. Every blink and jaw clench releases a tiny burst...",
+      "summaryZh": "这些眨眼驱动的智能眼镜可以永远改变可穿戴设备你的脸是一座发电厂，你一生都在免费运行它。每一次眨眼和每一次咬紧牙关都会释放出微小的爆发……",
       "url": "https://www.yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity/",
       "normalizedUrl": "https://yankodesign.com/2026/10/20/these-smart-glasses-turn-your-blinks-into-electricity",
       "publishedAt": "2026-10-20T20:30:21.000Z",
@@ -165,9 +165,10 @@
       "projectCategory": "空间影像与显示",
       "projectStage": "持续观察",
       "projectFormat": "硬件产品",
-      "innovationScore": 86,
+      "innovationScore": 93,
       "innovationReasons": [
         "空间影像",
+        "便携形态",
         "新产品形态"
       ],
       "references": [
@@ -178,9 +179,9 @@
           "publishedAt": "2026-10-20T20:30:21.000Z"
         }
       ],
-      "baseScore": 86,
+      "baseScore": 93,
       "firstSeenAt": "2026-10-20T20:35:25.660Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T19:18:52.270Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/glassteng_1.jpg",
       "imageCheckedAt": "2026-10-20T20:35:25.660Z"
     },
@@ -219,7 +220,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -297,7 +298,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2012017/_4hABoms0ip.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 77
@@ -376,7 +377,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-19T09:31:10.264Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2011650/_kAy9uLE8ca.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-19T09:31:10.264Z"
     },
@@ -416,7 +417,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -574,7 +575,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -653,7 +654,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 95
@@ -695,7 +696,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -736,7 +737,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1925,7 +1926,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-21T10:07:57.672Z",
+      "lastSeenAt": "2026-10-21T23:18:19.348Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
