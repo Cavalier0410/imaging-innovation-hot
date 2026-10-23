@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-22T10:10:26.961Z",
-  "sourceGeneratedAt": "2026-10-22T10:10:20.395Z",
+  "generatedAt": "2026-10-23T01:30:17.258Z",
+  "sourceGeneratedAt": "2026-10-23T01:30:10.990Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 187,
+    "scannedThisRun": 180,
     "acceptedThisRun": 9,
     "newThisRun": 0,
-    "projectCount": 48,
+    "projectCount": 52,
     "categoryCount": 7,
     "sourceCount": 16,
-    "withImageCount": 41
+    "withImageCount": 44
   },
   "categoryCounts": {
-    "专业影像新技术": 14,
+    "专业影像新技术": 17,
     "空间影像与显示": 12,
     "创新光学与传感": 7,
+    "智能相机与机器人": 5,
     "运动影像与航拍": 5,
     "AI 与计算影像": 4,
-    "智能相机与机器人": 4,
     "便携与移动创作": 2
   },
   "projects": [
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -98,6 +98,122 @@
       "lastSeenAt": "2026-10-20T01:41:44.499Z",
       "imageUrl": "https://static.makuake.com/upload/project/54064/main_54064.png?version=1792047335&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "c570b4f37efec9351f1d534512b33532e1557b1c",
+      "title": "Insta360 Has Two Wireless Mics, Here’s What Actually Sets Them Apart",
+      "titleZh": "Insta360 Has Two Wireless Mics, Here’s What Actually Sets Them Apart",
+      "summary": "Move the camera back to frame an interview, and its built-in microphone moves farther from the person you’re trying to hear. A wireless mic lets you keep the shot you want while placing the microphone close to the speaker. With…",
+      "summaryZh": "Move the camera back to frame an interview, and its built-in microphone moves farther from the person you’re trying to hear. A wireless mic lets you keep the shot you want while placing the microphone close to the speaker. With…",
+      "url": "https://the-gadgeteer.com/2026/10/22/insta360-mic-vs-mic-pro/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/10/22/insta360-mic-vs-mic-pro",
+      "publishedAt": "2026-10-22T22:00:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 87,
+      "innovationReasons": [
+        "云端与远程协作",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Insta360 Has Two Wireless Mics, Here’s What Actually Sets Them Apart",
+          "url": "https://the-gadgeteer.com/2026/10/22/insta360-mic-vs-mic-pro/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-10-22T22:00:00.000Z"
+        }
+      ],
+      "baseScore": 87,
+      "firstSeenAt": "2026-10-22T22:21:52.408Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/insta360-mic-pro-856-1440.jpg",
+      "imageCheckedAt": "2026-10-22T22:21:52.408Z"
+    },
+    {
+      "id": "ed7a9227b55a0ef5829761c4a4263a45110ef812",
+      "title": "Your Shot – Free Super Slow Motion Tennis Event in Vienna with Pixboom Spark Tomorrow, No Registration",
+      "titleZh": "Your Shot – 明天在维也纳举办的 Pixboom Spark 免费超级慢动作网球赛事，无需报名",
+      "summary": "Tomorrow, Friday October 23, anyone in Vienna, Austria, can step onto a tennis court, hit a ball, and walk away with a cinematic super slow motion clip of themselves, captured by a camera robot at up to 1,000 frames per second. It is free, there is no registration, and you just stop by. We are calling it Your Shot, and the idea is simple. Red carpet events have the Glambot, that robotic arm that swings past celebrities and turns a half-second pose into a dreamy slow motion moment. We built one for tennis – and call it Grand Slambot. On Friday, from 1 to 5pm, a Bolt Jr high-speed camera […]",
+      "summaryZh": "明天，即 10 月 23 日星期五，奥地利维也纳的任何人都可以踏上网球场，击球，然后带着自己的电影超级慢动作片段离开，该片段由摄像机器人以每秒 1,000 帧的速度拍摄。它是免费的，无需注册，您只需过来即可。我们称之为“你来决定”，这个想法很简单。红毯活动中有 Glambot，这款机械臂可以在名人面前摆动，将半秒的姿势变成梦幻般的慢动作时刻。我们为网球打造了一款——并致电",
+      "url": "https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/",
+      "normalizedUrl": "https://cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration",
+      "publishedAt": "2026-10-22T12:30:36.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 82,
+      "innovationReasons": [
+        "自动化拍摄",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Your Shot – Free Super Slow Motion Tennis Event in Vienna with Pixboom Spark Tomorrow, No Registration",
+          "url": "https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/",
+          "source": "CineD",
+          "publishedAt": "2026-10-22T12:30:36.000Z"
+        }
+      ],
+      "baseScore": 82,
+      "firstSeenAt": "2026-10-22T15:16:51.236Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
+      "imageCheckedAt": "2026-10-22T15:16:51.236Z"
+    },
+    {
+      "id": "195356572423dada9d6d15b2bccfc121a2e0cfda",
+      "title": "Forza Silicon ForzaFAST1024 4/3” format 2.1 MP sensor capable of 6,613 fps in Full HD",
+      "titleZh": "Forza Silicon ForzaFAST1024 4/3” 格式 2.1 MP 传感器，全高清速度可达 6,613 fps",
+      "summary": "The new Forza Silicon ForzaFAST1024 delivers high frame rates in a 4/3” format 2.1 MP (19.2 × 10.8 mm) sensor. It is capable of up to 6,613 fps in Full HD resolution. The sensor was designed for high-speed inspection, sports analysis, motion capture, 3D laser profiling, cinematography, and broadcast applications. The 2.1 MP (1920 x ... Read more The post Forza Silicon ForzaFAST1024 4/3” format 2.1 MP sensor capable of 6,613 fps in Full HD appeared first on Newsshooter .",
+      "summaryZh": "全新 Forza Silicon ForzaFAST1024 采用 4/3” 格式 2.1 MP (19.2 × 10.8 mm) 传感器提供高帧速率。全高清分辨率下的帧速率高达 6,613 fps。该传感器专为高速检测、运动分析、动作捕捉、3D 激光分析、电影摄影和广播应用而设计。2.1 MP (1920 x ... 阅读更多ForzaFAST1024 4/3” 格式 2.1 MP 传感器能够在全高清下实现 6,613 fps 首次出现在 Newsshooter 上。",
+      "url": "https://www.newsshooter.com/2026/10/21/forza-silicon-forzafast1024-4-3-format-2-1-mp-sensor-capable-of-6613-fps-in-full-hd/",
+      "normalizedUrl": "https://newsshooter.com/2026/10/21/forza-silicon-forzafast1024-4-3-format-2-1-mp-sensor-capable-of-6613-fps-in-full-hd",
+      "publishedAt": "2026-10-21T13:16:40.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "Forza Silicon ForzaFAST1024 4/3” format 2.1 MP sensor capable of 6,613 fps in Full HD",
+          "url": "https://www.newsshooter.com/2026/10/21/forza-silicon-forzafast1024-4-3-format-2-1-mp-sensor-capable-of-6613-fps-in-full-hd/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-21T13:16:40.000Z"
+        }
+      ],
+      "baseScore": 75,
+      "firstSeenAt": "2026-10-22T15:16:51.236Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Forza-Silicon-ForzaFAST1024.jpg",
+      "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
     {
       "id": "743c15ab52628942639e22e02e74d3a0e3ffd463",
@@ -220,7 +336,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-22T22:21:52.408Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -417,7 +533,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -568,6 +684,12 @@
       ],
       "references": [
         {
+          "title": "Insta360 Mic: E-Ink 2.4GHz Wireless Microphone System with 32-bit float Internal Recording",
+          "url": "https://www.newsshooter.com/2026/10/22/insta360-mic-e-ink-2-4ghz-wireless-microphone-system-with-32-bit-float-internal-recording/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-22T15:25:15.000Z"
+        },
+        {
           "title": "Sony ECM-W5 Wireless Microphone System Announced – 32-Bit Float via MI Shoe, 64GB Backup Recording, Timecode",
           "url": "https://www.cined.com/sony-ecm-w5-wireless-microphone-system-announced-32-bit-float-via-mi-shoe-64gb-backup-recording-timecode/",
           "source": "CineD",
@@ -575,7 +697,7 @@
         }
       ],
       "firstSeenAt": "2026-10-19T03:21:14.921Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2.jpeg",
       "imageCheckedAt": "2026-10-19T03:21:14.921Z",
       "baseScore": 84
@@ -696,7 +818,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -737,7 +859,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1892,6 +2014,44 @@
       "baseScore": 92
     },
     {
+      "id": "566e82fb3783dd0b421603b256579a736df613b2",
+      "title": "Easiest way to find a spy camera with the REDCARD by REDCARD - Indiegogo",
+      "titleZh": "使用 REDCARD 寻找间谍相机的最简单方法 by REDCARD - Indiegogo",
+      "summary": "Easiest way to find a spy camera with the REDCARD by REDCARD &nbsp;&nbsp; Indiegogo",
+      "summaryZh": "使用 Redcard by REDCARD 寻找间谍相机的最简单方法 Indiegogo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmFhQjl3Wm5EV055a3h1ZUJmVGFKbE9NOS1fVndSc01rbW9wcmltMlRnYXl0VVMxVEZKS2EwWXVkQThiR01MWjNsWmg2UllJVDBTeFF1aDNzTmVLS1h4ZzZ4bHJwZ081Yi1xX3Roam5iX3NkeVdxUm1RaE1VUHRvdWhVaXdFWE5WekRyVGFIcHpMWVJoMWhBLWdQdw?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmFhQjl3Wm5EV055a3h1ZUJmVGFKbE9NOS1fVndSc01rbW9wcmltMlRnYXl0VVMxVEZKS2EwWXVkQThiR01MWjNsWmg2UllJVDBTeFF1aDNzTmVLS1h4ZzZ4bHJwZ081Yi1xX3Roam5iX3NkeVdxUm1RaE1VUHRvdWhVaXdFWE5WekRyVGFIcHpMWVJoMWhBLWdQdw?oc=5",
+      "publishedAt": "2025-10-26T21:33:43.000Z",
+      "source": {
+        "id": "indiegogo-news",
+        "name": "Indiegogo",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 66,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "Easiest way to find a spy camera with the REDCARD by REDCARD - Indiegogo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmFhQjl3Wm5EV055a3h1ZUJmVGFKbE9NOS1fVndSc01rbW9wcmltMlRnYXl0VVMxVEZKS2EwWXVkQThiR01MWjNsWmg2UllJVDBTeFF1aDNzTmVLS1h4ZzZ4bHJwZ081Yi1xX3Roam5iX3NkeVdxUm1RaE1VUHRvdWhVaXdFWE5WekRyVGFIcHpMWVJoMWhBLWdQdw?oc=5",
+          "source": "Indiegogo",
+          "publishedAt": "2025-10-26T21:33:43.000Z"
+        }
+      ],
+      "baseScore": 66,
+      "firstSeenAt": "2026-10-22T15:16:51.236Z",
+      "lastSeenAt": "2026-10-22T15:16:51.236Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-22T15:16:51.236Z"
+    },
+    {
       "id": "db2ec70a14bb835eb25cd3b39fad3e53d0bfb48d",
       "title": "Insta360 Air 360 VR Clip On Camera for Smartphone by Bianca Zhang - Indiegogo",
       "titleZh": "适用于智能手机的 Insta360 Air 360 VR 夹式相机，作者：Bianca Zhu - Indiegogo",
@@ -1926,7 +2086,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-22T10:10:26.961Z",
+      "lastSeenAt": "2026-10-23T01:30:17.258Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
