@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T01:30:17.258Z",
-  "sourceGeneratedAt": "2026-10-23T01:30:10.990Z",
+  "generatedAt": "2026-10-23T07:30:52.411Z",
+  "sourceGeneratedAt": "2026-10-23T07:30:45.806Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 180,
-    "acceptedThisRun": 9,
+    "scannedThisRun": 185,
+    "acceptedThisRun": 8,
     "newThisRun": 0,
     "projectCount": 52,
     "categoryCount": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -134,7 +134,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-22T22:21:52.408Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/insta360-mic-pro-856-1440.jpg",
       "imageCheckedAt": "2026-10-22T22:21:52.408Z"
     },
@@ -173,7 +173,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -211,7 +211,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Forza-Silicon-ForzaFAST1024.jpg",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -336,7 +336,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-22T22:21:52.408Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -533,7 +533,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/4b968aabfc2f22086242b9b9cc7087b9-original.jpeg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -818,7 +818,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -859,7 +859,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T01:30:17.258Z",
+      "lastSeenAt": "2026-10-23T07:30:52.411Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
