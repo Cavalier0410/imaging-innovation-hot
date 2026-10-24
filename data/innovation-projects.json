@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-23T13:25:19.728Z",
-  "sourceGeneratedAt": "2026-10-23T13:25:13.172Z",
+  "generatedAt": "2026-10-24T00:41:10.767Z",
+  "sourceGeneratedAt": "2026-10-24T00:41:04.368Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 190,
+    "scannedThisRun": 183,
     "acceptedThisRun": 10,
-    "newThisRun": 2,
-    "projectCount": 54,
+    "newThisRun": 0,
+    "projectCount": 56,
     "categoryCount": 7,
-    "sourceCount": 16,
-    "withImageCount": 46
+    "sourceCount": 17,
+    "withImageCount": 48
   },
   "categoryCounts": {
     "专业影像新技术": 18,
     "空间影像与显示": 12,
-    "创新光学与传感": 8,
+    "创新光学与传感": 10,
     "智能相机与机器人": 5,
     "运动影像与航拍": 5,
     "AI 与计算影像": 4,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -100,6 +100,96 @@
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "8743a8692052e45a372ed4442ac1a8a47891fd9c",
+      "title": "Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera",
+      "titleZh": "Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera",
+      "summary": "Sigma has announced the FP2, the latest addition to its unusually compact full-frame mirrorless camera lineup. The new model combines a 24.5MP partially stacked CMOS sensor with 6K Open Gate recording, Apple ProRes RAW support, improved autofocus, and a modular design aimed at both photographers and filmmakers. Priced at $2,199, the FP2 continues Sigma’s approach of fitting professional imaging capabilities into one of the smallest full-frame camera bodies available. It also marks a substantial technical upgrade over the original Sigma fp ($1,740 on Amazon) and fp L. A partially stacked sensor in a compact body The FP2 is built around The post Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "Sigma has announced the FP2, the latest addition to its unusually compact full-frame mirrorless camera lineup. The new model combines a 24.5MP partially stacked CMOS sensor with 6K Open Gate recording, Apple ProRes RAW support, improved autofocus, and a modular design aimed at both photographers and filmmakers. Priced at $2,199, the FP2 continues Sigma’s approach of fitting professional imaging capabilities into one of the smallest full-frame camera bodies available. It also marks a substantial technical upgrade ov",
+      "url": "https://ymcinema.com/2026/10/23/sigma-fp2-6k-open-gate-full-frame-camera/",
+      "normalizedUrl": "https://ymcinema.com/2026/10/23/sigma-fp2-6k-open-gate-full-frame-camera",
+      "publishedAt": "2026-10-23T21:58:12.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "便携形态",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera",
+          "url": "https://ymcinema.com/2026/10/23/sigma-fp2-6k-open-gate-full-frame-camera/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-10-23T21:58:12.000Z"
+        }
+      ],
+      "baseScore": 81,
+      "firstSeenAt": "2026-10-23T22:09:34.196Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
+      "imageCheckedAt": "2026-10-23T22:09:34.196Z"
+    },
+    {
+      "id": "9e7f7dd804b94000cd1a4faa6790d7bb44011315",
+      "title": "Announced: Sigma fp II camera, 50mm f/1.4 CL DG Contemporary lens and new accessories",
+      "titleZh": "Announced: Sigma fp II camera, 50mm f/1.4 CL DG Contemporary lens and new accessories",
+      "summary": "The previously rumored Sigma fp II camera with new accessories and the 50mm f/1.4 CL DG Contemporary lens has now been officially announced: Pre-orders: B&H Photo | WEX Photo | Foto Erhardt Press releases Additional information: 24MP Partially-Stacked Full-Frame Sensor Ultra-Compact & Modular Design 6K Open Gate Raw Video Recording 3.15″ Tilting LCD Screen 20 […] The post Announced: Sigma fp II camera, 50mm f/1.4 CL DG Contemporary lens and new accessories appeared first on Photo Rumors . Related posts: New GoPro Mission 1 Pro camera unveiled with 50MP 1″ sensor and a model with MFT mount Comparing the new Canon EOS R6V with the Nikon ZR Sony a7 V camera officially announced together with a new FE 28-70mm f/3.5-5.6 OSS II kit lens",
+      "summaryZh": "The previously rumored Sigma fp II camera with new accessories and the 50mm f/1.4 CL DG Contemporary lens has now been officially announced: Pre-orders: B&H Photo | WEX Photo | Foto Erhardt Press releases Additional information: 24MP Partially-Stacked Full-Frame Sensor Ultra-Compact & Modular Design 6K Open Gate Raw Video Recording 3.15″ Tilting LCD Screen 20 […] The post Announced: Sigma fp II camera, 50mm f/1.4 CL DG Contemporary lens and new accessories appeared first on Photo Rumors . Related posts: New GoPro M",
+      "url": "https://photorumors.com/2026/10/23/announced-sigma-fp-ii-camera-50mm-f-1-4-cl-dg-contemporary-lens-and-new-accessories/",
+      "normalizedUrl": "https://photorumors.com/2026/10/23/announced-sigma-fp-ii-camera-50mm-f-1-4-cl-dg-contemporary-lens-and-new-accessories",
+      "publishedAt": "2026-10-23T14:15:59.000Z",
+      "source": {
+        "id": "photo-rumors",
+        "name": "Photo Rumors",
+        "category": "品牌爆料",
+        "priority": "P2",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "便携形态",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Announced: Sigma fp II camera, 50mm f/1.4 CL DG Contemporary lens and new accessories",
+          "url": "https://photorumors.com/2026/10/23/announced-sigma-fp-ii-camera-50mm-f-1-4-cl-dg-contemporary-lens-and-new-accessories/",
+          "source": "Photo Rumors",
+          "publishedAt": "2026-10-23T14:15:59.000Z"
+        },
+        {
+          "title": "The Sigma 50mm f/1.4 CL DG Blends Vintage Aesthetics With Innovative Design",
+          "url": "https://petapixel.com/2026/10/22/the-sigma-50mm-f-1-4-cl-dg-blends-vintage-aesthetics-with-innovative-design/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-10-23T06:30:48.000Z"
+        },
+        {
+          "title": "New Sigma Fp II and 50mm f/1.4 i-series lens are coming on October 23!",
+          "url": "https://www.l-rumors.com/new-sigma-fp-ii-and-50mm-f-1-4-i-series-lens-are-coming-on-october-23/",
+          "source": "L Rumors",
+          "publishedAt": "2026-10-20T12:52:24.000Z"
+        }
+      ],
+      "baseScore": 79,
+      "firstSeenAt": "2026-10-23T18:20:04.955Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
+      "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
+      "imageCheckedAt": "2026-10-23T18:20:04.955Z"
+    },
+    {
       "id": "3d5bbcf3b9686fb55ae1f55f533d7692446ff2d7",
       "title": "This weird new compact camera is a transparent viewfinder digicam that also has a screen – and I want one",
       "titleZh": "This weird new compact camera is a transparent viewfinder digicam that also has a screen – and I want one",
@@ -134,7 +224,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -172,7 +262,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-23T18:20:04.955Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/sigmaFP2_001.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -211,7 +301,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-22T22:21:52.408Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/insta360-mic-pro-856-1440.jpg",
       "imageCheckedAt": "2026-10-22T22:21:52.408Z"
     },
@@ -249,7 +339,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -287,7 +377,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Forza-Silicon-ForzaFAST1024.jpg",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -412,7 +502,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -894,7 +984,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -935,7 +1025,7 @@
       ],
       "baseScore": 100,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-23T18:20:04.955Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/digest-thumb-202515-LaIZWt.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2162,7 +2252,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-23T13:25:19.728Z",
+      "lastSeenAt": "2026-10-24T00:41:10.767Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
