@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T10:57:13.480Z",
-  "sourceGeneratedAt": "2026-10-24T10:57:07.140Z",
+  "generatedAt": "2026-10-25T01:09:54.245Z",
+  "sourceGeneratedAt": "2026-10-25T01:09:47.689Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 179,
-    "acceptedThisRun": 10,
+    "scannedThisRun": 178,
+    "acceptedThisRun": 8,
     "newThisRun": 0,
     "projectCount": 56,
     "categoryCount": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -134,7 +134,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -185,7 +185,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -224,7 +224,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -301,7 +301,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-22T22:21:52.408Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-24T14:31:56.417Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/insta360-mic-pro-856-1440.jpg",
       "imageCheckedAt": "2026-10-22T22:21:52.408Z"
     },
@@ -339,7 +339,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -502,7 +502,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -984,7 +984,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2252,7 +2252,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-24T10:57:13.480Z",
+      "lastSeenAt": "2026-10-25T01:09:54.245Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
