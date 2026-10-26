@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T00:22:23.104Z",
-  "sourceGeneratedAt": "2026-10-26T00:22:12.628Z",
+  "generatedAt": "2026-10-26T06:11:48.413Z",
+  "sourceGeneratedAt": "2026-10-26T06:11:42.183Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 179,
+    "scannedThisRun": 175,
     "acceptedThisRun": 11,
-    "newThisRun": 1,
+    "newThisRun": 0,
     "projectCount": 59,
     "categoryCount": 7,
     "sourceCount": 17,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -135,7 +135,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -173,7 +173,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -212,7 +212,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-25T06:07:41.154Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Xiaomi-Smart-Camera-C401-6.jpeg",
       "imageCheckedAt": "2026-10-25T06:07:41.154Z"
     },
@@ -251,7 +251,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -302,7 +302,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -342,7 +342,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -458,7 +458,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -621,7 +621,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1103,7 +1103,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2371,7 +2371,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T06:11:48.413Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
