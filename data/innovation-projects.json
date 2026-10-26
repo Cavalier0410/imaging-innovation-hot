@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-25T11:24:42.274Z",
-  "sourceGeneratedAt": "2026-10-25T11:24:37.233Z",
+  "generatedAt": "2026-10-26T00:22:23.104Z",
+  "sourceGeneratedAt": "2026-10-26T00:22:12.628Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 172,
-    "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 57,
+    "scannedThisRun": 179,
+    "acceptedThisRun": 11,
+    "newThisRun": 1,
+    "projectCount": 59,
     "categoryCount": 7,
     "sourceCount": 17,
-    "withImageCount": 49
+    "withImageCount": 51
   },
   "categoryCounts": {
-    "专业影像新技术": 18,
+    "专业影像新技术": 19,
+    "创新光学与传感": 12,
     "空间影像与显示": 12,
-    "创新光学与传感": 11,
     "智能相机与机器人": 5,
     "运动影像与航拍": 5,
     "AI 与计算影像": 4,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -100,6 +100,84 @@
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "5fe7067a72d24fc7e75c41c7fd162e6caf01680a",
+      "title": "Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next",
+      "titleZh": "Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next",
+      "summary": "Godox announced a new, compact, and updated TT350II ThinkLite flash for Sony, Canon, Nikon, Olympus, and Panasonic cameras: Pre-orders Additional information Product page Godox is rumored to introduce a new iT32R flash based on the Godox iT32, but with a round head instead of a square one. Key features of the new Godox TT350II flash: […] The post Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next appeared first on Photo Rumors . Related posts: New Godox iT32 iFlash and X5 TTL wireless flash trigger announced (C/N/S/F/O) New Godox V1mid on-camera flash announced (C/N/S/F/O) The latest Insta360 Luna camera rumors",
+      "summaryZh": "Godox announced a new, compact, and updated TT350II ThinkLite flash for Sony, Canon, Nikon, Olympus, and Panasonic cameras: Pre-orders Additional information Product page Godox is rumored to introduce a new iT32R flash based on the Godox iT32, but with a round head instead of a square one. Key features of the new Godox TT350II flash: […] The post Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next appeared first on Photo Rumors . Related posts: New Godox iT32 iFlash a",
+      "url": "https://photorumors.com/2026/10/25/godox-announced-a-new-compact-tt350ii-thinklite-flash-new-it32r-flash-rumored-to-be-announced-next/",
+      "normalizedUrl": "https://photorumors.com/2026/10/25/godox-announced-a-new-compact-tt350ii-thinklite-flash-new-it32r-flash-rumored-to-be-announced-next",
+      "publishedAt": "2026-10-25T21:54:57.000Z",
+      "source": {
+        "id": "photo-rumors",
+        "name": "Photo Rumors",
+        "category": "品牌爆料",
+        "priority": "P2",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 82,
+      "innovationReasons": [
+        "便携形态",
+        "云端与远程协作",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next",
+          "url": "https://photorumors.com/2026/10/25/godox-announced-a-new-compact-tt350ii-thinklite-flash-new-it32r-flash-rumored-to-be-announced-next/",
+          "source": "Photo Rumors",
+          "publishedAt": "2026-10-25T21:54:57.000Z"
+        }
+      ],
+      "baseScore": 82,
+      "firstSeenAt": "2026-10-26T00:22:23.104Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
+      "imageCheckedAt": "2026-10-26T00:22:23.104Z"
+    },
+    {
+      "id": "1eabd4badb32533fe00f1a2b3d73d0db586644e1",
+      "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
+      "titleZh": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
+      "summary": "GoPro’s MISSION 1 PRO ILS, a compact 8K cinema camera featuring interchangeable lenses and a $699.99 price tag, has been named one of TIME’s Best Inventions of 2026. The recognition highlights GoPro’s expansion into professional filmmaking with a camera that combines high-resolution recording, an interchangeable lens system, and an exceptionally small form factor. GoPro earns TIME recognition Announcing the recognition on LinkedIn, GoPro stated: We’re excited to share that MISSION 1 PRO ILS, the world’s smallest, most rugged compact cinema camera with interchangeable lenses, has been named to TIME’s list of the Best Inventions of 2026. According to GoPro, the The post GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026 appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "GoPro’s MISSION 1 PRO ILS, a compact 8K cinema camera featuring interchangeable lenses and a $699.99 price tag, has been named one of TIME’s Best Inventions of 2026. The recognition highlights GoPro’s expansion into professional filmmaking with a camera that combines high-resolution recording, an interchangeable lens system, and an exceptionally small form factor. GoPro earns TIME recognition Announcing the recognition on LinkedIn, GoPro stated: We’re excited to share that MISSION 1 PRO ILS, the world’s smallest, m",
+      "url": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026/",
+      "normalizedUrl": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026",
+      "publishedAt": "2026-10-25T17:36:27.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
+          "url": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-10-25T17:36:27.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-10-25T19:05:02.607Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
+      "imageCheckedAt": "2026-10-25T19:05:02.607Z"
+    },
+    {
       "id": "8c336948e8fff943b8e247a4179621991b2bbffd",
       "title": "Xiaomi’s C401 Pairs 2.5K Video With 360° Horizontal Pan",
       "titleZh": "小米C401将2.5K视频与360°水平旋转配对",
@@ -134,7 +212,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-25T06:07:41.154Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Xiaomi-Smart-Camera-C401-6.jpeg",
       "imageCheckedAt": "2026-10-25T06:07:41.154Z"
     },
@@ -173,7 +251,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -224,7 +302,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -264,7 +342,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -380,7 +458,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -543,7 +621,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1025,7 +1103,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2293,7 +2371,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-25T11:24:42.274Z",
+      "lastSeenAt": "2026-10-26T00:22:23.104Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
