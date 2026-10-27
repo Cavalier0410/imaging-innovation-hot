@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T05:01:17.408Z",
-  "sourceGeneratedAt": "2026-10-27T05:01:11.071Z",
+  "generatedAt": "2026-10-27T10:32:37.232Z",
+  "sourceGeneratedAt": "2026-10-27T10:32:30.295Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 179,
-    "acceptedThisRun": 10,
+    "scannedThisRun": 191,
+    "acceptedThisRun": 11,
     "newThisRun": 0,
     "projectCount": 60,
     "categoryCount": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -133,7 +133,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-26T23:52:15.190Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/even_realities_brown_2_1.jpg",
       "imageCheckedAt": "2026-10-26T23:52:15.190Z"
     },
@@ -173,7 +173,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -211,7 +211,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -281,6 +281,12 @@
       ],
       "references": [
         {
+          "title": "With Sigma’s new FP2 camera, I think the idea of ‘compact full-frame’ finally makes sense",
+          "url": "https://amateurphotographer.com/latest/opinion/with-sigmas-new-fp2-camera-i-think-the-idea-of-compact-full-frame-finally-makes-sense/",
+          "source": "Amateur Photographer",
+          "publishedAt": "2026-10-27T09:00:00.000Z"
+        },
+        {
           "title": "Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera",
           "url": "https://ymcinema.com/2026/10/23/sigma-fp2-6k-open-gate-full-frame-camera/",
           "source": "Y.M.Cinema",
@@ -289,7 +295,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -346,7 +352,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -386,7 +392,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -502,7 +508,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -665,7 +671,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/03/L-Mount-Alliance-logo.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -1147,7 +1153,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-27T05:01:17.408Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2415,7 +2421,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-26T19:18:21.349Z",
+      "lastSeenAt": "2026-10-27T10:32:37.232Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
