@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-27T10:32:37.232Z",
-  "sourceGeneratedAt": "2026-10-27T10:32:30.295Z",
+  "generatedAt": "2026-10-28T01:20:07.579Z",
+  "sourceGeneratedAt": "2026-10-28T01:20:00.909Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 191,
-    "acceptedThisRun": 11,
+    "scannedThisRun": 193,
+    "acceptedThisRun": 14,
     "newThisRun": 0,
-    "projectCount": 60,
+    "projectCount": 66,
     "categoryCount": 7,
-    "sourceCount": 17,
-    "withImageCount": 52
+    "sourceCount": 18,
+    "withImageCount": 56
   },
   "categoryCounts": {
-    "专业影像新技术": 19,
+    "专业影像新技术": 23,
+    "创新光学与传感": 13,
     "空间影像与显示": 13,
-    "创新光学与传感": 12,
-    "智能相机与机器人": 5,
+    "智能相机与机器人": 6,
     "运动影像与航拍": 5,
     "AI 与计算影像": 4,
     "便携与移动创作": 2
@@ -56,7 +56,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -100,6 +100,198 @@
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "99365e8dc4c5870acbba1ed118a24d6e069fa4f4",
+      "title": "Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio",
+      "titleZh": "Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio",
+      "summary": "Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same clean lav signal instead of scratch audio. Here is how the system divides control between receivers, where the four isolated tracks actually arrive, and where its limits are. We have previously covered the LARK M2 and the more discreet LARK M2S, as well as the LARK MAX 2, which adds onboard recording and timecode. The M3 sits between those approaches. It keeps the 9g […]",
+      "summaryZh": "Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same clean lav signal instead of scratch audio. Here is how the system divides control between receivers, where the four isolated tracks actually arrive, and where its limits are. We have previously covered the LARK M2 and the more discreet LAR",
+      "url": "https://www.cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio/",
+      "normalizedUrl": "https://cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio",
+      "publishedAt": "2026-10-27T15:58:36.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 72,
+      "innovationReasons": [
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio",
+          "url": "https://www.cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio/",
+          "source": "CineD",
+          "publishedAt": "2026-10-27T15:58:36.000Z"
+        }
+      ],
+      "baseScore": 72,
+      "firstSeenAt": "2026-10-27T16:37:49.137Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
+      "imageCheckedAt": "2026-10-27T16:37:49.137Z"
+    },
+    {
+      "id": "58817d2a3f03d4c6ee86c327883f6d6d046ee926",
+      "title": "Will we get new Four Thirds sensors with Lofoic design?",
+      "titleZh": "Will we get new Four Thirds sensors with Lofoic design?",
+      "summary": "As you know the new DJI Osmo Pocket 4P is featuring a 1-inch sensor with LOFIC technology. LOFIC—short for Lateral Overflow Integration Capacitor—uses additional capacitors to store excess charge that would otherwise clip, preserving significantly more highlight information.According to real-world testing by CineD, the camera achieves an impressive 16 stops of dynamic range at a…",
+      "summaryZh": "As you know the new DJI Osmo Pocket 4P is featuring a 1-inch sensor with LOFIC technology. LOFIC—short for Lateral Overflow Integration Capacitor—uses additional capacitors to store excess charge that would otherwise clip, preserving significantly more highlight information.According to real-world testing by CineD, the camera achieves an impressive 16 stops of dynamic range at a…",
+      "url": "https://www.43rumors.com/will-we-get-new-four-thirds-sensors-with-lofoic-design/",
+      "normalizedUrl": "https://43rumors.com/will-we-get-new-four-thirds-sensors-with-lofoic-design",
+      "publishedAt": "2026-10-27T13:18:36.000Z",
+      "source": {
+        "id": "43-rumors",
+        "name": "43 Rumors",
+        "category": "品牌爆料",
+        "priority": "P2",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "便携形态",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Will we get new Four Thirds sensors with Lofoic design?",
+          "url": "https://www.43rumors.com/will-we-get-new-four-thirds-sensors-with-lofoic-design/",
+          "source": "43 Rumors",
+          "publishedAt": "2026-10-27T13:18:36.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-10-27T16:37:49.137Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-27T16:37:49.137Z"
+    },
+    {
+      "id": "2a02f7c4630b8f2d59d878c68098f4435c944c77",
+      "title": "Sirui’s New $79 Folding Tripod Has Four Very Different Configurations",
+      "titleZh": "Sirui’s New $79 Folding Tripod Has Four Very Different Configurations",
+      "summary": "Sirui has unveiled the TC50 + BH-19, a new compact camera support system designed for photographers, videographers, and content creators. [ Read More ]",
+      "summaryZh": "Sirui has unveiled the TC50 + BH-19, a new compact camera support system designed for photographers, videographers, and content creators. [ Read More ]",
+      "url": "https://petapixel.com/2026/10/27/siruis-new-79-folding-tripod-has-four-very-different-configurations/",
+      "normalizedUrl": "https://petapixel.com/2026/10/27/siruis-new-79-folding-tripod-has-four-very-different-configurations",
+      "publishedAt": "2026-10-27T13:00:35.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "Sirui’s New $79 Folding Tripod Has Four Very Different Configurations",
+          "url": "https://petapixel.com/2026/10/27/siruis-new-79-folding-tripod-has-four-very-different-configurations/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-10-27T13:00:35.000Z"
+        }
+      ],
+      "baseScore": 75,
+      "firstSeenAt": "2026-10-27T16:37:49.137Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/10/sirui-tc-50-bh-19-featured.jpg",
+      "imageCheckedAt": "2026-10-27T16:37:49.137Z"
+    },
+    {
+      "id": "c6e84adc5a22bf60d01df2af914229c62a2f8f1d",
+      "title": "Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot",
+      "titleZh": "Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot",
+      "summary": "New carrier board for the OAK 4 supports up to five cameras, Power-over-Ethernet Plus, and boasts a 48 TOPS INT8 accelerator.",
+      "summaryZh": "New carrier board for the OAK 4 supports up to five cameras, Power-over-Ethernet Plus, and boasts a 48 TOPS INT8 accelerator.",
+      "url": "https://www.hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342",
+      "normalizedUrl": "https://hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342",
+      "publishedAt": "2026-10-27T09:39:10.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "自动化拍摄",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot",
+          "url": "https://www.hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342",
+          "source": "Hackster News",
+          "publishedAt": "2026-10-27T09:39:10.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-10-27T16:37:49.137Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-10-27T16:37:49.137Z"
+    },
+    {
+      "id": "70ea2cc507c172c462dd436f506a5b820f42b5d2",
+      "title": "DaVinci Resolve 21.1.2",
+      "titleZh": "DaVinci Resolve 21.1.2",
+      "summary": "Blackmagic Design has released DaVinci Resolve 21.1.2, which adds up to 14x faster IntelliSearch analysis on Apple M6 computers running Mac OS 27 and faster IntelliSearch analysis, multicam SmartSwitch, and other AI tool performance on Intel graphics platforms. The update also includes expanded scripting API support, improved timeline edit point selection, up to 4x faster ... Read more The post DaVinci Resolve 21.1.2 appeared first on Newsshooter .",
+      "summaryZh": "Blackmagic Design 发布了 DaVinci Resolve 21.1.2，它在运行 Mac OS 27 的 Apple M6 计算机上将 IntelliSearch 分析速度提高了 14 倍，并在 Intel 图形平台上提高了 IntelliSearch 分析、多摄像头 SmartSwitch 和其他 AI 工具的性能。该更新还包括扩展的脚本 API 支持、改进的时间线编辑点选择、速度提高了 4 倍... 了解更多 DaVinci Resolve 21.1.2 帖子首先出现在 Newsshooter 上。",
+      "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+      "normalizedUrl": "https://newsshooter.com/2026/10/26/davinci-resolve-21-1-2",
+      "publishedAt": "2026-10-27T00:24:47.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "AI 影像"
+      ],
+      "references": [
+        {
+          "title": "DaVinci Resolve 21.1.2",
+          "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-27T00:24:47.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-10-27T21:18:32.749Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.19.45.png",
+      "imageCheckedAt": "2026-10-27T21:18:32.749Z"
+    },
+    {
       "id": "7a60bea7a8aa22b68ca2b9567b3dfc0723e6f352",
       "title": "Even Realities’ new Tortoise Shell frame is so gorgeous, I’d buy the smart glasses just for the design",
       "titleZh": "Even Realities’ new Tortoise Shell frame is so gorgeous, I’d buy the smart glasses just for the design",
@@ -133,7 +325,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-26T23:52:15.190Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-27T21:18:32.749Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/even-realities-new-tortoise-shell-frame-is-so-gorgeous-id-buy-the-smart-glasses-just-for-the-design/even_realities_brown_2_1.jpg",
       "imageCheckedAt": "2026-10-26T23:52:15.190Z"
     },
@@ -173,7 +365,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -211,7 +403,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -295,7 +487,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -352,7 +544,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -392,7 +584,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -508,7 +700,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -1153,7 +1345,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2387,6 +2579,44 @@
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
     {
+      "id": "30dbce01afce4099402b067b3503d35ba2871b99",
+      "title": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic - Indiegogo",
+      "titleZh": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic - Indiegogo",
+      "summary": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic &nbsp;&nbsp; Indiegogo",
+      "summaryZh": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic &nbsp;&nbsp; Indiegogo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzByTzc3VGtlX0Zoam0tMDBKSTdvaERVZzVOTDREZzBkYW1haWk5VEhiVFpfckp4cVhMdWE3S1ItazBmWjA1cUdKRjRZUlV5LWZTYk1oTS1RMEdwMWpHN0k2NEhxdmxxVjE3ZjlOSnFzV0Rka0ZldTBuZ3ZpeWtrUTR0amJoTnBfd29zVzBTN2gtVjgwOW5hNDN2aFg0MDJj?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzByTzc3VGtlX0Zoam0tMDBKSTdvaERVZzVOTDREZzBkYW1haWk5VEhiVFpfckp4cVhMdWE3S1ItazBmWjA1cUdKRjRZUlV5LWZTYk1oTS1RMEdwMWpHN0k2NEhxdmxxVjE3ZjlOSnFzV0Rka0ZldTBuZ3ZpeWtrUTR0amJoTnBfd29zVzBTN2gtVjgwOW5hNDN2aFg0MDJj?oc=5",
+      "publishedAt": "2025-10-18T05:27:30.000Z",
+      "source": {
+        "id": "indiegogo-news",
+        "name": "Indiegogo",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 66,
+      "innovationReasons": [
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic - Indiegogo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzByTzc3VGtlX0Zoam0tMDBKSTdvaERVZzVOTDREZzBkYW1haWk5VEhiVFpfckp4cVhMdWE3S1ItazBmWjA1cUdKRjRZUlV5LWZTYk1oTS1RMEdwMWpHN0k2NEhxdmxxVjE3ZjlOSnFzV0Rka0ZldTBuZ3ZpeWtrUTR0amJoTnBfd29zVzBTN2gtVjgwOW5hNDN2aFg0MDJj?oc=5",
+          "source": "Indiegogo",
+          "publishedAt": "2025-10-18T05:27:30.000Z"
+        }
+      ],
+      "baseScore": 66,
+      "firstSeenAt": "2026-10-27T16:37:49.137Z",
+      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-27T16:37:49.137Z"
+    },
+    {
       "id": "db2ec70a14bb835eb25cd3b39fad3e53d0bfb48d",
       "title": "Insta360 Air 360 VR Clip On Camera for Smartphone by Bianca Zhang - Indiegogo",
       "titleZh": "适用于智能手机的 Insta360 Air 360 VR 夹式相机，作者：Bianca Zhu - Indiegogo",
@@ -2421,7 +2651,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-27T10:32:37.232Z",
+      "lastSeenAt": "2026-10-27T21:18:32.749Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
