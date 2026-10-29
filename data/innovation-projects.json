@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-28T08:28:28.361Z",
-  "sourceGeneratedAt": "2026-10-28T08:28:21.831Z",
+  "generatedAt": "2026-10-29T00:54:53.731Z",
+  "sourceGeneratedAt": "2026-10-29T00:54:47.730Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 195,
-    "acceptedThisRun": 14,
+    "scannedThisRun": 194,
+    "acceptedThisRun": 17,
     "newThisRun": 0,
-    "projectCount": 66,
+    "projectCount": 69,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 56
+    "withImageCount": 59
   },
   "categoryCounts": {
-    "专业影像新技术": 23,
+    "专业影像新技术": 24,
+    "空间影像与显示": 14,
     "创新光学与传感": 13,
-    "空间影像与显示": 13,
-    "智能相机与机器人": 6,
+    "智能相机与机器人": 7,
     "运动影像与航拍": 5,
     "AI 与计算影像": 4,
     "便携与移动创作": 2
@@ -56,9 +56,132 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "311714bc40b7098bb481753ceec27ece6c318cb0",
+      "title": "GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup",
+      "titleZh": "GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup",
+      "summary": "The XREAL AURA wired smart glasses with Android XR connect to a \"portable compute puck\" with a battery and Snapdragon Reality Elite chip • A new GPD Win Mini Ultra mini-laptop could be on the way, with an Intel Arc G3 Extreme chip based on Intel Panther Lake architecture with Arc Pro graphics • The new MacBook pro with PROLED XDR Display is Apple's first touchscreen MacBook The post GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup appeared first on Liliputing .",
+      "summaryZh": "采用 Android XR 的 XREAL AURA 有线智能眼镜可连接到带有电池和 Snapdragon Reality Elite 芯片的“便携式计算冰球” • 新款 GPD Win Mini Ultra 迷你笔记本电脑可能即将问世，配备基于 Intel Panther Lake 架构和 Arc Pro 显卡的 Intel Arc G3 Extreme 芯片 • 配备 PROLED XDR 显示屏的新款 MacBook Pro 是 Apple 首款触摸屏 MacBook 后 GPD Win Mini Ultra（配备 Intel Panther Lake 的迷你笔记本电脑）是首款触摸屏MacBook 和新的 RISC-V 手持设备：Liliputing News Ro",
+      "url": "https://liliputing.com/gpd-win-mini-ultra-mini-laptop-with-intel-panther-lake-the-first-touchscreen-macbook-and-a-new-risc-v-handheld-liliputing-news-roundup/",
+      "normalizedUrl": "https://liliputing.com/gpd-win-mini-ultra-mini-laptop-with-intel-panther-lake-the-first-touchscreen-macbook-and-a-new-risc-v-handheld-liliputing-news-roundup",
+      "publishedAt": "2026-10-28T18:56:32.000Z",
+      "source": {
+        "id": "liliputing",
+        "name": "Liliputing",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 89,
+      "innovationReasons": [
+        "空间影像",
+        "便携形态",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup",
+          "url": "https://liliputing.com/gpd-win-mini-ultra-mini-laptop-with-intel-panther-lake-the-first-touchscreen-macbook-and-a-new-risc-v-handheld-liliputing-news-roundup/",
+          "source": "Liliputing",
+          "publishedAt": "2026-10-28T18:56:32.000Z"
+        }
+      ],
+      "baseScore": 89,
+      "firstSeenAt": "2026-10-28T21:02:49.460Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
+      "imageCheckedAt": "2026-10-28T21:02:49.460Z"
+    },
+    {
+      "id": "270442ceac44228e120e611a3caecdeb2dcb44a8",
+      "title": "The Omnibot Finally Got the Brains It Deserves",
+      "titleZh": "The Omnibot Finally Got the Brains It Deserves",
+      "summary": "Mario Cruz upgraded a 1984 Tomy Omnibot with a Raspberry Pi and AI camera, giving the vintage robot the brains it always deserved.",
+      "summaryZh": "Mario Cruz upgraded a 1984 Tomy Omnibot with a Raspberry Pi and AI camera, giving the vintage robot the brains it always deserved.",
+      "url": "https://www.hackster.io/news/the-omnibot-finally-got-the-brains-it-deserves-d175f9afc136",
+      "normalizedUrl": "https://hackster.io/news/the-omnibot-finally-got-the-brains-it-deserves-d175f9afc136",
+      "publishedAt": "2026-10-28T14:16:52.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "The Omnibot Finally Got the Brains It Deserves",
+          "url": "https://www.hackster.io/news/the-omnibot-finally-got-the-brains-it-deserves-d175f9afc136",
+          "source": "Hackster News",
+          "publishedAt": "2026-10-28T14:16:52.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-10-28T16:00:40.267Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-10-28T16:00:40.267Z"
+    },
+    {
+      "id": "5c668c3824743341ca7d8cc76d771e4abbdb69da",
+      "title": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
+      "titleZh": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
+      "summary": "Accsoon has introduced the CineView Master 4K II, the second generation of its tri-band 4K60 wireless video system. The core transmission platform stays the same, but the receiver now gets its own USB-C video output, and the transmitter adds a dedicated port for camera control from a phone or tablet. Let’s take a look at what has changed. The CineView Master 4K II transmits DCI 4K and UHD at up to 60fps with H.265 encoding, and it operates on the 2.4GHz, 5GHz and 6GHz bands at the same time through Accsoon’s proprietary RTMS 4.0 protocol. Accsoon specifies a latency below 25ms at 1080p60 and below 35ms at 4K60 (camera latency […]",
+      "summaryZh": "Accsoon has introduced the CineView Master 4K II, the second generation of its tri-band 4K60 wireless video system. The core transmission platform stays the same, but the receiver now gets its own USB-C video output, and the transmitter adds a dedicated port for camera control from a phone or tablet. Let’s take a look at what has changed. The CineView Master 4K II transmits DCI 4K and UHD at up to 60fps with H.265 encoding, and it operates on the 2.4GHz, 5GHz and 6GHz bands at the same time through Accsoon’s propri",
+      "url": "https://www.cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control/",
+      "normalizedUrl": "https://cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control",
+      "publishedAt": "2026-10-28T13:59:45.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
+          "url": "https://www.cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control/",
+          "source": "CineD",
+          "publishedAt": "2026-10-28T13:59:45.000Z"
+        },
+        {
+          "title": "Accsoon CineView Master 4K II",
+          "url": "https://www.newsshooter.com/2026/10/28/accsoon-cineview-master-4k-ii/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-28T13:00:50.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-10-28T16:00:40.267Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
+      "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
     {
       "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
@@ -133,7 +256,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -172,7 +295,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -210,7 +333,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-28T16:00:40.267Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/10/sirui-tc-50-bh-19-featured.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -249,14 +372,14 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
     {
       "id": "70ea2cc507c172c462dd436f506a5b820f42b5d2",
       "title": "DaVinci Resolve 21.1.2",
-      "titleZh": "DaVinci Resolve 21.1.2",
+      "titleZh": "达芬奇解决方案21.1.2",
       "summary": "Blackmagic Design has released DaVinci Resolve 21.1.2, which adds up to 14x faster IntelliSearch analysis on Apple M6 computers running Mac OS 27 and faster IntelliSearch analysis, multicam SmartSwitch, and other AI tool performance on Intel graphics platforms. The update also includes expanded scripting API support, improved timeline edit point selection, up to 4x faster ... Read more The post DaVinci Resolve 21.1.2 appeared first on Newsshooter .",
       "summaryZh": "Blackmagic Design 发布了 DaVinci Resolve 21.1.2，它在运行 Mac OS 27 的 Apple M6 计算机上将 IntelliSearch 分析速度提高了 14 倍，并在 Intel 图形平台上提高了 IntelliSearch 分析、多摄像头 SmartSwitch 和其他 AI 工具的性能。该更新还包括扩展的脚本 API 支持、改进的时间线编辑点选择、速度提高了 4 倍... 了解更多 DaVinci Resolve 21.1.2 帖子首先出现在 Newsshooter 上。",
       "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
@@ -287,7 +410,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-27T21:18:32.749Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.19.45.png",
       "imageCheckedAt": "2026-10-27T21:18:32.749Z"
     },
@@ -365,7 +488,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -403,7 +526,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -487,7 +610,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -530,6 +653,12 @@
           "publishedAt": "2026-10-23T14:15:59.000Z"
         },
         {
+          "title": "Just announced: New Sigma FP II and 50mm f/1.4 i-series lens!",
+          "url": "https://www.l-rumors.com/just-announced-new-sigma-fp-ii-and-50mm-f-1-4-i-series-lens/",
+          "source": "L Rumors",
+          "publishedAt": "2026-10-23T06:33:44.000Z"
+        },
+        {
           "title": "The Sigma 50mm f/1.4 CL DG Blends Vintage Aesthetics With Innovative Design",
           "url": "https://petapixel.com/2026/10/22/the-sigma-50mm-f-1-4-cl-dg-blends-vintage-aesthetics-with-innovative-design/",
           "source": "PetaPixel",
@@ -544,7 +673,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -584,7 +713,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -700,7 +829,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -1345,7 +1474,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2651,7 +2780,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-28T08:28:28.361Z",
+      "lastSeenAt": "2026-10-29T00:54:53.731Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
