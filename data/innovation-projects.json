@@ -1,26 +1,65 @@
 {
-  "generatedAt": "2026-10-29T00:54:53.731Z",
-  "sourceGeneratedAt": "2026-10-29T00:54:47.730Z",
+  "generatedAt": "2026-10-29T07:03:48.054Z",
+  "sourceGeneratedAt": "2026-10-29T07:02:57.907Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 194,
-    "acceptedThisRun": 17,
-    "newThisRun": 0,
-    "projectCount": 69,
+    "scannedThisRun": 198,
+    "acceptedThisRun": 19,
+    "newThisRun": 3,
+    "projectCount": 72,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 59
+    "withImageCount": 62
   },
   "categoryCounts": {
-    "专业影像新技术": 24,
-    "空间影像与显示": 14,
+    "专业影像新技术": 25,
+    "空间影像与显示": 15,
     "创新光学与传感": 13,
     "智能相机与机器人": 7,
-    "运动影像与航拍": 5,
+    "运动影像与航拍": 6,
     "AI 与计算影像": 4,
     "便携与移动创作": 2
   },
   "projects": [
+    {
+      "id": "2b58334eb41e7449fb1c7b6982b40af4d53566cd",
+      "title": "撮る・聴く※・話すを1台で叶える！AI翻訳やメモ機能搭載。超軽量 スマートグラス",
+      "titleZh": "使用一台设备即可拍摄、聆听*和交谈！配备AI翻译和备忘录功能。超轻智能眼镜",
+      "summary": "※リターン品の配送が完了するまで、 VIBRANT合同会社 は SHENZHEN MLIB AGE TECHNOLOGY CO., LTD. の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 V06とは、目の前の瞬間をハンズフリーで残すスマートスポーツカメラグラス 目線に近い映像を、スマホを取り出さずハンズフリーで記録。日常からスポーツ、旅行まで幅広く活躍します。 ※自動車・自転車などの運転中の操作や画面注視は大変危険です。必ず安全な場所に停車してからご使用ください。※ご使用の際は、各自治体の道路交通法および関係法令を遵守してください。 8MPカメラ搭載。写真も動画も、目線に近い視点で。 ・写真解像度：3280×2464 ・動画：最大1200P / 30fps 撮影時の揺れを軽減する補正設計 サイクリングやランニングなど、動きのあるシーンでも見やすい映像を目指して、撮影時の揺れを軽減する補正設計を採用。 実際の使用シーン 細部まで、使いやすさを追求。 操作性、装着感、素材、構造。 毎日快適に使うための工夫を、ひとつひとつ形にしました。 利用方法・操作方法 撮影中はインジケーターが点灯 V06で写真・動画を撮影している際は、 カメラ下部のインジケーターランプが点灯。 撮影状態をひと目で確認できます。 メーカー・製造体制について 信頼できるメーカーと、安定した製造体制。 V06は、中国・深を拠点とするスマートウェアラブル製品メーカー 「深市魔力宝代科技有限公司」と連携し、製造を進めています。 同社は2013年に設立され、スマートBluetooth眼鏡やスマートスポーツグラスなどの 設計・研究開発・生産・販売に取り組んできました。 製品づくりにおいては、カメラ位置、操作性、オープンイヤー音声、軽量フレーム、装着感、アプリ連携など、 日常のさまざまなシーンで使いやすい仕様を重視しています。 また、量産体制のもとで品質管理を行い、安定した供給に対応できる製造体制を整えています。 V06は、撮影・通話・音声記録・アプリ連携などの機能を一体化し、 スポーツから日常まで幅広いシーンで活用できるスマートグラスとして設計されています。 仕様 サイズ: フロント幅： 約139.5ｍm、レンズ高さ：約55.4ｍｍ、テンプル長：約125.4ｍｍ 重量: 約49.5g 商品の材質: テンプル：PC、フレーム：TR90、レンズ：PC 製造国: 中国製 保証期間: 商品受領後の3ヶ月以内 FAQ Q1. 近視でも使えますか？ A. 近視用インナーフレームに対応予定です。度付きレンズ自体は付属しないため、必要に応じてお客様ご自身で眼鏡店にて度付きレンズを装着してください。 Q2. アプリは日本語に対応していますか？ A. はい。",
+      "summaryZh": "*在退回产品交付完成之前，VIBRANT LLC 是深圳市美利博时代科技有限公司在日本拥有独家销售权的授权经销商。欲了解更多信息，请参阅页面底部的风险与挑战。 V06是一款智能运动相机眼镜，让您免提记录眼前的瞬间。无需拿出智能手机，即可拍摄接近视线水平的图像。它可用于广泛的用途，从日常生活到运动和旅行。 *驾驶汽车或自行车时操作或盯着屏幕是极其危险的。使用前请务必将车停放在安全的地方。 *使用时，请遵守道路交通法及各地方政府相关法律法规。配备8MP摄像头。照片和视频都是从接近眼睛水平的角度拍摄的。 ・照片分辨率：3280 x 2464 ・视频：最大 1200P / 30fps 拍摄时减少抖动的校正设计 为了即使在骑车、跑步等移动场景中也能轻松看到图像，我们采用了拍摄时减少抖动的校正设计。实际使用场景 追求细节的易用性。可操作性、配合、材料和结构。每件产品的设计都旨在让您每天使用起来更加舒适。如何使用/操作 拍摄期间",
+      "url": "https://www.makuake.com/project/pd24-54442-v06/",
+      "normalizedUrl": "https://makuake.com/project/pd24-54442-v06",
+      "publishedAt": "2026-11-20T02:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "撮る・聴く※・話すを1台で叶える！AI翻訳やメモ機能搭載。超軽量 スマートグラス",
+          "url": "https://www.makuake.com/project/pd24-54442-v06/",
+          "source": "Makuake",
+          "publishedAt": "2026-11-20T02:00:00.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-10-29T07:03:48.054Z"
+    },
     {
       "id": "df4a336c9854b7b245312c89b094797d8c4174f5",
       "title": "Cricut｜写真やイラストをシールに！全自動フォトステッカープリンター",
@@ -56,14 +95,14 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
       "id": "311714bc40b7098bb481753ceec27ece6c318cb0",
       "title": "GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup",
-      "titleZh": "GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup",
+      "titleZh": "GPD Win Mini Ultra（搭载 Intel Panther Lake 的迷你笔记本电脑）、首款触摸屏 MacBook 和全新 RISC-V 手持设备：Liliputing 新闻综述",
       "summary": "The XREAL AURA wired smart glasses with Android XR connect to a \"portable compute puck\" with a battery and Snapdragon Reality Elite chip • A new GPD Win Mini Ultra mini-laptop could be on the way, with an Intel Arc G3 Extreme chip based on Intel Panther Lake architecture with Arc Pro graphics • The new MacBook pro with PROLED XDR Display is Apple's first touchscreen MacBook The post GPD Win Mini Ultra (mini-laptop with Intel Panther Lake), the first Touchscreen MacBook, and a new RISC-V Handheld: Liliputing News Roundup appeared first on Liliputing .",
       "summaryZh": "采用 Android XR 的 XREAL AURA 有线智能眼镜可连接到带有电池和 Snapdragon Reality Elite 芯片的“便携式计算冰球” • 新款 GPD Win Mini Ultra 迷你笔记本电脑可能即将问世，配备基于 Intel Panther Lake 架构和 Arc Pro 显卡的 Intel Arc G3 Extreme 芯片 • 配备 PROLED XDR 显示屏的新款 MacBook Pro 是 Apple 首款触摸屏 MacBook 后 GPD Win Mini Ultra（配备 Intel Panther Lake 的迷你笔记本电脑）是首款触摸屏MacBook 和新的 RISC-V 手持设备：Liliputing News Ro",
       "url": "https://liliputing.com/gpd-win-mini-ultra-mini-laptop-with-intel-panther-lake-the-first-touchscreen-macbook-and-a-new-risc-v-handheld-liliputing-news-roundup/",
@@ -96,16 +135,16 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
     {
       "id": "270442ceac44228e120e611a3caecdeb2dcb44a8",
       "title": "The Omnibot Finally Got the Brains It Deserves",
-      "titleZh": "The Omnibot Finally Got the Brains It Deserves",
+      "titleZh": "全能机器人终于得到了它应有的大脑",
       "summary": "Mario Cruz upgraded a 1984 Tomy Omnibot with a Raspberry Pi and AI camera, giving the vintage robot the brains it always deserved.",
-      "summaryZh": "Mario Cruz upgraded a 1984 Tomy Omnibot with a Raspberry Pi and AI camera, giving the vintage robot the brains it always deserved.",
+      "summaryZh": "Mario Cruz 用 Raspberry Pi 和 AI 摄像头升级了 1984 年的 Tomy Omnibot，为这款老式机器人提供了它应有的大脑。",
       "url": "https://www.hackster.io/news/the-omnibot-finally-got-the-brains-it-deserves-d175f9afc136",
       "normalizedUrl": "https://hackster.io/news/the-omnibot-finally-got-the-brains-it-deserves-d175f9afc136",
       "publishedAt": "2026-10-28T14:16:52.000Z",
@@ -120,10 +159,11 @@
       "projectCategory": "智能相机与机器人",
       "projectStage": "持续观察",
       "projectFormat": "硬件产品",
-      "innovationScore": 76,
+      "innovationScore": 83,
       "innovationReasons": [
         "AI 影像",
-        "自动化拍摄"
+        "自动化拍摄",
+        "新产品形态"
       ],
       "references": [
         {
@@ -133,18 +173,18 @@
           "publishedAt": "2026-10-28T14:16:52.000Z"
         }
       ],
-      "baseScore": 76,
+      "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
     {
       "id": "5c668c3824743341ca7d8cc76d771e4abbdb69da",
       "title": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
-      "titleZh": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
+      "titleZh": "Accsoon CineView Master 4K II 推出 – DCI 4K60 传输、两端 USB-C 输出、摄影机控制",
       "summary": "Accsoon has introduced the CineView Master 4K II, the second generation of its tri-band 4K60 wireless video system. The core transmission platform stays the same, but the receiver now gets its own USB-C video output, and the transmitter adds a dedicated port for camera control from a phone or tablet. Let’s take a look at what has changed. The CineView Master 4K II transmits DCI 4K and UHD at up to 60fps with H.265 encoding, and it operates on the 2.4GHz, 5GHz and 6GHz bands at the same time through Accsoon’s proprietary RTMS 4.0 protocol. Accsoon specifies a latency below 25ms at 1080p60 and below 35ms at 4K60 (camera latency […]",
-      "summaryZh": "Accsoon has introduced the CineView Master 4K II, the second generation of its tri-band 4K60 wireless video system. The core transmission platform stays the same, but the receiver now gets its own USB-C video output, and the transmitter adds a dedicated port for camera control from a phone or tablet. Let’s take a look at what has changed. The CineView Master 4K II transmits DCI 4K and UHD at up to 60fps with H.265 encoding, and it operates on the 2.4GHz, 5GHz and 6GHz bands at the same time through Accsoon’s propri",
+      "summaryZh": "Accsoon 推出了 CineView Master 4K II，这是其三频 4K60 无线视频系统的第二代。核心传输平台保持不变，但接收器现在拥有自己的 USB-C 视频输出，发射器添加了一个专用端口，用于通过手机或平板电脑控制相机。让我们看看发生了什么变化。 CineView Master 4K II 通过 H.265 编码以高达 60fps 的速度传输 DCI 4K 和 UHD，并通过 Accsoon 的专有技术同时在 2.4GHz、5GHz 和 6GHz 频段上运行。",
       "url": "https://www.cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control/",
       "normalizedUrl": "https://cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control",
       "publishedAt": "2026-10-28T13:59:45.000Z",
@@ -179,9 +219,48 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
+    },
+    {
+      "id": "6715a2986b3466cd56878a7a9d674c5610755fe2",
+      "title": "Your industrial drones collect data. Percepto wants AI to make it count",
+      "titleZh": "您的工业无人机收集数据。 Percepto 希望人工智能发挥作用",
+      "summary": "Industrial drone inspections have a data problem. Drones can capture detailed images of miles of power lines, sprawling oil and gas facilities, and hard-to-reach industrial equipment. But someone still has to sift through all that footage, identify potential problems, and decide which ones need attention first. Percepto wants to change that equation with Axion, a new software platform that brings AI-powered inspection analysis to existing drone fleets, sensors, and inspection records. The big difference? Companies don’t have to buy Percepto hardware to use it. more…",
+      "summaryZh": "工业无人机检查存在数据问题。无人机可以捕捉数英里长的电线、庞大的石油和天然气设施以及难以到达的工业设备的详细图像。但仍然需要有人仔细检查所有这些镜头，找出潜在的问题，并决定首先需要注意哪些问题。 Percepto 希望通过 Axion 改变这一现状，Axion 是一个新的软件平台，可为现有无人机机队、传感器和检查记录带来人工智能驱动的检查分析。最大的区别是什么？公司",
+      "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
+      "normalizedUrl": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai",
+      "publishedAt": "2026-10-28T07:49:49.000Z",
+      "source": {
+        "id": "dronedj",
+        "name": "DroneDJ",
+        "category": "无人机/运动影像",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Your industrial drones collect data. Percepto wants AI to make it count",
+          "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
+          "source": "DroneDJ",
+          "publishedAt": "2026-10-28T07:49:49.000Z"
+        }
+      ],
+      "baseScore": 75,
+      "firstSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
+      "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
     {
       "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
@@ -225,9 +304,9 @@
     {
       "id": "99365e8dc4c5870acbba1ed118a24d6e069fa4f4",
       "title": "Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio",
-      "titleZh": "Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio",
+      "titleZh": "Hollyland LARK M3 说明 - 一个发射器、最多四个接收器和 4 轨音频",
       "summary": "Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same clean lav signal instead of scratch audio. Here is how the system divides control between receivers, where the four isolated tracks actually arrive, and where its limits are. We have previously covered the LARK M2 and the more discreet LARK M2S, as well as the LARK MAX 2, which adds onboard recording and timecode. The M3 sits between those approaches. It keeps the 9g […]",
-      "summaryZh": "Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same clean lav signal instead of scratch audio. Here is how the system divides control between receivers, where the four isolated tracks actually arrive, and where its limits are. We have previously covered the LARK M2 and the more discreet LAR",
+      "summaryZh": "大多数预算无线套件都是围绕一个假设构建的：一个接收器、一台摄像头。 Hollyland LARK M3 打破了这一假设，因为单个发射器可以同时向多达四个接收器供电。在多机位采访中，这意味着每个机位都可以录制相同的干净 lav 信号，而不是刮擦音频。以下是系统如何在接收器之间划分控制、四个隔离轨道实际到达的位置及其限制。我们之前介绍过 LARK M2 和更谨慎的 LAR",
       "url": "https://www.cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio/",
       "normalizedUrl": "https://cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio",
       "publishedAt": "2026-10-27T15:58:36.000Z",
@@ -256,16 +335,16 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
     {
       "id": "58817d2a3f03d4c6ee86c327883f6d6d046ee926",
       "title": "Will we get new Four Thirds sensors with Lofoic design?",
-      "titleZh": "Will we get new Four Thirds sensors with Lofoic design?",
+      "titleZh": "我们会得到采用 Lofoic 设计的新型三分之四传感器吗？",
       "summary": "As you know the new DJI Osmo Pocket 4P is featuring a 1-inch sensor with LOFIC technology. LOFIC—short for Lateral Overflow Integration Capacitor—uses additional capacitors to store excess charge that would otherwise clip, preserving significantly more highlight information.According to real-world testing by CineD, the camera achieves an impressive 16 stops of dynamic range at a…",
-      "summaryZh": "As you know the new DJI Osmo Pocket 4P is featuring a 1-inch sensor with LOFIC technology. LOFIC—short for Lateral Overflow Integration Capacitor—uses additional capacitors to store excess charge that would otherwise clip, preserving significantly more highlight information.According to real-world testing by CineD, the camera achieves an impressive 16 stops of dynamic range at a…",
+      "summaryZh": "如您所知，新款 DJI Osmo Pocket 4P 配备了采用 LOFIC 技术的 1 英寸传感器。 LOFIC（横向溢出集成电容器的缩写）使用额外的电容器来存储多余的电荷，否则这些电荷会被削波，从而保留更多的高光信息。根据 CineD 的实际测试，该摄像机在…",
       "url": "https://www.43rumors.com/will-we-get-new-four-thirds-sensors-with-lofoic-design/",
       "normalizedUrl": "https://43rumors.com/will-we-get-new-four-thirds-sensors-with-lofoic-design",
       "publishedAt": "2026-10-27T13:18:36.000Z",
@@ -295,7 +374,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -338,11 +417,50 @@
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
     {
+      "id": "b919ba13bb1fd7b340877c0fc89cc211d517ac56",
+      "title": "Godox iM10: a small universal flash for your photography",
+      "titleZh": "Godox iM10：适合摄影的小型通用闪光灯",
+      "summary": "The universal single-contact hot shoe included lets the Godox iM10 work with a wide range of cameras, from compact digital cameras and mirrorless cameras to film cameras. Small flashes (like the Viltrox Vintage Z1 ) are a recent trend of the market and Godox wants its share of the cake. The latest arrival to it [...] Read More... from Godox iM10: a small universal flash for your photography",
+      "summaryZh": "随附的通用单触点热靴让神牛 iM10 可与各种相机配合使用，从紧凑型数码相机、无反光镜相机到胶片相机。小型闪光灯（如 V​​iltrox Vintage Z1）是最近的市场趋势，神牛也想分得一杯羹。最新推出的 [...] 阅读更多... 来自 Godox iM10：适合您摄影的小型通用闪光灯",
+      "url": "https://www.provideocoalition.com/godox-im10-a-small-universal-flash-for-your-photography/",
+      "normalizedUrl": "https://provideocoalition.com/godox-im10-a-small-universal-flash-for-your-photography",
+      "publishedAt": "2026-10-27T12:45:52.000Z",
+      "source": {
+        "id": "provideocoalition",
+        "name": "ProVideo Coalition",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "便携形态",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Godox iM10: a small universal flash for your photography",
+          "url": "https://www.provideocoalition.com/godox-im10-a-small-universal-flash-for-your-photography/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-10-27T12:45:52.000Z"
+        }
+      ],
+      "baseScore": 80,
+      "firstSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/godoxim10_002.jpg",
+      "imageCheckedAt": "2026-10-29T07:03:48.054Z"
+    },
+    {
       "id": "c6e84adc5a22bf60d01df2af914229c62a2f8f1d",
       "title": "Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot",
-      "titleZh": "Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot",
+      "titleZh": "Luxonis 最新的模块化 OAK 4 摄像头板可为您的下一个机器人配备五个摄像头",
       "summary": "New carrier board for the OAK 4 supports up to five cameras, Power-over-Ethernet Plus, and boasts a 48 TOPS INT8 accelerator.",
-      "summaryZh": "New carrier board for the OAK 4 supports up to five cameras, Power-over-Ethernet Plus, and boasts a 48 TOPS INT8 accelerator.",
+      "summaryZh": "OAK 4 的新载板支持多达五个摄像头、以太网供电 Plus，并拥有 48 TOPS INT8 加速器。",
       "url": "https://www.hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342",
       "normalizedUrl": "https://hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342",
       "publishedAt": "2026-10-27T09:39:10.000Z",
@@ -357,10 +475,11 @@
       "projectCategory": "智能相机与机器人",
       "projectStage": "持续观察",
       "projectFormat": "硬件产品",
-      "innovationScore": 85,
+      "innovationScore": 92,
       "innovationReasons": [
         "自动化拍摄",
-        "模块化工作流"
+        "模块化工作流",
+        "新产品形态"
       ],
       "references": [
         {
@@ -370,9 +489,9 @@
           "publishedAt": "2026-10-27T09:39:10.000Z"
         }
       ],
-      "baseScore": 85,
+      "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -455,9 +574,9 @@
     {
       "id": "5fe7067a72d24fc7e75c41c7fd162e6caf01680a",
       "title": "Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next",
-      "titleZh": "Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next",
+      "titleZh": "神牛发布新款紧凑型TT350II ThinkLite闪存，新型号iT32R传言下一步将发布",
       "summary": "Godox announced a new, compact, and updated TT350II ThinkLite flash for Sony, Canon, Nikon, Olympus, and Panasonic cameras: Pre-orders Additional information Product page Godox is rumored to introduce a new iT32R flash based on the Godox iT32, but with a round head instead of a square one. Key features of the new Godox TT350II flash: […] The post Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next appeared first on Photo Rumors . Related posts: New Godox iT32 iFlash and X5 TTL wireless flash trigger announced (C/N/S/F/O) New Godox V1mid on-camera flash announced (C/N/S/F/O) The latest Insta360 Luna camera rumors",
-      "summaryZh": "Godox announced a new, compact, and updated TT350II ThinkLite flash for Sony, Canon, Nikon, Olympus, and Panasonic cameras: Pre-orders Additional information Product page Godox is rumored to introduce a new iT32R flash based on the Godox iT32, but with a round head instead of a square one. Key features of the new Godox TT350II flash: […] The post Godox announced a new compact TT350II ThinkLite flash, new iT32R model rumored to be announced next appeared first on Photo Rumors . Related posts: New Godox iT32 iFlash a",
+      "summaryZh": "神牛宣布推出一款新的紧凑型更新版 TT350II ThinkLite 闪光灯，适用于索尼、佳能、尼康、奥林巴斯和松下相机： 预购 其他信息 产品页面 据传神牛将推出一款基于神牛 iT32 的新型 iT32R 闪光灯，但头部为圆头而不是方头。新款神牛TT350II闪光灯的主要特点： [...] 神牛发布了一款新的紧凑型TT350II ThinkLite闪光灯，据传接下来将要发布的新iT32R型号首先出现在Photo Rumors上。相关帖子：新神牛iT32 iFlash a",
       "url": "https://photorumors.com/2026/10/25/godox-announced-a-new-compact-tt350ii-thinklite-flash-new-it32r-flash-rumored-to-be-announced-next/",
       "normalizedUrl": "https://photorumors.com/2026/10/25/godox-announced-a-new-compact-tt350ii-thinklite-flash-new-it32r-flash-rumored-to-be-announced-next",
       "publishedAt": "2026-10-25T21:54:57.000Z",
@@ -488,16 +607,16 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
     {
       "id": "1eabd4badb32533fe00f1a2b3d73d0db586644e1",
       "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
-      "titleZh": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
+      "titleZh": "GoPro 售价 700 美元的 8K 电影摄影机被《时代》杂志评为 2026 年最佳发明之一",
       "summary": "GoPro’s MISSION 1 PRO ILS, a compact 8K cinema camera featuring interchangeable lenses and a $699.99 price tag, has been named one of TIME’s Best Inventions of 2026. The recognition highlights GoPro’s expansion into professional filmmaking with a camera that combines high-resolution recording, an interchangeable lens system, and an exceptionally small form factor. GoPro earns TIME recognition Announcing the recognition on LinkedIn, GoPro stated: We’re excited to share that MISSION 1 PRO ILS, the world’s smallest, most rugged compact cinema camera with interchangeable lenses, has been named to TIME’s list of the Best Inventions of 2026. According to GoPro, the The post GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026 appeared first on Y.M.Cinema Magazine .",
-      "summaryZh": "GoPro’s MISSION 1 PRO ILS, a compact 8K cinema camera featuring interchangeable lenses and a $699.99 price tag, has been named one of TIME’s Best Inventions of 2026. The recognition highlights GoPro’s expansion into professional filmmaking with a camera that combines high-resolution recording, an interchangeable lens system, and an exceptionally small form factor. GoPro earns TIME recognition Announcing the recognition on LinkedIn, GoPro stated: We’re excited to share that MISSION 1 PRO ILS, the world’s smallest, m",
+      "summaryZh": "GoPro 的 MISSION 1 PRO ILS 是一款紧凑型 8K 电影摄影机，配备可更换镜头，售价 699.99 美元，被《时代》杂志评为 2026 年最佳发明之一。这一认可凸显了 GoPro 向专业电影制作领域的拓展，这款摄影机结合了高分辨率录制、可更换镜头系统和超小外形。 GoPro 获得 TIME 认可 在 LinkedIn 上宣布获得认可时，GoPro 表示：我们很高兴与大家分享 MISSION 1 PRO ILS，这是世界上最小的",
       "url": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026/",
       "normalizedUrl": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026",
       "publishedAt": "2026-10-25T17:36:27.000Z",
@@ -526,7 +645,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -610,7 +729,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -673,7 +792,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -713,7 +832,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -829,7 +948,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-22T15:16:51.236Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-scaled.png",
       "imageCheckedAt": "2026-10-22T15:16:51.236Z"
     },
@@ -1474,7 +1593,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2780,7 +2899,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T00:54:53.731Z",
+      "lastSeenAt": "2026-10-29T07:03:48.054Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
