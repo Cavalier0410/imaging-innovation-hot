@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-29T07:03:48.054Z",
-  "sourceGeneratedAt": "2026-10-29T07:02:57.907Z",
+  "generatedAt": "2026-10-29T14:16:46.401Z",
+  "sourceGeneratedAt": "2026-10-29T14:16:38.018Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 198,
+    "scannedThisRun": 189,
     "acceptedThisRun": 19,
-    "newThisRun": 3,
-    "projectCount": 72,
+    "newThisRun": 1,
+    "projectCount": 73,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 62
+    "withImageCount": 63
   },
   "categoryCounts": {
     "专业影像新技术": 25,
-    "空间影像与显示": 15,
+    "空间影像与显示": 16,
     "创新光学与传感": 13,
     "智能相机与机器人": 7,
     "运动影像与航拍": 6,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,9 +95,87 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "726bec307df5be6ba3f39466d502d6148f50302e",
+      "title": "Rokid Glasses 2 and Rokid Color Offer Two Different Takes on AI Smart Glasses",
+      "titleZh": "Rokid Glasses 2 and Rokid Color Offer Two Different Takes on AI Smart Glasses",
+      "summary": "Smart glasses can display information without requiring users to reach for a smartphone, but not every pair is designed for the same tasks. Reading translations, following directions, and recording hands-free video require different capabilities from watching videos or viewing colorful…",
+      "summaryZh": "Smart glasses can display information without requiring users to reach for a smartphone, but not every pair is designed for the same tasks. Reading translations, following directions, and recording hands-free video require different capabilities from watching videos or viewing colorful…",
+      "url": "https://the-gadgeteer.com/2026/10/29/rokid-glasses-2-rokid-color-ai-smart-glasses/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/10/29/rokid-glasses-2-rokid-color-ai-smart-glasses",
+      "publishedAt": "2026-10-29T11:00:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "Rokid Glasses 2 and Rokid Color Offer Two Different Takes on AI Smart Glasses",
+          "url": "https://the-gadgeteer.com/2026/10/29/rokid-glasses-2-rokid-color-ai-smart-glasses/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-10-29T11:00:00.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Rokid-Glasses-B.jpg",
+      "imageCheckedAt": "2026-10-29T14:16:46.401Z"
+    },
+    {
+      "id": "6715a2986b3466cd56878a7a9d674c5610755fe2",
+      "title": "Your industrial drones collect data. Percepto wants AI to make it count",
+      "titleZh": "您的工业无人机收集数据。 Percepto 希望人工智能发挥作用",
+      "summary": "Industrial drone inspections have a data problem. Drones can capture detailed images of miles of power lines, sprawling oil and gas facilities, and hard-to-reach industrial equipment. But someone still has to sift through all that footage, identify potential problems, and decide which ones need attention first. Percepto wants to change that equation with Axion, a new software platform that brings AI-powered inspection analysis to existing drone fleets, sensors, and inspection records. The big difference? Companies don’t have to buy Percepto hardware to use it. more…",
+      "summaryZh": "工业无人机检查存在数据问题。无人机可以捕捉数英里长的电线、庞大的石油和天然气设施以及难以到达的工业设备的详细图像。但仍然需要有人仔细检查所有这些镜头，找出潜在的问题，并决定首先需要注意哪些问题。 Percepto 希望通过 Axion 改变这一现状，Axion 是一个新的软件平台，可为现有无人机机队、传感器和检查记录带来人工智能驱动的检查分析。最大的区别是什么？公司",
+      "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
+      "normalizedUrl": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai",
+      "publishedAt": "2026-10-29T06:49:49.000Z",
+      "source": {
+        "id": "dronedj",
+        "name": "DroneDJ",
+        "category": "无人机/运动影像",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "AI 影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Your industrial drones collect data. Percepto wants AI to make it count",
+          "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
+          "source": "DroneDJ",
+          "publishedAt": "2026-10-28T07:49:49.000Z"
+        }
+      ],
+      "baseScore": 75,
+      "firstSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
+      "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
     {
       "id": "311714bc40b7098bb481753ceec27ece6c318cb0",
@@ -135,7 +213,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -175,7 +253,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -219,48 +297,9 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
-    },
-    {
-      "id": "6715a2986b3466cd56878a7a9d674c5610755fe2",
-      "title": "Your industrial drones collect data. Percepto wants AI to make it count",
-      "titleZh": "您的工业无人机收集数据。 Percepto 希望人工智能发挥作用",
-      "summary": "Industrial drone inspections have a data problem. Drones can capture detailed images of miles of power lines, sprawling oil and gas facilities, and hard-to-reach industrial equipment. But someone still has to sift through all that footage, identify potential problems, and decide which ones need attention first. Percepto wants to change that equation with Axion, a new software platform that brings AI-powered inspection analysis to existing drone fleets, sensors, and inspection records. The big difference? Companies don’t have to buy Percepto hardware to use it. more…",
-      "summaryZh": "工业无人机检查存在数据问题。无人机可以捕捉数英里长的电线、庞大的石油和天然气设施以及难以到达的工业设备的详细图像。但仍然需要有人仔细检查所有这些镜头，找出潜在的问题，并决定首先需要注意哪些问题。 Percepto 希望通过 Axion 改变这一现状，Axion 是一个新的软件平台，可为现有无人机机队、传感器和检查记录带来人工智能驱动的检查分析。最大的区别是什么？公司",
-      "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
-      "normalizedUrl": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai",
-      "publishedAt": "2026-10-28T07:49:49.000Z",
-      "source": {
-        "id": "dronedj",
-        "name": "DroneDJ",
-        "category": "无人机/运动影像",
-        "priority": "P1",
-        "language": "en",
-        "region": "US"
-      },
-      "projectCategory": "运动影像与航拍",
-      "projectStage": "持续观察",
-      "projectFormat": "软件/应用",
-      "innovationScore": 75,
-      "innovationReasons": [
-        "AI 影像",
-        "新产品形态"
-      ],
-      "references": [
-        {
-          "title": "Your industrial drones collect data. Percepto wants AI to make it count",
-          "url": "https://dronedj.com/2026/10/28/percepto-axion-drone-inspection-ai/",
-          "source": "DroneDJ",
-          "publishedAt": "2026-10-28T07:49:49.000Z"
-        }
-      ],
-      "baseScore": 75,
-      "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
-      "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
-      "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
     {
       "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
@@ -335,7 +374,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -374,7 +413,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -451,7 +490,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/godoxim10_002.jpg",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -491,7 +530,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -607,7 +646,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -645,7 +684,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -729,7 +768,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -792,7 +831,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -832,7 +871,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -1593,7 +1632,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2860,7 +2899,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-28T01:20:07.579Z",
+      "lastSeenAt": "2026-10-29T14:16:46.401Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
