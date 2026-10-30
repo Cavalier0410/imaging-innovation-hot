@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-29T23:56:33.275Z",
-  "sourceGeneratedAt": "2026-10-29T23:56:24.299Z",
+  "generatedAt": "2026-10-30T05:45:38.191Z",
+  "sourceGeneratedAt": "2026-10-30T05:45:31.678Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 191,
-    "acceptedThisRun": 21,
+    "scannedThisRun": 198,
+    "acceptedThisRun": 22,
     "newThisRun": 1,
-    "projectCount": 75,
+    "projectCount": 76,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 65
+    "withImageCount": 66
   },
   "categoryCounts": {
-    "专业影像新技术": 26,
+    "专业影像新技术": 27,
     "空间影像与显示": 16,
     "创新光学与传感": 14,
     "智能相机与机器人": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,9 +95,47 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "d08d9ca0e727e033acd6154e45aa479a043db4d7",
+      "title": "Blackmagic Design UltraStudio Express HD",
+      "titleZh": "Blackmagic Design UltraStudio Express HD",
+      "summary": "Blackmagic Design has announced UltraStudio Express HD, a new USB4 and Thunderbolt 4 capture and playback solution with 3G-SDI, HDMI, and analog connections. It is the first UltraStudio model to feature USB4 and Thunderbolt 4 connectivity, enabling high‑bandwidth capture/playback to modern laptops and desktops. The UltraStudio Express HD looks to be a good solution for ... Read more The post Blackmagic Design UltraStudio Express HD appeared first on Newsshooter .",
+      "summaryZh": "Blackmagic Design 宣布推出 UltraStudio Express HD，这是一款具有 3G-SDI、HDMI 和模拟连接功能的新型 USB4 和 Thunderbolt 4 采集和播放解决方案。它是首款具有 USB4 和 Thunderbolt 4 连接功能的 UltraStudio 型号，可为现代笔记本电脑和台式机提供高带宽捕获/回放。 UltraStudio Express HD 看起来是一个很好的解决方案... 阅读更多 Blackmagic Design UltraStudio Express HD 帖子首先出现在 Newsshooter 上。",
+      "url": "https://www.newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd/",
+      "normalizedUrl": "https://newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd",
+      "publishedAt": "2026-10-30T04:20:34.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 78,
+      "innovationReasons": [
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic Design UltraStudio Express HD",
+          "url": "https://www.newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-30T04:20:34.000Z"
+        }
+      ],
+      "baseScore": 78,
+      "firstSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
+      "imageCheckedAt": "2026-10-30T05:45:38.191Z"
     },
     {
       "id": "7bde6078e18c6e624535ead164dbbf5771132ed4",
@@ -133,7 +171,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-29T23:56:33.275Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/echotime-lifestyle-hero-amazonnews-ck102526.jpg",
       "imageCheckedAt": "2026-10-29T23:56:33.275Z"
     },
@@ -173,7 +211,7 @@
       ],
       "baseScore": 98,
       "firstSeenAt": "2026-10-29T19:40:58.178Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-29T19:40:58.178Z"
     },
@@ -213,7 +251,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-29T14:16:46.401Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Rokid-Glasses-B.jpg",
       "imageCheckedAt": "2026-10-29T14:16:46.401Z"
     },
@@ -252,7 +290,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -292,7 +330,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -332,7 +370,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -376,7 +414,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -453,7 +491,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -492,7 +530,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -569,7 +607,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/godoxim10_002.jpg",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -609,7 +647,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -725,7 +763,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -763,7 +801,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -847,7 +885,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -910,7 +948,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -950,7 +988,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -1711,7 +1749,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -3017,7 +3055,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-30T05:45:38.191Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
