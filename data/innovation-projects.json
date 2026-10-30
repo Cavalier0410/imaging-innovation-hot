@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-29T14:16:46.401Z",
-  "sourceGeneratedAt": "2026-10-29T14:16:38.018Z",
+  "generatedAt": "2026-10-29T23:56:33.275Z",
+  "sourceGeneratedAt": "2026-10-29T23:56:24.299Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 189,
-    "acceptedThisRun": 19,
+    "scannedThisRun": 191,
+    "acceptedThisRun": 21,
     "newThisRun": 1,
-    "projectCount": 73,
+    "projectCount": 75,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 63
+    "withImageCount": 65
   },
   "categoryCounts": {
-    "专业影像新技术": 25,
+    "专业影像新技术": 26,
     "空间影像与显示": 16,
-    "创新光学与传感": 13,
+    "创新光学与传感": 14,
     "智能相机与机器人": 7,
     "运动影像与航拍": 6,
     "AI 与计算影像": 4,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,16 +95,94 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
     {
+      "id": "7bde6078e18c6e624535ead164dbbf5771132ed4",
+      "title": "A camera-free Echo clock uses ultrasound to time your alarm",
+      "titleZh": "无摄像头的 Echo 时钟使用超声波为您的闹钟计时",
+      "summary": "Amazon’s new Echo Time is a $199.99 bedside smart clock that uses room temperature, presence detection, and ultrasound to estimate lighter sleep without a watch or ring. With Alexa+, its optional smart alarm can wake the user anywhere within 10…",
+      "summaryZh": "亚马逊新推出的 Echo Time 是一款售价 199.99 美元的床头智能时钟，它利用室温、存在检测和超声波来估计较轻的睡眠，无需手表或戒指。借助 Alexa+，其可选的智能闹钟可以在 10 小时内的任何地方唤醒用户……",
+      "url": "https://the-gadgeteer.com/2026/10/29/a-camera-free-echo-clock-uses-ultrasound-to-time-your-alarm/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/10/29/a-camera-free-echo-clock-uses-ultrasound-to-time-your-alarm",
+      "publishedAt": "2026-10-29T13:39:33.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "A camera-free Echo clock uses ultrasound to time your alarm",
+          "url": "https://the-gadgeteer.com/2026/10/29/a-camera-free-echo-clock-uses-ultrasound-to-time-your-alarm/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-10-29T13:39:33.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-10-29T23:56:33.275Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/echotime-lifestyle-hero-amazonnews-ck102526.jpg",
+      "imageCheckedAt": "2026-10-29T23:56:33.275Z"
+    },
+    {
+      "id": "4c9125cdd209c42a8072fbf4e57ff942d4122ab2",
+      "title": "This Wireless Sensor Board Speaks Your Language",
+      "titleZh": "这款无线传感器板会说您的语言",
+      "summary": "NINASENSE nRF is an open source BLE and LoRa sensing board that runs for years on AAA batteries and can be programmed with natural language.",
+      "summaryZh": "NINASENSE nRF 是一款开源 BLE 和 LoRa 传感板，可使用 AAA 电池运行多年，并且可以使用自然语言进行编程。",
+      "url": "https://www.hackster.io/news/this-wireless-sensor-board-speaks-your-language-f6e85723c116",
+      "normalizedUrl": "https://hackster.io/news/this-wireless-sensor-board-speaks-your-language-f6e85723c116",
+      "publishedAt": "2026-10-29T13:02:24.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "原型/开源",
+      "projectFormat": "开源项目",
+      "innovationScore": 98,
+      "innovationReasons": [
+        "开源可自制",
+        "云端与远程协作",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "This Wireless Sensor Board Speaks Your Language",
+          "url": "https://www.hackster.io/news/this-wireless-sensor-board-speaks-your-language-f6e85723c116",
+          "source": "Hackster News",
+          "publishedAt": "2026-10-29T13:02:24.000Z"
+        }
+      ],
+      "baseScore": 98,
+      "firstSeenAt": "2026-10-29T19:40:58.178Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-10-29T19:40:58.178Z"
+    },
+    {
       "id": "726bec307df5be6ba3f39466d502d6148f50302e",
       "title": "Rokid Glasses 2 and Rokid Color Offer Two Different Takes on AI Smart Glasses",
-      "titleZh": "Rokid Glasses 2 and Rokid Color Offer Two Different Takes on AI Smart Glasses",
+      "titleZh": "Rokid Glasses 2 和 Rokid Color 提供两种不同的 AI 智能眼镜",
       "summary": "Smart glasses can display information without requiring users to reach for a smartphone, but not every pair is designed for the same tasks. Reading translations, following directions, and recording hands-free video require different capabilities from watching videos or viewing colorful…",
-      "summaryZh": "Smart glasses can display information without requiring users to reach for a smartphone, but not every pair is designed for the same tasks. Reading translations, following directions, and recording hands-free video require different capabilities from watching videos or viewing colorful…",
+      "summaryZh": "智能眼镜可以显示信息，而无需用户接触智能手机，但并非每副眼镜都设计用于相同的任务。阅读翻译、遵循指示和录制免提视频需要与观看视频或观看彩色视频不同的功能……",
       "url": "https://the-gadgeteer.com/2026/10/29/rokid-glasses-2-rokid-color-ai-smart-glasses/",
       "normalizedUrl": "https://the-gadgeteer.com/2026/10/29/rokid-glasses-2-rokid-color-ai-smart-glasses",
       "publishedAt": "2026-10-29T11:00:00.000Z",
@@ -119,10 +197,11 @@
       "projectCategory": "空间影像与显示",
       "projectStage": "持续观察",
       "projectFormat": "硬件产品",
-      "innovationScore": 76,
+      "innovationScore": 83,
       "innovationReasons": [
         "AI 影像",
-        "空间影像"
+        "空间影像",
+        "新产品形态"
       ],
       "references": [
         {
@@ -132,9 +211,9 @@
           "publishedAt": "2026-10-29T11:00:00.000Z"
         }
       ],
-      "baseScore": 76,
+      "baseScore": 83,
       "firstSeenAt": "2026-10-29T14:16:46.401Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Rokid-Glasses-B.jpg",
       "imageCheckedAt": "2026-10-29T14:16:46.401Z"
     },
@@ -173,7 +252,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -213,7 +292,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -253,7 +332,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -297,7 +376,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -374,7 +453,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -413,7 +492,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -490,7 +569,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/godoxim10_002.jpg",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -530,7 +609,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -646,7 +725,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -684,7 +763,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -768,7 +847,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -831,7 +910,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -871,7 +950,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -1632,7 +1711,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -2899,7 +2978,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T14:16:46.401Z",
+      "lastSeenAt": "2026-10-29T19:40:58.178Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -2938,7 +3017,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-29T07:03:48.054Z",
+      "lastSeenAt": "2026-10-29T23:56:33.275Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
