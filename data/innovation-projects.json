@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-30T05:45:38.191Z",
-  "sourceGeneratedAt": "2026-10-30T05:45:31.678Z",
+  "generatedAt": "2026-10-30T12:52:50.138Z",
+  "sourceGeneratedAt": "2026-10-30T12:52:35.368Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 198,
-    "acceptedThisRun": 22,
-    "newThisRun": 1,
-    "projectCount": 76,
+    "scannedThisRun": 197,
+    "acceptedThisRun": 24,
+    "newThisRun": 3,
+    "projectCount": 79,
     "categoryCount": 7,
     "sourceCount": 18,
-    "withImageCount": 66
+    "withImageCount": 69
   },
   "categoryCounts": {
     "专业影像新技术": 27,
-    "空间影像与显示": 16,
-    "创新光学与传感": 14,
+    "空间影像与显示": 17,
+    "创新光学与传感": 16,
     "智能相机与机器人": 7,
     "运动影像与航拍": 6,
     "AI 与计算影像": 4,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,9 +95,88 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "cca456c05405b0404ba253f9ee66cc1ac7deab63",
+      "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
+      "titleZh": "参议员对 Meta 智能眼镜未经同意的拍摄展开调查",
+      "summary": "Two Senate Democrats are launching an inquiry into Meta’s smart glasses, widely nicknamed “pervert glasses,” amid growing concerns about their use to film people without their consent. [ Read More ]",
+      "summaryZh": "两名参议院民主党人正在对 Meta 的智能眼镜展开调查，这种智能眼镜被广泛称为“变态眼镜”，人们越来越担心这种眼镜会在未经同意的情况下对人们进行拍摄。 [ 阅读更多 ]",
+      "url": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming/",
+      "normalizedUrl": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming",
+      "publishedAt": "2026-10-30T10:44:22.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 73,
+      "innovationReasons": [
+        "空间影像",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
+          "url": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-10-30T10:44:22.000Z"
+        }
+      ],
+      "baseScore": 73,
+      "firstSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/07/meta-smart-glasses-ban-instagram.jpg",
+      "imageCheckedAt": "2026-10-30T12:52:50.138Z"
+    },
+    {
+      "id": "b216749bb1a2c76eb4093f4775a03215f24d246a",
+      "title": "Sony Announces a 50MP Sensor With Up to 17 Stops of Dynamic Range and 4K 120 FPS",
+      "titleZh": "索尼推出 50MP 传感器，动态范围高达 17 级，4K 120 FPS",
+      "summary": "Sony Semiconductor Solutions has announced the LYTIA 720, a new 50-megapixel stacked CMOS image sensor capable of recording 4K video at up to 120 FPS and delivering a claimed 100 dB dynamic range. That translates to approximately 16.6 stops, approaching 17 stops, through Sony’s Hybrid Frame-HDR technology. Although designed primarily for smartphone cameras, the sensor demonstrates how advanced imaging technologies are being integrated into increasingly compact imaging systems. The LYTIA 720 features a 1/1.56-type sensor measuring 10.24 mm diagonally, with 1.0 μm pixels and a Quad Bayer color filter. Sony plans to begin mass-production shipments in early November 2026. This The post Sony Announces a 50MP Sensor With Up to 17 Stops of Dynamic Range and 4K 120 FPS appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "索尼半导体解决方案公司宣布推出 LYTIA 720，这是一款新型 50 兆像素堆叠式 CMOS 图像传感器，能够以高达 120 FPS 的速度录制 4K 视频，并提供据称的 100 dB 动态范围。通过索尼的混合帧 HDR 技术，这意味着大约 16.6 档，接近 17 档。虽然该传感器主要为智能手机相机设计，但它展示了先进的成像技术如何集成到日益紧凑的成像系统中。 LYTIA 720 采用 1/1.56 型 s",
+      "url": "https://ymcinema.com/2026/10/30/sony-50mp-sensor-17-stops-4k-120fps/",
+      "normalizedUrl": "https://ymcinema.com/2026/10/30/sony-50mp-sensor-17-stops-4k-120fps",
+      "publishedAt": "2026-10-30T08:31:40.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 84,
+      "innovationReasons": [
+        "便携形态",
+        "模块化工作流",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Sony Announces a 50MP Sensor With Up to 17 Stops of Dynamic Range and 4K 120 FPS",
+          "url": "https://ymcinema.com/2026/10/30/sony-50mp-sensor-17-stops-4k-120fps/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-10-30T08:31:40.000Z"
+        }
+      ],
+      "baseScore": 84,
+      "firstSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
+      "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
     {
       "id": "d08d9ca0e727e033acd6154e45aa479a043db4d7",
@@ -133,7 +212,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-30T05:45:38.191Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
       "imageCheckedAt": "2026-10-30T05:45:38.191Z"
     },
@@ -171,7 +250,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-29T23:56:33.275Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/echotime-lifestyle-hero-amazonnews-ck102526.jpg",
       "imageCheckedAt": "2026-10-29T23:56:33.275Z"
     },
@@ -211,7 +290,7 @@
       ],
       "baseScore": 98,
       "firstSeenAt": "2026-10-29T19:40:58.178Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-29T19:40:58.178Z"
     },
@@ -251,7 +330,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-29T14:16:46.401Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Rokid-Glasses-B.jpg",
       "imageCheckedAt": "2026-10-29T14:16:46.401Z"
     },
@@ -290,7 +369,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -330,7 +409,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -370,7 +449,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -414,9 +493,48 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
+    },
+    {
+      "id": "5d058276b87f16ac8d375696a622b649ec691ac9",
+      "title": "Sony LYTIA 720 50MP Mobile Image Sensor",
+      "titleZh": "索尼 LYTIA 720 50MP 移动图像传感器",
+      "summary": "Sony Semiconductor Solutions has announced the development of the LYTIA 720, a new 50-megapixel 1/1.56-inch mobile image sensor designed to significantly boost low-light performance and bring full-pixel autofocus 4K 60fps HDR video capabilities to modern smartphones. This new sensor s essentially, a successor to the 1/1.56-inch, 50-megapixel LYTIA 700 series. As a comparison, the main ... Read more The post Sony LYTIA 720 50MP Mobile Image Sensor appeared first on Newsshooter .",
+      "summaryZh": "索尼半导体解决方案公司宣布开发 LYTIA 720，这是一款新型 50 兆像素 1/1.56 英寸移动图像传感器，旨在显着提升低光性能，并为现代智能手机带来全像素自动对焦 4K 60fps HDR 视频功能。这款新传感器本质上是 1/1.56 英寸、50 兆像素 LYTIA 700 系列的后继产品。作为比较，主要... 阅读更多 索尼 LYTIA 720 50MP 移动图像传感器的帖子首先出现在 Newsshooter 上。",
+      "url": "https://www.newsshooter.com/2026/10/28/sony-lytia-720-50mp-mobile-image-sensor/",
+      "normalizedUrl": "https://newsshooter.com/2026/10/28/sony-lytia-720-50mp-mobile-image-sensor",
+      "publishedAt": "2026-10-28T07:21:14.000Z",
+      "source": {
+        "id": "newsshooter",
+        "name": "Newsshooter",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "新型光学与传感",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "Sony LYTIA 720 50MP Mobile Image Sensor",
+          "url": "https://www.newsshooter.com/2026/10/28/sony-lytia-720-50mp-mobile-image-sensor/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-28T07:21:14.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.10.49-PM.png",
+      "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
     {
       "id": "4a44097dc95be210ae1271d32799840c6e8404e0",
@@ -491,7 +609,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -530,7 +648,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -647,7 +765,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -763,7 +881,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -801,7 +919,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -885,7 +1003,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -948,7 +1066,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -988,7 +1106,7 @@
       ],
       "baseScore": 87,
       "firstSeenAt": "2026-10-23T13:25:19.728Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/01cab5_7fe064e33f5d42eca94b994b6990196amv2.jpg",
       "imageCheckedAt": "2026-10-23T13:25:19.728Z"
     },
@@ -1749,7 +1867,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -3055,7 +3173,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     }
