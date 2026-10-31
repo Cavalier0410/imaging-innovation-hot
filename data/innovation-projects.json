@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-30T12:52:50.138Z",
-  "sourceGeneratedAt": "2026-10-30T12:52:35.368Z",
+  "generatedAt": "2026-10-31T02:21:19.623Z",
+  "sourceGeneratedAt": "2026-10-31T02:21:11.213Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 197,
+    "scannedThisRun": 188,
     "acceptedThisRun": 24,
     "newThisRun": 3,
-    "projectCount": 79,
+    "projectCount": 82,
     "categoryCount": 7,
-    "sourceCount": 18,
-    "withImageCount": 69
+    "sourceCount": 19,
+    "withImageCount": 70
   },
   "categoryCounts": {
-    "专业影像新技术": 27,
-    "空间影像与显示": 17,
+    "专业影像新技术": 29,
+    "空间影像与显示": 18,
     "创新光学与传感": 16,
     "智能相机与机器人": 7,
     "运动影像与航拍": 6,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,9 +95,48 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "804b42065e73f90be80360a33c4767f794a94dd3",
+      "title": "Scriben AI Ballpoint Pen Refuses To Act Like Other ‘Unnecessary’ AI Devices",
+      "titleZh": "Scriben AI Ballpoint Pen Refuses To Act Like Other ‘Unnecessary’ AI Devices",
+      "summary": "Scriben AI Ballpoint Pen Refuses To Act Like Other ‘Unnecessary’ AI Devices Tech companies love inventing new objects for you to carry around. Smart glasses, AI pins, little pucks you clip to your shirt that light up...",
+      "summaryZh": "Scriben AI Ballpoint Pen Refuses To Act Like Other ‘Unnecessary’ AI Devices Tech companies love inventing new objects for you to carry around. Smart glasses, AI pins, little pucks you clip to your shirt that light up...",
+      "url": "https://www.yankodesign.com/2026/10/30/scriben-ai-ballpoint-pen-refuses-to-act-like-other-unnecessary-ai-devices/",
+      "normalizedUrl": "https://yankodesign.com/2026/10/30/scriben-ai-ballpoint-pen-refuses-to-act-like-other-unnecessary-ai-devices",
+      "publishedAt": "2026-10-31T01:45:28.000Z",
+      "source": {
+        "id": "yanko-design",
+        "name": "Yanko Design",
+        "category": "新兴产品/设计",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "AI 影像",
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "Scriben AI Ballpoint Pen Refuses To Act Like Other ‘Unnecessary’ AI Devices",
+          "url": "https://www.yankodesign.com/2026/10/30/scriben-ai-ballpoint-pen-refuses-to-act-like-other-unnecessary-ai-devices/",
+          "source": "Yanko Design",
+          "publishedAt": "2026-10-31T01:45:28.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-10-31T02:21:19.623Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
+      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/scriben-ai-ballpoint-pen-refuses-to-act-like-other-unnecessary-ai-devices/Scriben_AI_Pen_recorder.jpg",
+      "imageCheckedAt": "2026-10-31T02:21:19.623Z"
     },
     {
       "id": "cca456c05405b0404ba253f9ee66cc1ac7deab63",
@@ -134,7 +173,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/07/meta-smart-glasses-ban-instagram.jpg",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -174,7 +213,7 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -212,7 +251,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-30T05:45:38.191Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
       "imageCheckedAt": "2026-10-30T05:45:38.191Z"
     },
@@ -250,7 +289,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-29T23:56:33.275Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-30T18:36:34.139Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/echotime-lifestyle-hero-amazonnews-ck102526.jpg",
       "imageCheckedAt": "2026-10-29T23:56:33.275Z"
     },
@@ -290,7 +329,7 @@
       ],
       "baseScore": 98,
       "firstSeenAt": "2026-10-29T19:40:58.178Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-29T19:40:58.178Z"
     },
@@ -369,7 +408,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -409,7 +448,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -449,7 +488,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -493,7 +532,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -532,7 +571,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.10.49-PM.png",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -609,7 +648,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -648,7 +687,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -765,7 +804,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -881,7 +920,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -919,7 +958,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -1003,7 +1042,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -1066,7 +1105,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -1867,7 +1906,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-10-30T12:52:50.138Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -3063,6 +3102,44 @@
       "baseScore": 92
     },
     {
+      "id": "6a772d3a556d8d852fe5e060219525a5d327b88f",
+      "title": "RetroVa: Turn Your iPhone Into a Vintage Camera System - Kickstarter",
+      "titleZh": "RetroVa: Turn Your iPhone Into a Vintage Camera System - Kickstarter",
+      "summary": "RetroVa: Turn Your iPhone Into a Vintage Camera System &nbsp;&nbsp; Kickstarter",
+      "summaryZh": "RetroVa: Turn Your iPhone Into a Vintage Camera System &nbsp;&nbsp; Kickstarter",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVJJMW9BMV9wRzFtLXlfeGVCaDBmSlBYb3JnMkMxaWdkYjl3VlJoa3ZsOXZ5X01HM3VLV1V4VUtHUGxkelJOSzM3M20tWmI4UXBTT0F2UEIwMnVTRllldVNiZVB1ZUpYVV8weWRDTzF5MzI1UlJXN2h3QzJoeHFFdDFhRGtVeGc?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVJJMW9BMV9wRzFtLXlfeGVCaDBmSlBYb3JnMkMxaWdkYjl3VlJoa3ZsOXZ5X01HM3VLV1V4VUtHUGxkelJOSzM3M20tWmI4UXBTT0F2UEIwMnVTRllldVNiZVB1ZUpYVV8weWRDTzF5MzI1UlJXN2h3QzJoeHFFdDFhRGtVeGc?oc=5",
+      "publishedAt": "2026-03-16T07:00:00.000Z",
+      "source": {
+        "id": "kickstarter-news",
+        "name": "Kickstarter",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "RetroVa: Turn Your iPhone Into a Vintage Camera System - Kickstarter",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVJJMW9BMV9wRzFtLXlfeGVCaDBmSlBYb3JnMkMxaWdkYjl3VlJoa3ZsOXZ5X01HM3VLV1V4VUtHUGxkelJOSzM3M20tWmI4UXBTT0F2UEIwMnVTRllldVNiZVB1ZUpYVV8weWRDTzF5MzI1UlJXN2h3QzJoeHFFdDFhRGtVeGc?oc=5",
+          "source": "Kickstarter",
+          "publishedAt": "2026-03-16T07:00:00.000Z"
+        }
+      ],
+      "baseScore": 81,
+      "firstSeenAt": "2026-10-31T02:21:19.623Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-31T02:21:19.623Z"
+    },
+    {
       "id": "566e82fb3783dd0b421603b256579a736df613b2",
       "title": "Easiest way to find a spy camera with the REDCARD by REDCARD - Indiegogo",
       "titleZh": "使用 REDCARD 寻找间谍相机的最简单方法 by REDCARD - Indiegogo",
@@ -3103,9 +3180,9 @@
     {
       "id": "30dbce01afce4099402b067b3503d35ba2871b99",
       "title": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic - Indiegogo",
-      "titleZh": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic - Indiegogo",
+      "titleZh": "EyeCube丨iMAG Electronic 出品的太阳能无线安全摄像头 - Indiegogo",
       "summary": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic &nbsp;&nbsp; Indiegogo",
-      "summaryZh": "EyeCube丨Solar-Powered Wireless Security Camera by iMAG Electronic &nbsp;&nbsp; Indiegogo",
+      "summaryZh": "EyeCube丨iMAG Electronic 的太阳能无线安全摄像头 Indiegogo",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzByTzc3VGtlX0Zoam0tMDBKSTdvaERVZzVOTDREZzBkYW1haWk5VEhiVFpfckp4cVhMdWE3S1ItazBmWjA1cUdKRjRZUlV5LWZTYk1oTS1RMEdwMWpHN0k2NEhxdmxxVjE3ZjlOSnFzV0Rka0ZldTBuZ3ZpeWtrUTR0amJoTnBfd29zVzBTN2gtVjgwOW5hNDN2aFg0MDJj?oc=5",
       "normalizedUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzByTzc3VGtlX0Zoam0tMDBKSTdvaERVZzVOTDREZzBkYW1haWk5VEhiVFpfckp4cVhMdWE3S1ItazBmWjA1cUdKRjRZUlV5LWZTYk1oTS1RMEdwMWpHN0k2NEhxdmxxVjE3ZjlOSnFzV0Rka0ZldTBuZ3ZpeWtrUTR0amJoTnBfd29zVzBTN2gtVjgwOW5hNDN2aFg0MDJj?oc=5",
       "publishedAt": "2025-10-18T05:27:30.000Z",
@@ -3134,7 +3211,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-29T19:40:58.178Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -3176,6 +3253,44 @@
       "lastSeenAt": "2026-10-30T12:52:50.138Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "fd10189ce5c21a22ac2ff293c0f41b2b8d4e1a62",
+      "title": "Film Carrier MK1: 35mm Roll Film Holder for Camera Scanning - Kickstarter",
+      "titleZh": "Film Carrier MK1: 35mm Roll Film Holder for Camera Scanning - Kickstarter",
+      "summary": "Film Carrier MK1: 35mm Roll Film Holder for Camera Scanning &nbsp;&nbsp; Kickstarter",
+      "summaryZh": "Film Carrier MK1: 35mm Roll Film Holder for Camera Scanning &nbsp;&nbsp; Kickstarter",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3BFd0NHbHhza3NQMVpCcWVyTW5CbE1uanFFRGJlUTJCQTVKcXYxZmtrNWQxYTRNOUxmLXFUV1lIaUN3eERwVmppMThZOFMxWWJLeGc2YTRuUWhWaHY1TXNlQlRWT1NfMjV2U2lkczlTeU5DUFlzN0REdVptenBLY0FZeGFMM3pqekh1UGdqNzl0dEZfRjFkMGJDRmZqa2loaU0tQmhCdndrckEyR2xF?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3BFd0NHbHhza3NQMVpCcWVyTW5CbE1uanFFRGJlUTJCQTVKcXYxZmtrNWQxYTRNOUxmLXFUV1lIaUN3eERwVmppMThZOFMxWWJLeGc2YTRuUWhWaHY1TXNlQlRWT1NfMjV2U2lkczlTeU5DUFlzN0REdVptenBLY0FZeGFMM3pqekh1UGdqNzl0dEZfRjFkMGJDRmZqa2loaU0tQmhCdndrckEyR2xF?oc=5",
+      "publishedAt": "2020-12-14T08:00:00.000Z",
+      "source": {
+        "id": "kickstarter-news",
+        "name": "Kickstarter",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "Film Carrier MK1: 35mm Roll Film Holder for Camera Scanning - Kickstarter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3BFd0NHbHhza3NQMVpCcWVyTW5CbE1uanFFRGJlUTJCQTVKcXYxZmtrNWQxYTRNOUxmLXFUV1lIaUN3eERwVmppMThZOFMxWWJLeGc2YTRuUWhWaHY1TXNlQlRWT1NfMjV2U2lkczlTeU5DUFlzN0REdVptenBLY0FZeGFMM3pqekh1UGdqNzl0dEZfRjFkMGJDRmZqa2loaU0tQmhCdndrckEyR2xF?oc=5",
+          "source": "Kickstarter",
+          "publishedAt": "2020-12-14T08:00:00.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-10-31T02:21:19.623Z",
+      "lastSeenAt": "2026-10-31T02:21:19.623Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-10-31T02:21:19.623Z"
     }
   ]
 }

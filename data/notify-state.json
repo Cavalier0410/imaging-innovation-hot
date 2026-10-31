@@ -1,7 +1,7 @@
 {
-  "lastDigestAt": "2026-10-30T09:00:49.991Z",
-  "lastDigestDate": "2026-10-30",
-  "lastCount": 1,
+  "lastDigestAt": "2026-10-31T03:00:29.906Z",
+  "lastDigestDate": "2026-10-31",
+  "lastCount": 6,
   "sentProjectIds": [
     "7bd8f0f44bcacee2d5a2c10fa16030696eef4a37",
     "bc11dd1230fa2b534cadcb6a958010056961851b",
@@ -49,6 +49,12 @@
     "4c9125cdd209c42a8072fbf4e57ff942d4122ab2",
     "726bec307df5be6ba3f39466d502d6148f50302e",
     "7bde6078e18c6e624535ead164dbbf5771132ed4",
-    "d08d9ca0e727e033acd6154e45aa479a043db4d7"
+    "d08d9ca0e727e033acd6154e45aa479a043db4d7",
+    "804b42065e73f90be80360a33c4767f794a94dd3",
+    "fd10189ce5c21a22ac2ff293c0f41b2b8d4e1a62",
+    "b216749bb1a2c76eb4093f4775a03215f24d246a",
+    "6a772d3a556d8d852fe5e060219525a5d327b88f",
+    "5d058276b87f16ac8d375696a622b649ec691ac9",
+    "cca456c05405b0404ba253f9ee66cc1ac7deab63"
   ]
 }
