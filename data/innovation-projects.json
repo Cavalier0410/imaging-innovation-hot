@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-01T05:59:56.342Z",
-  "sourceGeneratedAt": "2026-11-01T05:59:49.876Z",
+  "generatedAt": "2026-11-01T13:19:27.954Z",
+  "sourceGeneratedAt": "2026-11-01T13:19:23.577Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 181,
-    "acceptedThisRun": 19,
-    "newThisRun": 0,
-    "projectCount": 84,
+    "scannedThisRun": 180,
+    "acceptedThisRun": 20,
+    "newThisRun": 1,
+    "projectCount": 85,
     "categoryCount": 7,
     "sourceCount": 20,
-    "withImageCount": 72
+    "withImageCount": 73
   },
   "categoryCounts": {
     "专业影像新技术": 29,
     "空间影像与显示": 19,
     "创新光学与传感": 17,
+    "运动影像与航拍": 7,
     "智能相机与机器人": 7,
-    "运动影像与航拍": 6,
     "AI 与计算影像": 4,
     "便携与移动创作": 2
   },
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,9 +95,48 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
+    },
+    {
+      "id": "ad9b19f5beb9cec39e644f207af9d1c0d2f9cf29",
+      "title": "5 Outdoor Cameras, 5 Jobs: From 360° Video to Underwater Photos",
+      "titleZh": "5 个户外摄像机，5 个工作：从 360° 视频到水下照片",
+      "summary": "Your smartphone records excellent video. It is still the wrong tool to strap to a bicycle, take snorkeling, or carry down a ski slope. Action cameras exist for exactly those jobs: waterproof construction, secure mounting, and stabilization that keeps working…",
+      "summaryZh": "您的智能手机可以录制精彩的视频。它仍然不是绑在自行车上、浮潜或携带下滑雪场的错误工具。运动相机的存在正是为了这些工作：防水结构、安全安装和持续工作的稳定性……",
+      "url": "https://the-gadgeteer.com/2026/11/01/best-action-cameras-2026/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/01/best-action-cameras-2026",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "持续观察",
+      "projectFormat": "软件/应用",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "新视角采集",
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "5 Outdoor Cameras, 5 Jobs: From 360° Video to Underwater Photos",
+          "url": "https://the-gadgeteer.com/2026/11/01/best-action-cameras-2026/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-01T12:00:00.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-11-01T13:19:27.954Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/5-Outdoor-Cameras-5-Jobs-From-360%C2%B0-Video-to-Underwater-Photos.jpg",
+      "imageCheckedAt": "2026-11-01T13:19:27.954Z"
     },
     {
       "id": "d897e4588e9d785c1d31e92dfc9d0b93d1f4acf0",
@@ -133,7 +172,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-10-31T23:23:18.600Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2016043/_0JmPfRJHbY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-31T23:23:18.600Z"
     },
@@ -250,7 +289,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/07/meta-smart-glasses-ban-instagram.jpg",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -290,7 +329,7 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -328,7 +367,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-10-30T05:45:38.191Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
       "imageCheckedAt": "2026-10-30T05:45:38.191Z"
     },
@@ -406,7 +445,7 @@
       ],
       "baseScore": 98,
       "firstSeenAt": "2026-10-29T19:40:58.178Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-29T19:40:58.178Z"
     },
@@ -485,7 +524,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -525,7 +564,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -565,7 +604,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -609,7 +648,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -725,7 +764,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -881,7 +920,7 @@
       ],
       "baseScore": 92,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2014643/_G7ul77AF1g.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -997,7 +1036,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -1035,7 +1074,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -1119,7 +1158,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-10-23T22:09:34.196Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sigma-FP2-6K-Open-Gate-in-a-Tiny-Full-Frame-Camera.001.webp",
       "imageCheckedAt": "2026-10-23T22:09:34.196Z"
     },
@@ -1182,7 +1221,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-10-23T18:20:04.955Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Sigma-fp-II-camera-6.webp",
       "imageCheckedAt": "2026-10-23T18:20:04.955Z"
     },
@@ -1983,7 +2022,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-11-01T05:59:56.342Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -3288,7 +3327,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-10-31T23:23:18.600Z",
+      "lastSeenAt": "2026-11-01T13:19:27.954Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
