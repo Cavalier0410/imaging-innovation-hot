@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-02T11:00:46.012Z",
-  "sourceGeneratedAt": "2026-11-02T11:00:39.398Z",
+  "generatedAt": "2026-11-03T02:54:59.857Z",
+  "sourceGeneratedAt": "2026-11-03T02:54:53.081Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 183,
-    "acceptedThisRun": 20,
-    "newThisRun": 2,
-    "projectCount": 87,
+    "scannedThisRun": 193,
+    "acceptedThisRun": 17,
+    "newThisRun": 1,
+    "projectCount": 88,
     "categoryCount": 7,
     "sourceCount": 21,
-    "withImageCount": 75
+    "withImageCount": 76
   },
   "categoryCounts": {
-    "专业影像新技术": 30,
+    "专业影像新技术": 31,
     "空间影像与显示": 19,
     "创新光学与传感": 18,
     "运动影像与航拍": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,7 +95,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -133,9 +133,47 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://static.makuake.com/upload/project/54325/main_54325.png?version=1793587230&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
+    },
+    {
+      "id": "c093bb81162e5a77148213596c7a623707cb59bd",
+      "title": "Zotac’s new fanless Wildcat Lake Mini PC, A new RISC-V Compute Module, repositioning the Windows 11 Taskbar: Liliputing News Roundup",
+      "titleZh": "Zotac’s new fanless Wildcat Lake Mini PC, A new RISC-V Compute Module, repositioning the Windows 11 Taskbar: Liliputing News Roundup",
+      "summary": "This Raspberry Pi CM5-sized compute module features an ESP32-P4 chip with two 32-bit, 400 MHz RISC-V CPU cores, a 40 MHz low-power core, and ESP32-C6 for WiFi 6 and Bluetooth 5. linuxgizmos.com/risc-v-compu • This credit card-sized computer has 2 Arm Cortex-A76 CPU cores, 6 Cortex-A55 cores, a RISC-V E902 real-time core, 4GB RAM, multiple storage options, display and camera interfaces, and wired and wireless connectivity options The post Zotac’s new fanless Wildcat Lake Mini PC, A new RISC-V Compute Module, repositioning the Windows 11 Taskbar: Liliputing News Roundup appeared first on Liliputing .",
+      "summaryZh": "This Raspberry Pi CM5-sized compute module features an ESP32-P4 chip with two 32-bit, 400 MHz RISC-V CPU cores, a 40 MHz low-power core, and ESP32-C6 for WiFi 6 and Bluetooth 5. linuxgizmos.com/risc-v-compu • This credit card-sized computer has 2 Arm Cortex-A76 CPU cores, 6 Cortex-A55 cores, a RISC-V E902 real-time core, 4GB RAM, multiple storage options, display and camera interfaces, and wired and wireless connectivity options The post Zotac’s new fanless Wildcat Lake Mini PC, A new RISC-V Compute Module, reposit",
+      "url": "https://liliputing.com/zotacs-new-fanless-wildcat-lake-mini-pc-a-new-risc-v-compute-module-repositioning-the-windows-11-taskbar-liliputing-news-roundup/",
+      "normalizedUrl": "https://liliputing.com/zotacs-new-fanless-wildcat-lake-mini-pc-a-new-risc-v-compute-module-repositioning-the-windows-11-taskbar-liliputing-news-roundup",
+      "publishedAt": "2026-11-02T21:56:05.000Z",
+      "source": {
+        "id": "liliputing",
+        "name": "Liliputing",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 73,
+      "innovationReasons": [
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "Zotac’s new fanless Wildcat Lake Mini PC, A new RISC-V Compute Module, repositioning the Windows 11 Taskbar: Liliputing News Roundup",
+          "url": "https://liliputing.com/zotacs-new-fanless-wildcat-lake-mini-pc-a-new-risc-v-compute-module-repositioning-the-windows-11-taskbar-liliputing-news-roundup/",
+          "source": "Liliputing",
+          "publishedAt": "2026-11-02T21:56:05.000Z"
+        }
+      ],
+      "baseScore": 73,
+      "firstSeenAt": "2026-11-03T02:54:59.857Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
+      "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
+      "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
     {
       "id": "ca4da84e3094adb5b56b0c44b5c980e66cd79d1a",
@@ -173,7 +211,7 @@
       ],
       "baseScore": 86,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/11/Micro-Four-Thirds-logo.gif",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
@@ -250,7 +288,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-10-31T23:23:18.600Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2016043/_0JmPfRJHbY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-31T23:23:18.600Z"
     },
@@ -333,6 +371,51 @@
       "imageCheckedAt": "2026-10-31T02:21:19.623Z"
     },
     {
+      "id": "d8eca1f2cf1353e1539336839f1713c643112025",
+      "title": "Blackmagic Design Announces New UltraStudio Express HD",
+      "titleZh": "Blackmagic Design Announces New UltraStudio Express HD",
+      "summary": "Blackmagic Design announced the new UltraStudio Express HD, a compact high-speed capture and playback solution for Mac, Windows and Linux computers with USB4 or Thunderbolt 4 connections. With both digital and analog connections, it’s perfect for archiving from old broadcast decks, or for editing with DaVinci Resolve. UltraStudio Express HD captures and plays back to [...] Read More... from Blackmagic Design Announces New UltraStudio Express HD",
+      "summaryZh": "Blackmagic Design announced the new UltraStudio Express HD, a compact high-speed capture and playback solution for Mac, Windows and Linux computers with USB4 or Thunderbolt 4 connections. With both digital and analog connections, it’s perfect for archiving from old broadcast decks, or for editing with DaVinci Resolve. UltraStudio Express HD captures and plays back to [...] Read More... from Blackmagic Design Announces New UltraStudio Express HD",
+      "url": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
+      "normalizedUrl": "https://provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd",
+      "publishedAt": "2026-10-30T21:09:20.000Z",
+      "source": {
+        "id": "provideocoalition",
+        "name": "ProVideo Coalition",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "便携形态",
+        "高性能工作流"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic Design Announces New UltraStudio Express HD",
+          "url": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-10-30T21:09:20.000Z"
+        },
+        {
+          "title": "Blackmagic Design UltraStudio Express HD",
+          "url": "https://www.newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-10-30T04:20:34.000Z"
+        }
+      ],
+      "baseScore": 81,
+      "firstSeenAt": "2026-10-30T05:45:38.191Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
+      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
+      "imageCheckedAt": "2026-10-30T05:45:38.191Z"
+    },
+    {
       "id": "cca456c05405b0404ba253f9ee66cc1ac7deab63",
       "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
       "titleZh": "参议员对 Meta 智能眼镜未经同意的拍摄展开调查",
@@ -407,47 +490,9 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
-    },
-    {
-      "id": "d08d9ca0e727e033acd6154e45aa479a043db4d7",
-      "title": "Blackmagic Design UltraStudio Express HD",
-      "titleZh": "Blackmagic Design UltraStudio Express HD",
-      "summary": "Blackmagic Design has announced UltraStudio Express HD, a new USB4 and Thunderbolt 4 capture and playback solution with 3G-SDI, HDMI, and analog connections. It is the first UltraStudio model to feature USB4 and Thunderbolt 4 connectivity, enabling high‑bandwidth capture/playback to modern laptops and desktops. The UltraStudio Express HD looks to be a good solution for ... Read more The post Blackmagic Design UltraStudio Express HD appeared first on Newsshooter .",
-      "summaryZh": "Blackmagic Design 宣布推出 UltraStudio Express HD，这是一款具有 3G-SDI、HDMI 和模拟连接功能的新型 USB4 和 Thunderbolt 4 采集和播放解决方案。它是首款具有 USB4 和 Thunderbolt 4 连接功能的 UltraStudio 型号，可为现代笔记本电脑和台式机提供高带宽捕获/回放。 UltraStudio Express HD 看起来是一个很好的解决方案... 阅读更多 Blackmagic Design UltraStudio Express HD 帖子首先出现在 Newsshooter 上。",
-      "url": "https://www.newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd/",
-      "normalizedUrl": "https://newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd",
-      "publishedAt": "2026-10-30T04:20:34.000Z",
-      "source": {
-        "id": "newsshooter",
-        "name": "Newsshooter",
-        "category": "电影机/视频器材",
-        "priority": "P1",
-        "language": "en",
-        "region": "Global"
-      },
-      "projectCategory": "专业影像新技术",
-      "projectStage": "已公布",
-      "projectFormat": "硬件产品",
-      "innovationScore": 78,
-      "innovationReasons": [
-        "高性能工作流"
-      ],
-      "references": [
-        {
-          "title": "Blackmagic Design UltraStudio Express HD",
-          "url": "https://www.newsshooter.com/2026/10/29/blackmagic-design-ultrastudio-express-hd/",
-          "source": "Newsshooter",
-          "publishedAt": "2026-10-30T04:20:34.000Z"
-        }
-      ],
-      "baseScore": 78,
-      "firstSeenAt": "2026-10-30T05:45:38.191Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
-      "imageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-13.06.24.png",
-      "imageCheckedAt": "2026-10-30T05:45:38.191Z"
     },
     {
       "id": "7bde6078e18c6e624535ead164dbbf5771132ed4",
@@ -523,7 +568,7 @@
       ],
       "baseScore": 98,
       "firstSeenAt": "2026-10-29T19:40:58.178Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015446/_ZWuEkA6MYj.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-29T19:40:58.178Z"
     },
@@ -602,7 +647,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -642,7 +687,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -682,7 +727,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2015018/_PFg2BmgUHY.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -726,7 +771,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-10-28T16:00:40.267Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat.jpg",
       "imageCheckedAt": "2026-10-28T16:00:40.267Z"
     },
@@ -842,7 +887,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
@@ -1114,7 +1159,7 @@
       ],
       "baseScore": 82,
       "firstSeenAt": "2026-10-26T00:22:23.104Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-02T20:45:59.420Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/10/Godox-TT350II-ThinkLite-flash-3.jpg",
       "imageCheckedAt": "2026-10-26T00:22:23.104Z"
     },
@@ -1152,7 +1197,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-25T19:05:02.607Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/GoPros-700-8K-Cinema-Camera-Named-One-of-TIMEs-Best-Inventions-of-2026.001.webp",
       "imageCheckedAt": "2026-10-25T19:05:02.607Z"
     },
@@ -1266,6 +1311,12 @@
         "模块化工作流"
       ],
       "references": [
+        {
+          "title": "New Sigma FP II reviews",
+          "url": "https://www.l-rumors.com/new-sigma-fp-ii-reviews/",
+          "source": "L Rumors",
+          "publishedAt": "2026-11-02T12:14:23.000Z"
+        },
         {
           "title": "Sigma 50mm F1.4 CL DG Contemporary Announced – 375g All-Metal Prime, New RDD Autofocus, Intentional Softness",
           "url": "https://www.cined.com/sigma-50mm-f1-4-cl-dg-contemporary-announced-375g-all-metal-prime-new-rdd-autofocus-intentional-softness/",
@@ -2112,7 +2163,7 @@
       ],
       "baseScore": 99,
       "firstSeenAt": "2026-10-19T16:43:57.906Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/09/featured-steamos-ported-to-arm-handhelds-pixelmob.jpg",
       "imageCheckedAt": "2026-10-19T16:43:57.906Z"
     },
@@ -3417,7 +3468,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-02T11:00:46.012Z",
+      "lastSeenAt": "2026-11-03T02:54:59.857Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
