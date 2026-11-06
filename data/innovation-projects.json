@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-05T10:52:09.257Z",
-  "sourceGeneratedAt": "2026-11-05T10:52:03.058Z",
+  "generatedAt": "2026-11-06T00:14:42.460Z",
+  "sourceGeneratedAt": "2026-11-06T00:14:36.396Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 200,
-    "acceptedThisRun": 13,
-    "newThisRun": 0,
-    "projectCount": 91,
+    "scannedThisRun": 203,
+    "acceptedThisRun": 12,
+    "newThisRun": 1,
+    "projectCount": 92,
     "categoryCount": 7,
-    "sourceCount": 21,
-    "withImageCount": 79
+    "sourceCount": 22,
+    "withImageCount": 80
   },
   "categoryCounts": {
-    "专业影像新技术": 32,
+    "专业影像新技术": 33,
     "创新光学与传感": 20,
     "空间影像与显示": 19,
     "运动影像与航拍": 7,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,7 +95,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -133,9 +133,48 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://static.makuake.com/upload/project/54325/main_54325.png?version=1793587230&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
+    },
+    {
+      "id": "068a096d59f2b457d260d840b253989d901f67e8",
+      "title": "These $89.99 Headphones Put a Camera on Your Head",
+      "titleZh": "These $89.99 Headphones Put a Camera on Your Head",
+      "summary": "The Rollme AuraCam is a pair of wireless over-ear headphones with a built-in camera and advertised AI features. It’s an unusual combination for anyone who wants more from their headphones than music playback. Instead of carrying a separate camera accessory,…",
+      "summaryZh": "The Rollme AuraCam is a pair of wireless over-ear headphones with a built-in camera and advertised AI features. It’s an unusual combination for anyone who wants more from their headphones than music playback. Instead of carrying a separate camera accessory,…",
+      "url": "https://the-gadgeteer.com/2026/11/05/rollme-auracam-camera-headphones/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/05/rollme-auracam-camera-headphones",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 88,
+      "innovationReasons": [
+        "AI 影像",
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "These $89.99 Headphones Put a Camera on Your Head",
+          "url": "https://the-gadgeteer.com/2026/11/05/rollme-auracam-camera-headphones/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-05T12:00:00.000Z"
+        }
+      ],
+      "baseScore": 88,
+      "firstSeenAt": "2026-11-06T00:14:42.460Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rollme-AuraCam-AI-Camera-Headphones-10.jpeg",
+      "imageCheckedAt": "2026-11-06T00:14:42.460Z"
     },
     {
       "id": "a9b17f99b6a0e88f6f254880f7105fc25f61cf68",
@@ -171,7 +210,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -210,7 +249,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -286,7 +325,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -326,7 +365,7 @@
       ],
       "baseScore": 86,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/11/Micro-Four-Thirds-logo.gif",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
@@ -611,7 +650,7 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -768,7 +807,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -808,7 +847,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -922,6 +961,12 @@
         "新产品形态"
       ],
       "references": [
+        {
+          "title": "Sony announced the new 50 Megapixel LYTIA sensor for mobile phones. Larger sensor coming soon?",
+          "url": "https://www.sonyalpharumors.com/sony-announced-the-new-50-megapixel-lytia-sensor-for-mobile-phones-larger-sensor-coming-soon/",
+          "source": "Sony Alpha Rumors",
+          "publishedAt": "2026-11-05T14:16:04.000Z"
+        },
         {
           "title": "Sony LYTIA 720 50MP Mobile Image Sensor",
           "url": "https://www.newsshooter.com/2026/10/28/sony-lytia-720-50mp-mobile-image-sensor/",
@@ -3589,7 +3634,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-05T10:52:09.257Z",
+      "lastSeenAt": "2026-11-06T00:14:42.460Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
