@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-07T07:08:34.588Z",
-  "sourceGeneratedAt": "2026-11-07T07:08:27.766Z",
+  "generatedAt": "2026-11-07T14:00:14.636Z",
+  "sourceGeneratedAt": "2026-11-07T14:00:08.379Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 201,
-    "acceptedThisRun": 13,
-    "newThisRun": 0,
-    "projectCount": 94,
+    "scannedThisRun": 208,
+    "acceptedThisRun": 14,
+    "newThisRun": 1,
+    "projectCount": 95,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 82
+    "withImageCount": 83
   },
   "categoryCounts": {
     "专业影像新技术": 34,
     "创新光学与传感": 20,
     "空间影像与显示": 19,
+    "智能相机与机器人": 8,
     "运动影像与航拍": 7,
-    "智能相机与机器人": 7,
     "AI 与计算影像": 5,
     "便携与移动创作": 2
   },
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,7 +95,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -133,9 +133,48 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://static.makuake.com/upload/project/54325/main_54325.png?version=1793587230&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
+    },
+    {
+      "id": "4a5359c1bd132e269d270d7498c0d891a827a831",
+      "title": "Kiwibit Beako 4K smart bird feeder drops to $129.99, $120 off",
+      "titleZh": "Kiwibit Beako 4K smart bird feeder drops to $129.99, $120 off",
+      "summary": "Kiwibit’s Beako smart bird feeder is $129.99 direct right now, down from $249.99. An 8MP camera films visiting birds in 4K, onboard AI names the species, and a separate solar panel keeps the battery topped up, so the feeder never…",
+      "summaryZh": "Kiwibit’s Beako smart bird feeder is $129.99 direct right now, down from $249.99. An 8MP camera films visiting birds in 4K, onboard AI names the species, and a separate solar panel keeps the battery topped up, so the feeder never…",
+      "url": "https://the-gadgeteer.com/2026/11/07/kiwibit-beako-4k-smart-bird-feeder/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/07/kiwibit-beako-4k-smart-bird-feeder",
+      "publishedAt": "2026-11-07T12:24:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "AI 影像",
+        "新使用场景"
+      ],
+      "references": [
+        {
+          "title": "Kiwibit Beako 4K smart bird feeder drops to $129.99, $120 off",
+          "url": "https://the-gadgeteer.com/2026/11/07/kiwibit-beako-4k-smart-bird-feeder/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-07T12:24:00.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-11-07T14:00:14.636Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/04/Kiwibit-Bird-Feeder-2-Review-the-gadgeteer-5.jpg",
+      "imageCheckedAt": "2026-11-07T14:00:14.636Z"
     },
     {
       "id": "204616ac93b50ed888f02a5d945be39f255da814",
@@ -171,7 +210,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -209,7 +248,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-06T06:46:54.129Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2017967/_xCv3nemHGW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-06T06:46:54.129Z"
     },
@@ -286,7 +325,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -325,7 +364,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -401,7 +440,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -441,7 +480,7 @@
       ],
       "baseScore": 86,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/11/Micro-Four-Thirds-logo.gif",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
@@ -726,7 +765,7 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -883,7 +922,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -923,7 +962,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3710,7 +3749,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-07T07:08:34.588Z",
+      "lastSeenAt": "2026-11-07T14:00:14.636Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
