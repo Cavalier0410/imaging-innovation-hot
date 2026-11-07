@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-06T06:46:54.129Z",
-  "sourceGeneratedAt": "2026-11-06T06:46:47.730Z",
+  "generatedAt": "2026-11-07T00:55:57.390Z",
+  "sourceGeneratedAt": "2026-11-07T00:55:51.266Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 203,
+    "scannedThisRun": 207,
     "acceptedThisRun": 13,
-    "newThisRun": 1,
-    "projectCount": 93,
+    "newThisRun": 0,
+    "projectCount": 94,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 81
+    "withImageCount": 82
   },
   "categoryCounts": {
     "专业影像新技术": 34,
@@ -17,7 +17,7 @@
     "空间影像与显示": 19,
     "运动影像与航拍": 7,
     "智能相机与机器人": 7,
-    "AI 与计算影像": 4,
+    "AI 与计算影像": 5,
     "便携与移动创作": 2
   },
   "projects": [
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -95,7 +95,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://static.makuake.com/upload/project/53953/main_53953.png?version=1791341329&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -133,9 +133,47 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://static.makuake.com/upload/project/54325/main_54325.png?version=1793587230&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
+    },
+    {
+      "id": "204616ac93b50ed888f02a5d945be39f255da814",
+      "title": "Steve Yedlin and Rian Johnson Release Chromagraph Camera – Film Color Pipeline for iPhone Stills, Grain, Halation and a RAW Gallery",
+      "titleZh": "Steve Yedlin and Rian Johnson Release Chromagraph Camera – Film Color Pipeline for iPhone Stills, Grain, Halation and a RAW Gallery",
+      "summary": "Cinematographer Steve Yedlin ASC, director Rian Johnson and color science programmer Eric Cameron have released Chromagraph Camera, a still photo app for iPhone. The app skips Apple’s own look processing and builds each image from raw sensor data with the same custom color math that Yedlin uses on his feature films, including grain and halation. The gallery keeps full-quality scene-linear originals and applies the look non-destructively, and the app costs $12.99 / €14.99 as a one-time purchase. Let’s take a closer look. Yedlin and Johnson have worked together since Johnson’s debut feature “Brick,” and their collaboration includes “Looper,” “Star Wars: The Last Jedi” and the three “Knives Out” films. Yedlin […]",
+      "summaryZh": "Cinematographer Steve Yedlin ASC, director Rian Johnson and color science programmer Eric Cameron have released Chromagraph Camera, a still photo app for iPhone. The app skips Apple’s own look processing and builds each image from raw sensor data with the same custom color math that Yedlin uses on his feature films, including grain and halation. The gallery keeps full-quality scene-linear originals and applies the look non-destructively, and the app costs $12.99 / €14.99 as a one-time purchase. Let’s take a closer",
+      "url": "https://www.cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery/",
+      "normalizedUrl": "https://cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery",
+      "publishedAt": "2026-11-06T09:12:07.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "AI 与计算影像",
+      "projectStage": "已发布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "计算影像"
+      ],
+      "references": [
+        {
+          "title": "Steve Yedlin and Rian Johnson Release Chromagraph Camera – Film Color Pipeline for iPhone Stills, Grain, Halation and a RAW Gallery",
+          "url": "https://www.cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery/",
+          "source": "CineD",
+          "publishedAt": "2026-11-06T09:12:07.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-11-06T20:53:32.804Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
+      "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
     {
       "id": "7a7753a15a1fd576578a65b8b3a8f7caa785b1f5",
@@ -171,7 +209,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-06T06:46:54.129Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2017967/_xCv3nemHGW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-06T06:46:54.129Z"
     },
@@ -218,8 +256,8 @@
       "id": "a9b17f99b6a0e88f6f254880f7105fc25f61cf68",
       "title": "Another mini-laptop for distraction-free writing, Fedora Asahi Remix 45 released, and Microsoft improves Windows 11 performance for PCs with 8GB: Liliputing News Roundup",
       "titleZh": "Another mini-laptop for distraction-free writing, Fedora Asahi Remix 45 released, and Microsoft improves Windows 11 performance for PCs with 8GB: Liliputing News Roundup",
-      "summary": "With the RAM shortage driving up prices for memory, Microsoft has announced steps taken to make Windows 11 run better on PCs with 8GB of RAM, and now says the OS is 20% more responsive and multitasking is 40% faster. • The enough phone is a smartphone with a 5.3 inch screen, a MTK 7500 chip, 8GB RAM, 128GB storage, a single camera, Android or a minimal \"Pydssey OS\" experience, and a replaceable 3500 mAh battery • The latest Micro Journal open source, distraction-free writing device from Un Kyu Lee is the Rev.2.1.mini with a mechanical keyboard, ultrawide display, Raspberry Pi Zero 2 W for brains, and Linux OS. The post Another mini-laptop for distraction-free writing, Fedora Asahi Remix 45 released, and Microsoft improves Windows 11 performance for PCs with 8GB: Liliputing News Roundup appeared first on Liliputing .",
-      "summaryZh": "With the RAM shortage driving up prices for memory, Microsoft has announced steps taken to make Windows 11 run better on PCs with 8GB of RAM, and now says the OS is 20% more responsive and multitasking is 40% faster. • The enough phone is a smartphone with a 5.3 inch screen, a MTK 7500 chip, 8GB RAM, 128GB storage, a single camera, Android or a minimal \"Pydssey OS\" experience, and a replaceable 3500 mAh battery • The latest Micro Journal open source, distraction-free writing device from Un Kyu Lee is the Rev.2.1.mi",
+      "summary": "With the RAM shortage driving up prices for memory, Microsoft has announced steps taken to make Windows 11 run better on PCs with 8GB of RAM, and now says the OS is 20% more responsive and multitasking is 40% faster. • The enough phone is a smartphone with a 5.3 inch screen, a MTK 7500 chip, 8GB RAM, 128GB storage, a single camera, Android or a minimal \"Oydssey OS\" experience, and a replaceable 3500 mAh battery • The latest Micro Journal open source, distraction-free writing device from Un Kyu Lee is the Rev.2.1.mini with a mechanical keyboard, ultrawide display, Raspberry Pi Zero 2 W for brains, and Linux OS. The post Another mini-laptop for distraction-free writing, Fedora Asahi Remix 45 released, and Microsoft improves Windows 11 performance for PCs with 8GB: Liliputing News Roundup appeared first on Liliputing .",
+      "summaryZh": "With the RAM shortage driving up prices for memory, Microsoft has announced steps taken to make Windows 11 run better on PCs with 8GB of RAM, and now says the OS is 20% more responsive and multitasking is 40% faster. • The enough phone is a smartphone with a 5.3 inch screen, a MTK 7500 chip, 8GB RAM, 128GB storage, a single camera, Android or a minimal \"Oydssey OS\" experience, and a replaceable 3500 mAh battery • The latest Micro Journal open source, distraction-free writing device from Un Kyu Lee is the Rev.2.1.mi",
       "url": "https://liliputing.com/another-mini-laptop-for-distraction-free-writing-fedora-asahi-remix-45-released-and-microsoft-improves-windows-11-performance-for-pcs-with-8gb-liliputing-news-roundup/",
       "normalizedUrl": "https://liliputing.com/another-mini-laptop-for-distraction-free-writing-fedora-asahi-remix-45-released-and-microsoft-improves-windows-11-performance-for-pcs-with-8gb-liliputing-news-roundup",
       "publishedAt": "2026-11-04T21:18:08.000Z",
@@ -248,7 +286,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -287,7 +325,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -363,7 +401,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -403,7 +441,7 @@
       ],
       "baseScore": 86,
       "firstSeenAt": "2026-11-02T11:00:46.012Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2026/11/Micro-Four-Thirds-logo.gif",
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
@@ -688,7 +726,7 @@
       ],
       "baseScore": 84,
       "firstSeenAt": "2026-10-30T12:52:50.138Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Announces-a-50MP-Sensor-With-Up-to-17-Stops-of-Dynamic-Range-and-4K-120-FPS.001.webp",
       "imageCheckedAt": "2026-10-30T12:52:50.138Z"
     },
@@ -845,7 +883,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -885,7 +923,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3672,7 +3710,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-06T06:46:54.129Z",
+      "lastSeenAt": "2026-11-07T00:55:57.390Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
