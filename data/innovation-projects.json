@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-09T07:58:24.429Z",
-  "sourceGeneratedAt": "2026-11-09T07:58:17.707Z",
+  "generatedAt": "2026-11-09T18:46:55.929Z",
+  "sourceGeneratedAt": "2026-11-09T18:46:49.411Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 203,
-    "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 95,
+    "scannedThisRun": 201,
+    "acceptedThisRun": 11,
+    "newThisRun": 2,
+    "projectCount": 97,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 83
+    "withImageCount": 85
   },
   "categoryCounts": {
     "专业影像新技术": 34,
-    "创新光学与传感": 20,
-    "空间影像与显示": 19,
+    "创新光学与传感": 21,
+    "空间影像与显示": 20,
     "智能相机与机器人": 8,
     "运动影像与航拍": 7,
     "AI 与计算影像": 5,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -138,6 +138,83 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "a36d4a6b02415d5a8c14e72fa9d4778cd86603ce",
+      "title": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
+      "titleZh": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
+      "summary": "An Espressif ESP32-powered electronic nose transmits its findings to scent-emitting wearables in this remote-sniffing research project.",
+      "summaryZh": "An Espressif ESP32-powered electronic nose transmits its findings to scent-emitting wearables in this remote-sniffing research project.",
+      "url": "https://www.hackster.io/news/scentronic-wearables-could-beam-smells-across-the-internet-for-more-immersive-telepresence-59208ad82d29",
+      "normalizedUrl": "https://hackster.io/news/scentronic-wearables-could-beam-smells-across-the-internet-for-more-immersive-telepresence-59208ad82d29",
+      "publishedAt": "2026-11-09T10:15:12.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 72,
+      "innovationReasons": [
+        "空间影像",
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
+          "url": "https://www.hackster.io/news/scentronic-wearables-could-beam-smells-across-the-internet-for-more-immersive-telepresence-59208ad82d29",
+          "source": "Hackster News",
+          "publishedAt": "2026-11-09T10:15:12.000Z"
+        }
+      ],
+      "baseScore": 72,
+      "firstSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-11-09T18:46:55.929Z"
+    },
+    {
+      "id": "7c9e793d8abb8a69f60f5394192e24d5c1c08a80",
+      "title": "XTRA Muse 2 and Muse 2 Pro Global Launch Set for November 10 – 1-Inch Sensor, Dual-Camera Pro, 10-Bit X-Log 3",
+      "titleZh": "XTRA Muse 2 and Muse 2 Pro Global Launch Set for November 10 – 1-Inch Sensor, Dual-Camera Pro, 10-Bit X-Log 3",
+      "summary": "XTRA has announced a global launch on November 10, 2026, of two pocket gimbal cameras: the single-camera Muse 2 and the dual-camera Muse 2 Pro. The Muse 2 has a 1-inch sensor, 10-bit X-Log 2, 4K at up to 240fps, and 107GB of internal storage. The Muse 2 Pro pairs a 1-inch 20mm f/2.0 camera with a 1/1.28-inch 60mm f/1.8 camera, records 10-bit X-Log 3, and shoots 4K at up to 240fps. However, XTRA does not say whether “global” includes the US, where the FCC is investigating the company. XTRA announced the date in a teaser graphic that read, “New XTRA choices are here.” XTRA first previewed both cameras in […]",
+      "summaryZh": "XTRA has announced a global launch on November 10, 2026, of two pocket gimbal cameras: the single-camera Muse 2 and the dual-camera Muse 2 Pro. The Muse 2 has a 1-inch sensor, 10-bit X-Log 2, 4K at up to 240fps, and 107GB of internal storage. The Muse 2 Pro pairs a 1-inch 20mm f/2.0 camera with a 1/1.28-inch 60mm f/1.8 camera, records 10-bit X-Log 3, and shoots 4K at up to 240fps. However, XTRA does not say whether “global” includes the US, where the FCC is investigating the company. XTRA announced the date in a te",
+      "url": "https://www.cined.com/xtra-muse-2-and-muse-2-pro-global-launch-set-for-november-10-1-inch-sensor-dual-camera-pro-10-bit-x-log-3/",
+      "normalizedUrl": "https://cined.com/xtra-muse-2-and-muse-2-pro-global-launch-set-for-november-10-1-inch-sensor-dual-camera-pro-10-bit-x-log-3",
+      "publishedAt": "2026-11-09T09:21:01.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "XTRA Muse 2 and Muse 2 Pro Global Launch Set for November 10 – 1-Inch Sensor, Dual-Camera Pro, 10-Bit X-Log 3",
+          "url": "https://www.cined.com/xtra-muse-2-and-muse-2-pro-global-launch-set-for-november-10-1-inch-sensor-dual-camera-pro-10-bit-x-log-3/",
+          "source": "CineD",
+          "publishedAt": "2026-11-09T09:21:01.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
+      "imageCheckedAt": "2026-11-09T18:46:55.929Z"
+    },
+    {
       "id": "4a5359c1bd132e269d270d7498c0d891a827a831",
       "title": "Kiwibit Beako 4K smart bird feeder drops to $129.99, $120 off",
       "titleZh": "Kiwibit Beako 4K smart bird feeder drops to $129.99, $120 off",
@@ -210,7 +287,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -248,7 +325,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-06T06:46:54.129Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2017967/_xCv3nemHGW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-06T06:46:54.129Z"
     },
@@ -325,7 +402,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -364,7 +441,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -440,7 +517,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -922,7 +999,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -962,7 +1039,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3749,7 +3826,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-09T07:58:24.429Z",
+      "lastSeenAt": "2026-11-09T18:46:55.929Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
