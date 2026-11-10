@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T18:46:55.929Z",
-  "sourceGeneratedAt": "2026-11-09T18:46:49.411Z",
+  "generatedAt": "2026-11-10T02:06:39.310Z",
+  "sourceGeneratedAt": "2026-11-10T02:06:32.734Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 201,
+    "scannedThisRun": 196,
     "acceptedThisRun": 11,
-    "newThisRun": 2,
+    "newThisRun": 0,
     "projectCount": 97,
     "categoryCount": 7,
     "sourceCount": 22,
@@ -56,7 +56,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -172,7 +172,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -210,7 +210,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -287,7 +287,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -325,7 +325,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-06T06:46:54.129Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2017967/_xCv3nemHGW.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-06T06:46:54.129Z"
     },
@@ -402,7 +402,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -441,7 +441,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -517,7 +517,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -999,7 +999,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1039,7 +1039,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3826,7 +3826,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-09T18:46:55.929Z",
+      "lastSeenAt": "2026-11-10T02:06:39.310Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
