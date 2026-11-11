@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T23:17:59.488Z",
-  "sourceGeneratedAt": "2026-11-10T23:17:53.153Z",
+  "generatedAt": "2026-11-11T06:13:37.969Z",
+  "sourceGeneratedAt": "2026-11-11T06:13:27.783Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 192,
+    "scannedThisRun": 195,
     "acceptedThisRun": 13,
-    "newThisRun": 1,
+    "newThisRun": 0,
     "projectCount": 101,
     "categoryCount": 7,
     "sourceCount": 22,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -94,7 +94,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -248,7 +248,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-10T23:17:59.488Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/11/forma-viewfinder-featured.jpg",
       "imageCheckedAt": "2026-11-10T23:17:59.488Z"
     },
@@ -257,7 +257,7 @@
       "title": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
       "titleZh": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
       "summary": "Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs and Livegrade integration. The result is a much lower price, plus one feature that the XMP never had: stereoscopic 3D. This launch comes about seven months after Atomos announced the acquisition of Flanders Scientific (FSI) in April, and I think it tells us a lot about where the two companies want to take the brand. FSI CEO Bram Desmet and Atomos CEO […]",
-      "summaryZh": "Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs and Livegrade integration. The result is a much lower price, plus one feature that the XMP never had: stereoscopic 3D. This launch comes about seven months after Atomos announced the acquisition of Flanders Scientific (FSI) in April, and I t",
+      "summaryZh": "法兰德斯科学公司 (Flanders Scientific) 宣布推出 VP 系列和 V 系列这两个新系列的七款新型 QD-OLED 显示器。它们使用与旗舰 XMP 显示器相同的面板、相同的色彩引擎和相同的 GaiaColor 校准工具，但它们省略了板载示波器、Look LUT 和 Livegrade 集成。结果是价格低得多，而且还有一项 XMP 从未有过的功能：立体 3D。此次发布是在 Atomos 四月份宣布收购 Flanders Scientific (FSI) 大约七个月之后，",
       "url": "https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/",
       "normalizedUrl": "https://cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d",
       "publishedAt": "2026-11-10T10:52:30.000Z",
@@ -292,7 +292,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -331,7 +331,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -369,7 +369,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -446,7 +446,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -561,7 +561,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -600,7 +600,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -676,7 +676,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1158,7 +1158,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1198,7 +1198,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3985,7 +3985,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-11T06:13:37.969Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
