@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-10T09:47:12.527Z",
-  "sourceGeneratedAt": "2026-11-10T09:47:05.830Z",
+  "generatedAt": "2026-11-10T23:17:59.488Z",
+  "sourceGeneratedAt": "2026-11-10T23:17:53.153Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 201,
+    "scannedThisRun": 192,
     "acceptedThisRun": 13,
-    "newThisRun": 2,
-    "projectCount": 99,
+    "newThisRun": 1,
+    "projectCount": 101,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 87
+    "withImageCount": 89
   },
   "categoryCounts": {
     "专业影像新技术": 36,
-    "创新光学与传感": 21,
+    "创新光学与传感": 23,
     "空间影像与显示": 20,
     "智能相机与机器人": 8,
     "运动影像与航拍": 7,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -94,7 +94,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -214,6 +214,89 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "0c990dc1c78082f9cccad8b42351c2847221c01b",
+      "title": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
+      "titleZh": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
+      "summary": "Canadian photographer and inventor Peter Modzelewski has launched Forma on Kickstarter via his independent photo gear studio, Oramod. It is a pocket-sized optical viewfinder designed for a wide range of film and digital cameras. [ Read More ]",
+      "summaryZh": "Canadian photographer and inventor Peter Modzelewski has launched Forma on Kickstarter via his independent photo gear studio, Oramod. It is a pocket-sized optical viewfinder designed for a wide range of film and digital cameras. [ Read More ]",
+      "url": "https://petapixel.com/2026/11/10/forma-is-a-wearable-viewfinder-built-for-finding-photo-compositions/",
+      "normalizedUrl": "https://petapixel.com/2026/11/10/forma-is-a-wearable-viewfinder-built-for-finding-photo-compositions",
+      "publishedAt": "2026-11-10T21:36:49.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 73,
+      "innovationReasons": [
+        "众筹验证",
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
+          "url": "https://petapixel.com/2026/11/10/forma-is-a-wearable-viewfinder-built-for-finding-photo-compositions/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-11-10T21:36:49.000Z"
+        }
+      ],
+      "baseScore": 73,
+      "firstSeenAt": "2026-11-10T23:17:59.488Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/11/forma-viewfinder-featured.jpg",
+      "imageCheckedAt": "2026-11-10T23:17:59.488Z"
+    },
+    {
+      "id": "be5dc80e6a1286bac133fd36a04d7ad27f6d39d4",
+      "title": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
+      "titleZh": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
+      "summary": "Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs and Livegrade integration. The result is a much lower price, plus one feature that the XMP never had: stereoscopic 3D. This launch comes about seven months after Atomos announced the acquisition of Flanders Scientific (FSI) in April, and I think it tells us a lot about where the two companies want to take the brand. FSI CEO Bram Desmet and Atomos CEO […]",
+      "summaryZh": "Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs and Livegrade integration. The result is a much lower price, plus one feature that the XMP never had: stereoscopic 3D. This launch comes about seven months after Atomos announced the acquisition of Flanders Scientific (FSI) in April, and I t",
+      "url": "https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/",
+      "normalizedUrl": "https://cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d",
+      "publishedAt": "2026-11-10T10:52:30.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "已公布",
+      "projectFormat": "软件/应用",
+      "innovationScore": 78,
+      "innovationReasons": [
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
+          "url": "https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/",
+          "source": "CineD",
+          "publishedAt": "2026-11-10T10:52:30.000Z"
+        },
+        {
+          "title": "Flanders Scientific FSI VP & V Series",
+          "url": "https://www.newsshooter.com/2026/11/06/flanders-scientific-fsi-vp-v-series/",
+          "source": "Newsshooter",
+          "publishedAt": "2026-11-06T13:39:55.000Z"
+        }
+      ],
+      "baseScore": 78,
+      "firstSeenAt": "2026-11-10T17:49:35.537Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
+      "imageCheckedAt": "2026-11-10T17:49:35.537Z"
+    },
+    {
       "id": "a36d4a6b02415d5a8c14e72fa9d4778cd86603ce",
       "title": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
       "titleZh": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
@@ -248,7 +331,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -286,7 +369,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -363,7 +446,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -478,7 +561,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -517,7 +600,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -593,7 +676,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1075,7 +1158,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1115,7 +1198,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -3902,7 +3985,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-10T09:47:12.527Z",
+      "lastSeenAt": "2026-11-10T23:17:59.488Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
