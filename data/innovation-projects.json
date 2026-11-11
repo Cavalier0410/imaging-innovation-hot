@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-11T06:13:37.969Z",
-  "sourceGeneratedAt": "2026-11-11T06:13:27.783Z",
+  "generatedAt": "2026-11-11T14:20:54.874Z",
+  "sourceGeneratedAt": "2026-11-11T14:20:48.659Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 195,
-    "acceptedThisRun": 13,
-    "newThisRun": 0,
-    "projectCount": 101,
+    "scannedThisRun": 197,
+    "acceptedThisRun": 14,
+    "newThisRun": 2,
+    "projectCount": 103,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 89
+    "withImageCount": 90
   },
   "categoryCounts": {
     "专业影像新技术": 36,
-    "创新光学与传感": 23,
+    "创新光学与传感": 24,
     "空间影像与显示": 20,
     "智能相机与机器人": 8,
     "运动影像与航拍": 7,
-    "AI 与计算影像": 5,
+    "AI 与计算影像": 6,
     "便携与移动创作": 2
   },
   "projects": [
@@ -55,7 +55,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -94,7 +94,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -214,6 +214,45 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "f5141b7ce64e2677efa646c5df83423f8921ba9a",
+      "title": "This digital camera makes you look down, wind on, and stop at 36 shots",
+      "titleZh": "This digital camera makes you look down, wind on, and stop at 36 shots",
+      "summary": "Fotorgear's Campix revives the waist-level finder, the wind-on control and the 36-shot roll in a 13MP digital compact with swap-on lenses and RAW files, live on Kickstarter from $109.",
+      "summaryZh": "Fotorgear's Campix revives the waist-level finder, the wind-on control and the 36-shot roll in a 13MP digital compact with swap-on lenses and RAW files, live on Kickstarter from $109.",
+      "url": "https://the-gadgeteer.com/2026/11/11/this-digital-camera-makes-you-look-down-wind-on-and-stop-at-36-shots/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/11/this-digital-camera-makes-you-look-down-wind-on-and-stop-at-36-shots",
+      "publishedAt": "2026-11-11T10:24:24.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "创新光学与传感",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 88,
+      "innovationReasons": [
+        "众筹验证",
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "This digital camera makes you look down, wind on, and stop at 36 shots",
+          "url": "https://the-gadgeteer.com/2026/11/11/this-digital-camera-makes-you-look-down-wind-on-and-stop-at-36-shots/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-11T10:24:24.000Z"
+        }
+      ],
+      "baseScore": 88,
+      "firstSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/hero-28.jpg",
+      "imageCheckedAt": "2026-11-11T14:20:54.874Z"
+    },
+    {
       "id": "0c990dc1c78082f9cccad8b42351c2847221c01b",
       "title": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
       "titleZh": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
@@ -248,7 +287,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-10T23:17:59.488Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/11/forma-viewfinder-featured.jpg",
       "imageCheckedAt": "2026-11-10T23:17:59.488Z"
     },
@@ -292,9 +331,48 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
+    },
+    {
+      "id": "437958b2482627d11b42be494204e686e6aee3cc",
+      "title": "Seedream 5.5 by ByteDance",
+      "titleZh": "Seedream 5.5 by ByteDance",
+      "summary": "ByteDance's AI image model built for 100-round editing Discussion | Link",
+      "summaryZh": "ByteDance's AI image model built for 100-round editing Discussion | Link",
+      "url": "https://www.producthunt.com/products/seedream-4-0",
+      "normalizedUrl": "https://producthunt.com/products/seedream-4-0",
+      "publishedAt": "2026-11-09T13:57:21.000Z",
+      "source": {
+        "id": "product-hunt",
+        "name": "Product Hunt",
+        "category": "新兴产品/综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "AI 与计算影像",
+      "projectStage": "已上线",
+      "projectFormat": "AI 模型",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "AI 影像",
+        "计算影像"
+      ],
+      "references": [
+        {
+          "title": "Seedream 5.5 by ByteDance",
+          "url": "https://www.producthunt.com/products/seedream-4-0",
+          "source": "Product Hunt",
+          "publishedAt": "2026-11-09T13:57:21.000Z"
+        }
+      ],
+      "baseScore": 80,
+      "firstSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-11-11T14:20:54.874Z"
     },
     {
       "id": "a36d4a6b02415d5a8c14e72fa9d4778cd86603ce",
@@ -331,7 +409,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -369,7 +447,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -446,7 +524,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-06T20:53:32.804Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg",
       "imageCheckedAt": "2026-11-06T20:53:32.804Z"
     },
@@ -561,7 +639,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -600,7 +678,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -676,7 +754,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1158,7 +1236,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1198,7 +1276,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T14:20:54.874Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
