@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-11T14:20:54.874Z",
-  "sourceGeneratedAt": "2026-11-11T14:20:48.659Z",
+  "generatedAt": "2026-11-12T02:57:48.570Z",
+  "sourceGeneratedAt": "2026-11-12T02:57:42.374Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 197,
-    "acceptedThisRun": 14,
-    "newThisRun": 2,
-    "projectCount": 103,
+    "scannedThisRun": 194,
+    "acceptedThisRun": 13,
+    "newThisRun": 1,
+    "projectCount": 104,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 90
+    "withImageCount": 91
   },
   "categoryCounts": {
     "专业影像新技术": 36,
     "创新光学与传感": 24,
     "空间影像与显示": 20,
-    "智能相机与机器人": 8,
+    "智能相机与机器人": 9,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
     "便携与移动创作": 2
@@ -55,7 +55,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -94,7 +94,7 @@
       ],
       "baseScore": 76,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -214,6 +214,44 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "015ca7eb71606dc353cee0a09b2e64612e952caa",
+      "title": "AceiiLab’s Robotic Tennis Ball Machine Has Cameras, Wheels, And Fits In Your Car’s Trunk",
+      "titleZh": "AceiiLab’s Robotic Tennis Ball Machine Has Cameras, Wheels, And Fits In Your Car’s Trunk",
+      "summary": "AceiiLab’s Robotic Tennis Ball Machine Has Cameras, Wheels, And Fits In Your Car’s Trunk In 1970, an inventor in Princeton, New Jersey, put a vacuum-cleaner motor to an unlikely new use: launching tennis balls. Bob McClure’s “Little Prince” became...",
+      "summaryZh": "AceiiLab’s Robotic Tennis Ball Machine Has Cameras, Wheels, And Fits In Your Car’s Trunk In 1970, an inventor in Princeton, New Jersey, put a vacuum-cleaner motor to an unlikely new use: launching tennis balls. Bob McClure’s “Little Prince” became...",
+      "url": "https://www.yankodesign.com/2026/11/11/aceiilabs-robotic-tennis-ball-machine-has-cameras-wheels-and-fits-in-your-cars-trunk/",
+      "normalizedUrl": "https://yankodesign.com/2026/11/11/aceiilabs-robotic-tennis-ball-machine-has-cameras-wheels-and-fits-in-your-cars-trunk",
+      "publishedAt": "2026-11-12T02:45:31.000Z",
+      "source": {
+        "id": "yanko-design",
+        "name": "Yanko Design",
+        "category": "新兴产品/设计",
+        "priority": "P0",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "AceiiLab’s Robotic Tennis Ball Machine Has Cameras, Wheels, And Fits In Your Car’s Trunk",
+          "url": "https://www.yankodesign.com/2026/11/11/aceiilabs-robotic-tennis-ball-machine-has-cameras-wheels-and-fits-in-your-cars-trunk/",
+          "source": "Yanko Design",
+          "publishedAt": "2026-11-12T02:45:31.000Z"
+        }
+      ],
+      "baseScore": 79,
+      "firstSeenAt": "2026-11-12T02:57:48.570Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
+      "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/draft-aceiilab/AceiiLab-A1-AI-Tennis-Robot-Moving-Smart-Tennis-Ball-Machine-07.jpg",
+      "imageCheckedAt": "2026-11-12T02:57:48.570Z"
+    },
+    {
       "id": "f5141b7ce64e2677efa646c5df83423f8921ba9a",
       "title": "This digital camera makes you look down, wind on, and stop at 36 shots",
       "titleZh": "This digital camera makes you look down, wind on, and stop at 36 shots",
@@ -287,7 +325,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-10T23:17:59.488Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/11/forma-viewfinder-featured.jpg",
       "imageCheckedAt": "2026-11-10T23:17:59.488Z"
     },
@@ -317,6 +355,12 @@
       ],
       "references": [
         {
+          "title": "Flanders Scientific launches new, lower price, VP and V monitors",
+          "url": "https://www.provideocoalition.com/flanders-scientific-launches-new-lower-price-vp-and-v-monitors/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-11-11T15:23:46.000Z"
+        },
+        {
           "title": "Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D",
           "url": "https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/",
           "source": "CineD",
@@ -331,7 +375,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -370,7 +414,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-11-11T14:20:54.874Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-11-11T14:20:54.874Z"
     },
@@ -409,7 +453,7 @@
       ],
       "baseScore": 72,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -447,7 +491,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-09T18:46:55.929Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/XTRA-Muse-2-Pro-.jpeg",
       "imageCheckedAt": "2026-11-09T18:46:55.929Z"
     },
@@ -639,7 +683,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -678,7 +722,7 @@
       ],
       "baseScore": 83,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "http://photorumors.com/wp-content/uploads/2025/06/OM-System-booth-at-the-2025-Bild-Expo-1.jpeg",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -754,7 +798,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1236,7 +1280,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1276,7 +1320,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-11T14:20:54.874Z",
+      "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4063,7 +4107,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-11T06:13:37.969Z",
+      "lastSeenAt": "2026-11-11T21:56:36.445Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
