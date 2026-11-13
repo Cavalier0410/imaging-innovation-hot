@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-13T00:20:28.314Z",
-  "sourceGeneratedAt": "2026-11-13T00:20:21.738Z",
+  "generatedAt": "2026-11-13T07:55:25.245Z",
+  "sourceGeneratedAt": "2026-11-13T07:55:19.007Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 175,
+    "scannedThisRun": 182,
     "acceptedThisRun": 10,
-    "newThisRun": 0,
-    "projectCount": 107,
+    "newThisRun": 1,
+    "projectCount": 108,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 94
+    "withImageCount": 95
   },
   "categoryCounts": {
-    "专业影像新技术": 36,
+    "专业影像新技术": 37,
     "创新光学与传感": 24,
     "空间影像与显示": 23,
     "智能相机与机器人": 9,
@@ -21,6 +21,44 @@
     "便携与移动创作": 2
   },
   "projects": [
+    {
+      "id": "41d5425edb91b16aaf77d8aa408e607a85d616ec",
+      "title": "【23gの超軽量設計】コンテナがカメラに！フルHD動画も撮れる超小型ミニカメラ",
+      "titleZh": "【23gの超軽量設計】コンテナがカメラに！フルHD動画も撮れる超小型ミニカメラ",
+      "summary": "SK STOREはL18の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 一般的なカメラは似たようなデザインが多く、見た目にも個性が欲しい。そんな経験はありませんか？ 本製品は、輸送用コンテナをモチーフにした遊び心あふれるデザインを採用し、 細部までこだわった外観と撮影機能を両立。 カメラとして使うだけでなく、持ち歩くアクセサリーとしても楽しめるため、ありきたりなデザインでは物足りない方にもぴったりです。 キーホルダーのようにバッグや鍵に取り付けられ、アクセサリー感覚で持ち歩けます。 個性的なデザインはファッションのアクセントにもなり、 カメラを持ち歩く楽しさが広がります。 1080PフルHD撮影に対応し、日常の何気ない瞬間から旅行の思い出まで動画に残せます。コンパクトなボディながら、 細部まで鮮明に映し出し、 気軽に動画撮影を楽しめます。 最大2400万画素の写真撮影に対応し、幅広いシーンで活躍できます。撮りたい瞬間を写真に収め、 何気ない日常も特別な思い出として残せます。 わずか23gの軽量設計で、ポケットやバッグに入れてもかさばらず、気軽に持ち歩けます。 手のひらに収まるコンパクトなサイズで、 外出先でも思い立ったときに撮影を楽しめます。 0.96インチの液晶ディスプレイを搭載し、 撮影した写真や動画をその場で確認できます。 撮影モードの切り替えや各種設定も画面を見ながら操作でき、使いやすさにもこだわりました。 2灯のLEDライトを搭載し、暗い場所でも被写体を照らしながら撮影できます。周囲の明るさに合わせてライトを使用でき、 薄暗い室内や夜間など、 撮影シーンの幅が広がります。 動画撮影時には映像とともに音声も記録でき、その場の会話や周囲の音まで残せます。旅行や友人との何気ないひとときを、 臨場感のある思い出として振り返れます。 最大約55分の連続動画撮影に対応し、 外出先でも気軽に撮影を楽しめます。 充電の手間を抑えながら、日常の出来事や旅先での思い出をしっかり記録できます。 USB Type-C充電に対応し、付属のケーブルで手軽に充電できます。 最大256GBのmicroSDカードに対応し、 写真や動画をたっぷり保存できます。 撮影データをまとめて記録でき、容量を気にせずさまざまなシーンで撮影を楽しめます。 USB Type-Cケーブルでパソコンに接続し、撮影した写真や動画を転送できます。 動画撮影時には約5分ごとにファイルが自動分割され、 撮影した映像を区切って保存できます。 長時間の動画もファイルごとに整理され、必要なシーンを探しやすくなります。 ボタン操作で撮影モードを簡単に切り替えられ、写真も動画もスムーズに撮影できます。 複雑な操作を必要とせず、 撮りたいシーンに合わせて手軽",
+      "summaryZh": "SK STOREはL18の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 一般的なカメラは似たようなデザインが多く、見た目にも個性が欲しい。そんな経験はありませんか？ 本製品は、輸送用コンテナをモチーフにした遊び心あふれるデザインを採用し、 細部までこだわった外観と撮影機能を両立。 カメラとして使うだけでなく、持ち歩くアクセサリーとしても楽しめるため、ありきたりなデザインでは物足りない方にもぴったりです。 キーホルダーのようにバッグや鍵に取り付けられ、アクセサリー感覚で持ち歩けます。 個性的なデザインはファッションのアクセントにもなり、 カメラを持ち歩く楽しさが広がります。 1080PフルHD撮影に対応し、日常の何気ない瞬間から旅行の思い出まで動画に残せます。コンパクトなボディながら、 細部まで鮮明に映し出し、 気軽に動画撮影を楽しめます。 最大2400万画素の写真撮影に対応し、幅広いシーンで活躍できます。撮りたい瞬間を写真に収め、 何気ない日常も特別な思い出として残せます。 わずか23gの軽量設計で、ポケットやバッグに入れてもかさばらず、気軽に持ち歩けます。",
+      "url": "https://www.makuake.com/project/mini_camera_l/",
+      "normalizedUrl": "https://makuake.com/project/mini_camera_l",
+      "publishedAt": "2026-11-28T01:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 69,
+      "innovationReasons": [
+        "新产品形态"
+      ],
+      "references": [
+        {
+          "title": "【23gの超軽量設計】コンテナがカメラに！フルHD動画も撮れる超小型ミニカメラ",
+          "url": "https://www.makuake.com/project/mini_camera_l/",
+          "source": "Makuake",
+          "publishedAt": "2026-11-28T01:00:00.000Z"
+        }
+      ],
+      "baseScore": 69,
+      "firstSeenAt": "2026-11-13T07:55:25.245Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
+      "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-11-13T07:55:25.245Z"
+    },
     {
       "id": "ef3bcab7a998fc258a095249b5f912f15461c120",
       "title": "【Makuake第115弾】その宝石、映像で見てください。",
@@ -55,7 +93,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -248,7 +286,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -286,7 +324,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/11/1-blackmagic-ambisonic-microphone@2x.jpg",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -325,7 +363,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -491,7 +529,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -799,7 +837,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -920,7 +958,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1191,6 +1229,12 @@
       ],
       "references": [
         {
+          "title": "Hacking Meta’s Smart Glasses",
+          "url": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
+          "source": "Hackaday",
+          "publishedAt": "2026-11-13T03:00:45.000Z"
+        },
+        {
           "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
           "url": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming/",
           "source": "PetaPixel",
@@ -1402,7 +1446,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1442,7 +1486,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "lastSeenAt": "2026-11-13T07:55:25.245Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
