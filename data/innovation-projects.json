@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-12T11:02:38.553Z",
-  "sourceGeneratedAt": "2026-11-12T11:02:32.247Z",
+  "generatedAt": "2026-11-13T00:20:28.314Z",
+  "sourceGeneratedAt": "2026-11-13T00:20:21.738Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 194,
-    "acceptedThisRun": 12,
-    "newThisRun": 1,
-    "projectCount": 105,
+    "scannedThisRun": 175,
+    "acceptedThisRun": 10,
+    "newThisRun": 0,
+    "projectCount": 107,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 92
+    "withImageCount": 94
   },
   "categoryCounts": {
     "专业影像新技术": 36,
     "创新光学与传感": 24,
-    "空间影像与显示": 21,
+    "空间影像与显示": 23,
     "智能相机与机器人": 9,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -214,6 +214,83 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "7627355dabcac5dcbd8a2c57dc7e7bb5c736c656",
+      "title": "Blackmagic Expands Apple Partnership With 108-Microphone Spatial Audio System",
+      "titleZh": "Blackmagic Expands Apple Partnership With 108-Microphone Spatial Audio System",
+      "summary": "Blackmagic Design has expanded its collaboration with Apple with the introduction of the Blackmagic Ambisonic Microphone ($1,049 on Amazon), a compact professional spatial audio recording system featuring an impressive array of 108 digital MEMS microphones. Developed during the companies’ collaboration on the URSA Cine Immersive camera, the new device incorporates Apple’s licensed microphone array geometry and ambisonic encoding technology. The microphone is designed for professional immersive filmmaking but can also operate independently with computers and iPhones ($1,119 on Amazon). 108 microphones in a palm-sized device The Blackmagic Ambisonic Microphone features 108 digital MEMS microphones arranged within a solid, faceted metal The post Blackmagic Expands Apple Partnership With 108-Microphone Spatial Audio System appeared first on Y.M.Cinema Magazine .",
+      "summaryZh": "Blackmagic Design has expanded its collaboration with Apple with the introduction of the Blackmagic Ambisonic Microphone ($1,049 on Amazon), a compact professional spatial audio recording system featuring an impressive array of 108 digital MEMS microphones. Developed during the companies’ collaboration on the URSA Cine Immersive camera, the new device incorporates Apple’s licensed microphone array geometry and ambisonic encoding technology. The microphone is designed for professional immersive filmmaking but can al",
+      "url": "https://ymcinema.com/2026/11/12/blackmagic-apple-108-microphone-spatial-audio/",
+      "normalizedUrl": "https://ymcinema.com/2026/11/12/blackmagic-apple-108-microphone-spatial-audio",
+      "publishedAt": "2026-11-12T13:22:23.000Z",
+      "source": {
+        "id": "ymcinema",
+        "name": "Y.M.Cinema",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "空间影像",
+        "便携形态"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic Expands Apple Partnership With 108-Microphone Spatial Audio System",
+          "url": "https://ymcinema.com/2026/11/12/blackmagic-apple-108-microphone-spatial-audio/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-11-12T13:22:23.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-11-12T18:54:16.810Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
+      "imageCheckedAt": "2026-11-12T18:54:16.810Z"
+    },
+    {
+      "id": "9aba2c99f5785d350232f8ff430f1f0f0429f346",
+      "title": "Blackmagic’s $1,695 Spatial Audio Mic Has 108 Mics and Looks Super Sci-Fi",
+      "titleZh": "Blackmagic’s $1,695 Spatial Audio Mic Has 108 Mics and Looks Super Sci-Fi",
+      "summary": "Blackmagic Design has announced the Ambisonic Microphone, a new professional mic designed to capture spatial audio for immersive video productions. [ Read More ]",
+      "summaryZh": "Blackmagic Design has announced the Ambisonic Microphone, a new professional mic designed to capture spatial audio for immersive video productions. [ Read More ]",
+      "url": "https://petapixel.com/2026/11/12/blackmagics-1695-spatial-audio-mic-has-108-mics-and-looks-super-sci-fi/",
+      "normalizedUrl": "https://petapixel.com/2026/11/12/blackmagics-1695-spatial-audio-mic-has-108-mics-and-looks-super-sci-fi",
+      "publishedAt": "2026-11-12T13:07:03.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 75,
+      "innovationReasons": [
+        "空间影像"
+      ],
+      "references": [
+        {
+          "title": "Blackmagic’s $1,695 Spatial Audio Mic Has 108 Mics and Looks Super Sci-Fi",
+          "url": "https://petapixel.com/2026/11/12/blackmagics-1695-spatial-audio-mic-has-108-mics-and-looks-super-sci-fi/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-11-12T13:07:03.000Z"
+        }
+      ],
+      "baseScore": 75,
+      "firstSeenAt": "2026-11-12T18:54:16.810Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/11/1-blackmagic-ambisonic-microphone@2x.jpg",
+      "imageCheckedAt": "2026-11-12T18:54:16.810Z"
+    },
+    {
       "id": "931c98f7e657f082509c4c7f14b71bf9aa3683a5",
       "title": "Strada for Apple Vision Pro Released – Stream Apple Immersive Video From Any Mac, Immersive Dailies From BRAW",
       "titleZh": "Strada for Apple Vision Pro Released – Stream Apple Immersive Video From Any Mac, Immersive Dailies From BRAW",
@@ -248,7 +325,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -286,7 +363,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-11-12T02:57:48.570Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://www.yankodesign.com/images/design_news/2026/10/draft-aceiilab/AceiiLab-A1-AI-Tennis-Robot-Moving-Smart-Tennis-Ball-Machine-07.jpg",
       "imageCheckedAt": "2026-11-12T02:57:48.570Z"
     },
@@ -414,7 +491,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -722,7 +799,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -757,6 +834,12 @@
           "url": "https://photorumors.com/2026/11/04/om-system-did-seriously-consider-making-full-frame-cameras/",
           "source": "Photo Rumors",
           "publishedAt": "2026-11-04T20:15:59.000Z"
+        },
+        {
+          "title": "OM System Considered Full-Frame, Then Decided It Wasn’t Worth Pursuing",
+          "url": "https://ymcinema.com/2026/11/04/om-system-full-frame-cameras-micro-four-thirds/",
+          "source": "Y.M.Cinema",
+          "publishedAt": "2026-11-04T14:13:22.000Z"
         }
       ],
       "baseScore": 83,
@@ -837,7 +920,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1319,7 +1402,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1359,7 +1442,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-12T11:02:38.553Z",
+      "lastSeenAt": "2026-11-13T00:20:28.314Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
