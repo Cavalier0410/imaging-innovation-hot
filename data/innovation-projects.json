@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T22:37:04.321Z",
-  "sourceGeneratedAt": "2026-11-13T22:36:57.783Z",
+  "generatedAt": "2026-11-14T03:12:48.095Z",
+  "sourceGeneratedAt": "2026-11-14T03:12:41.864Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 171,
+    "scannedThisRun": 174,
     "acceptedThisRun": 13,
     "newThisRun": 0,
     "projectCount": 111,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-13T07:55:25.245Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
@@ -93,7 +93,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -286,7 +286,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2019970/_o9p457RDUN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -325,7 +325,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -364,7 +364,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -403,7 +403,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -441,7 +441,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://petapixel.com/assets/uploads/2026/11/1-blackmagic-ambisonic-microphone@2x.jpg",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -480,7 +480,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -646,7 +646,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -954,7 +954,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1075,7 +1075,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1563,7 +1563,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1603,7 +1603,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-13T22:37:04.321Z",
+      "lastSeenAt": "2026-11-14T03:12:48.095Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
