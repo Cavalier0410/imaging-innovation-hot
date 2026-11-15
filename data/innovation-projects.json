@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-14T10:23:17.255Z",
-  "sourceGeneratedAt": "2026-11-14T10:23:10.592Z",
+  "generatedAt": "2026-11-15T01:53:53.293Z",
+  "sourceGeneratedAt": "2026-11-15T01:53:47.155Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 185,
+    "scannedThisRun": 183,
     "acceptedThisRun": 13,
-    "newThisRun": 0,
-    "projectCount": 111,
+    "newThisRun": 1,
+    "projectCount": 113,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 97
+    "withImageCount": 99
   },
   "categoryCounts": {
-    "专业影像新技术": 37,
+    "专业影像新技术": 38,
     "空间影像与显示": 25,
     "创新光学与传感": 25,
-    "智能相机与机器人": 9,
+    "智能相机与机器人": 10,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
     "便携与移动创作": 2
@@ -55,7 +55,7 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-13T07:55:25.245Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
@@ -93,7 +93,7 @@
       ],
       "baseScore": 65,
       "firstSeenAt": "2026-11-10T09:47:12.527Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
@@ -252,6 +252,83 @@
       "imageCheckedAt": "2026-11-02T11:00:46.012Z"
     },
     {
+      "id": "c37b13534b3e6a1050fa45159e39704a1abd8889",
+      "title": "Purism Is Crowdfunding A RISC-V Smartphone, and FiiO launches a USB DAC that’s also a Gamepad: Liliputing News Roundup",
+      "titleZh": "Purism Is Crowdfunding A RISC-V Smartphone, and FiiO launches a USB DAC that’s also a Gamepad: Liliputing News Roundup",
+      "summary": "Purism has begun crowfunding for the Librem 5 v2, a Linux smartphone with a SpacemiT K1 RISC-V processor, a 5.7 inch display, 8GB of RAM, 128GB of storage, WiFi and camera kill switches, and modular design [+3 more news items in this roundup] The post Purism Is Crowdfunding A RISC-V Smartphone, and FiiO launches a USB DAC that’s also a Gamepad: Liliputing News Roundup appeared first on Liliputing .",
+      "summaryZh": "Purism has begun crowfunding for the Librem 5 v2, a Linux smartphone with a SpacemiT K1 RISC-V processor, a 5.7 inch display, 8GB of RAM, 128GB of storage, WiFi and camera kill switches, and modular design [+3 more news items in this roundup] The post Purism Is Crowdfunding A RISC-V Smartphone, and FiiO launches a USB DAC that’s also a Gamepad: Liliputing News Roundup appeared first on Liliputing .",
+      "url": "https://liliputing.com/a-usb-dac-thats-also-a-gamepad-and-purism-is-crowdfunding-a-risc-v-smartphone-liliputing-news-roundup/",
+      "normalizedUrl": "https://liliputing.com/a-usb-dac-thats-also-a-gamepad-and-purism-is-crowdfunding-a-risc-v-smartphone-liliputing-news-roundup",
+      "publishedAt": "2026-11-14T22:42:54.000Z",
+      "source": {
+        "id": "liliputing",
+        "name": "Liliputing",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 81,
+      "innovationReasons": [
+        "众筹验证",
+        "模块化工作流"
+      ],
+      "references": [
+        {
+          "title": "Purism Is Crowdfunding A RISC-V Smartphone, and FiiO launches a USB DAC that’s also a Gamepad: Liliputing News Roundup",
+          "url": "https://liliputing.com/a-usb-dac-thats-also-a-gamepad-and-purism-is-crowdfunding-a-risc-v-smartphone-liliputing-news-roundup/",
+          "source": "Liliputing",
+          "publishedAt": "2026-11-14T22:42:54.000Z"
+        }
+      ],
+      "baseScore": 81,
+      "firstSeenAt": "2026-11-15T01:53:53.293Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
+      "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
+      "imageCheckedAt": "2026-11-15T01:53:53.293Z"
+    },
+    {
+      "id": "84a224100b653665f7e97032f90e0d414dc9f131",
+      "title": "The wire-free robot mower that climbs 80% slopes gets its Black Friday cut",
+      "titleZh": "The wire-free robot mower that climbs 80% slopes gets its Black Friday cut",
+      "summary": "Robot mowers used to demand a buried boundary wire and a yard antenna before they cut a single blade of grass. The LUBA mini 2 AWD skips both, steering by a LiDAR turret and dual cameras, and it’s built for…",
+      "summaryZh": "Robot mowers used to demand a buried boundary wire and a yard antenna before they cut a single blade of grass. The LUBA mini 2 AWD skips both, steering by a LiDAR turret and dual cameras, and it’s built for…",
+      "url": "https://the-gadgeteer.com/2026/11/14/the-wire-free-robot-mower-that-climbs-80-slopes-gets-its-black-friday-cut/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/14/the-wire-free-robot-mower-that-climbs-80-slopes-gets-its-black-friday-cut",
+      "publishedAt": "2026-11-14T14:21:03.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 73,
+      "innovationReasons": [
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "The wire-free robot mower that climbs 80% slopes gets its Black Friday cut",
+          "url": "https://the-gadgeteer.com/2026/11/14/the-wire-free-robot-mower-that-climbs-80-slopes-gets-its-black-friday-cut/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-14T14:21:03.000Z"
+        }
+      ],
+      "baseScore": 73,
+      "firstSeenAt": "2026-11-14T17:06:00.966Z",
+      "lastSeenAt": "2026-11-14T21:28:44.500Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/final-hero-1.jpg",
+      "imageCheckedAt": "2026-11-14T17:06:00.966Z"
+    },
+    {
       "id": "b01a548de4bf025987f9eb5f84c71176e987a162",
       "title": "Turning Sight Into Touch with DIY Smart Glasses",
       "titleZh": "Turning Sight Into Touch with DIY Smart Glasses",
@@ -286,7 +363,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2019970/_o9p457RDUN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -325,7 +402,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -364,7 +441,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -403,7 +480,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -480,7 +557,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -646,7 +723,7 @@
       ],
       "baseScore": 78,
       "firstSeenAt": "2026-11-10T17:49:35.537Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-10T17:49:35.537Z"
     },
@@ -954,7 +1031,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1075,7 +1152,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1563,7 +1640,7 @@
       ],
       "baseScore": 75,
       "firstSeenAt": "2026-10-29T07:03:48.054Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://dronedj.com/wp-content/uploads/sites/2/2026/10/percepto-axion-drone-inspection-AI.jpg?quality=82&strip=all&resize=1200,628",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
     },
@@ -1603,7 +1680,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-14T10:23:17.255Z",
+      "lastSeenAt": "2026-11-15T01:53:53.293Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
