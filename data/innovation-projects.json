@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T20:27:37.599Z",
-  "sourceGeneratedAt": "2026-11-16T20:27:31.093Z",
+  "generatedAt": "2026-11-17T03:51:31.719Z",
+  "sourceGeneratedAt": "2026-11-17T03:51:25.116Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 160,
+    "scannedThisRun": 163,
     "acceptedThisRun": 9,
     "newThisRun": 0,
     "projectCount": 114,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-13T07:55:25.245Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
@@ -286,7 +286,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -363,7 +363,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2019970/_o9p457RDUN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -441,7 +441,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -480,7 +480,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -601,7 +601,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -1075,7 +1075,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1196,7 +1196,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1724,7 +1724,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-16T20:27:37.599Z",
+      "lastSeenAt": "2026-11-17T03:51:31.719Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
