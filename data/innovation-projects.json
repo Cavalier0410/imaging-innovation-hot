@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-17T13:22:06.949Z",
-  "sourceGeneratedAt": "2026-11-17T13:22:00.469Z",
+  "generatedAt": "2026-11-18T04:18:21.878Z",
+  "sourceGeneratedAt": "2026-11-18T04:18:15.256Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 160,
-    "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 114,
+    "scannedThisRun": 158,
+    "acceptedThisRun": 11,
+    "newThisRun": 1,
+    "projectCount": 115,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 100
+    "withImageCount": 101
   },
   "categoryCounts": {
     "专业影像新技术": 38,
-    "空间影像与显示": 26,
+    "空间影像与显示": 27,
     "创新光学与传感": 25,
     "智能相机与机器人": 10,
     "运动影像与航拍": 7,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-13T07:55:25.245Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
@@ -175,6 +175,46 @@
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
     },
     {
+      "id": "6ac0df962fa1e86c4b7bc15a4ce5a923d40f4733",
+      "title": "Shure MV360 spatial microphone & MV360+ with built-in 32-bit float recorder w/wireless control",
+      "titleZh": "Shure MV360 spatial microphone & MV360+ with built-in 32-bit float recorder w/wireless control",
+      "summary": "Shure just announced the MV360 Spatial Audio Microphone, a US$349 USB-C microphone that makes immersive audio capture accessible to creators at every level. Shure also announced the US$449 MV360+ with built-in 32-bit float recording and wireless control, for delivery in early 2027. Although I haven’t yet received either to test personally, I was fortunately able [...] Read More... from Shure MV360 spatial microphone & MV360+ with built-in 32-bit float recorder w/wireless control",
+      "summaryZh": "Shure just announced the MV360 Spatial Audio Microphone, a US$349 USB-C microphone that makes immersive audio capture accessible to creators at every level. Shure also announced the US$449 MV360+ with built-in 32-bit float recording and wireless control, for delivery in early 2027. Although I haven’t yet received either to test personally, I was fortunately able [...] Read More... from Shure MV360 spatial microphone & MV360+ with built-in 32-bit float recorder w/wireless control",
+      "url": "https://www.provideocoalition.com/shure-mv360-spatial-microphone-mv360-with-built-in-32-bit-float-recorder-w-wireless-control/",
+      "normalizedUrl": "https://provideocoalition.com/shure-mv360-spatial-microphone-mv360-with-built-in-32-bit-float-recorder-w-wireless-control",
+      "publishedAt": "2026-11-17T18:45:29.000Z",
+      "source": {
+        "id": "provideocoalition",
+        "name": "ProVideo Coalition",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "空间影像与显示",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 88,
+      "innovationReasons": [
+        "空间影像",
+        "云端与远程协作",
+        "新视角采集"
+      ],
+      "references": [
+        {
+          "title": "Shure MV360 spatial microphone & MV360+ with built-in 32-bit float recorder w/wireless control",
+          "url": "https://www.provideocoalition.com/shure-mv360-spatial-microphone-mv360-with-built-in-32-bit-float-recorder-w-wireless-control/",
+          "source": "ProVideo Coalition",
+          "publishedAt": "2026-11-17T18:45:29.000Z"
+        }
+      ],
+      "baseScore": 88,
+      "firstSeenAt": "2026-11-18T04:18:21.878Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
+      "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
+      "imageCheckedAt": "2026-11-18T04:18:21.878Z"
+    },
+    {
       "id": "df4a336c9854b7b245312c89b094797d8c4174f5",
       "title": "Cricut｜写真やイラストをシールに！全自動フォトステッカープリンター",
       "titleZh": "蟋蟀|将照片和插图变成贴纸！全自动照片贴纸打印机",
@@ -286,7 +326,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -363,7 +403,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2019970/_o9p457RDUN.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -441,7 +481,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -480,7 +520,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -601,7 +641,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-12T11:02:38.553Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/strada-apple-vision-pro-aivu-library-featured-16x9-1.jpg",
       "imageCheckedAt": "2026-11-12T11:02:38.553Z"
     },
@@ -1075,7 +1115,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1196,7 +1236,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1724,7 +1764,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-17T13:22:06.949Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4511,7 +4551,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-11T21:56:36.445Z",
+      "lastSeenAt": "2026-11-18T04:18:21.878Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
