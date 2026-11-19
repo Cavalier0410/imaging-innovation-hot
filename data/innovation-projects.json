@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-19T03:24:33.503Z",
-  "sourceGeneratedAt": "2026-11-19T03:24:27.251Z",
+  "generatedAt": "2026-11-19T13:01:02.045Z",
+  "sourceGeneratedAt": "2026-11-19T13:00:55.778Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 152,
+    "scannedThisRun": 149,
     "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 116,
+    "newThisRun": 1,
+    "projectCount": 117,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 102
+    "withImageCount": 103
   },
   "categoryCounts": {
-    "专业影像新技术": 38,
+    "专业影像新技术": 39,
     "空间影像与显示": 27,
     "创新光学与传感": 25,
     "智能相机与机器人": 10,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 69,
       "firstSeenAt": "2026-11-13T07:55:25.245Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
@@ -135,6 +135,44 @@
       "lastSeenAt": "2026-11-12T02:57:48.570Z",
       "imageUrl": "https://static.makuake.com/upload/project/54199/main_54199.png?version=1792977369&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-10-29T07:03:48.054Z"
+    },
+    {
+      "id": "cd7f2d1fa70f0ef83a6dc52c30861576f777c7da",
+      "title": "Obsbot’s New Tail 2 ADV PTZR Camera Pairs 21x Optical Zoom With AI Tracking",
+      "titleZh": "Obsbot’s New Tail 2 ADV PTZR Camera Pairs 21x Optical Zoom With AI Tracking",
+      "summary": "Obsbot has announced the Tail 2 ADV, a new 4K PTZR camera featuring a 21x optical zoom and custom LUT support. [ Read More ]",
+      "summaryZh": "Obsbot has announced the Tail 2 ADV, a new 4K PTZR camera featuring a 21x optical zoom and custom LUT support. [ Read More ]",
+      "url": "https://petapixel.com/2026/11/19/obsbots-new-tail-2-adv-ptzr-camera-pairs-21x-optical-zoom-with-ai-tracking/",
+      "normalizedUrl": "https://petapixel.com/2026/11/19/obsbots-new-tail-2-adv-ptzr-camera-pairs-21x-optical-zoom-with-ai-tracking",
+      "publishedAt": "2026-11-19T08:01:20.000Z",
+      "source": {
+        "id": "petapixel",
+        "name": "PetaPixel",
+        "category": "影像综合",
+        "priority": "P0",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 74,
+      "innovationReasons": [
+        "AI 影像"
+      ],
+      "references": [
+        {
+          "title": "Obsbot’s New Tail 2 ADV PTZR Camera Pairs 21x Optical Zoom With AI Tracking",
+          "url": "https://petapixel.com/2026/11/19/obsbots-new-tail-2-adv-ptzr-camera-pairs-21x-optical-zoom-with-ai-tracking/",
+          "source": "PetaPixel",
+          "publishedAt": "2026-11-19T08:01:20.000Z"
+        }
+      ],
+      "baseScore": 74,
+      "firstSeenAt": "2026-11-19T13:01:02.045Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
+      "imageUrl": "https://petapixel.com/assets/uploads/2026/11/1.-KV_OBSBOT-Tail-2-ADV.jpg",
+      "imageCheckedAt": "2026-11-19T13:01:02.045Z"
     },
     {
       "id": "06bebcdcc20896616be341ea6524bfb3744f89eb",
@@ -248,7 +286,7 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-11-18T04:18:21.878Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
       "imageCheckedAt": "2026-11-18T04:18:21.878Z"
     },
@@ -364,7 +402,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -519,7 +557,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -558,7 +596,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -1153,7 +1191,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1274,7 +1312,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1802,7 +1840,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-19T03:24:33.503Z",
+      "lastSeenAt": "2026-11-19T13:01:02.045Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
