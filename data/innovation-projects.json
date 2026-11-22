@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-20T11:34:46.962Z",
-  "sourceGeneratedAt": "2026-11-20T11:34:40.755Z",
+  "generatedAt": "2026-11-21T17:29:53.647Z",
+  "sourceGeneratedAt": "2026-11-21T17:29:47.248Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 146,
+    "scannedThisRun": 158,
     "acceptedThisRun": 11,
-    "newThisRun": 0,
-    "projectCount": 118,
+    "newThisRun": 2,
+    "projectCount": 120,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 104
+    "withImageCount": 106
   },
   "categoryCounts": {
     "专业影像新技术": 39,
     "空间影像与显示": 27,
     "创新光学与传感": 26,
-    "智能相机与机器人": 10,
+    "智能相机与机器人": 12,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
     "便携与移动创作": 3
@@ -96,6 +96,83 @@
       "lastSeenAt": "2026-11-16T02:03:49.490Z",
       "imageUrl": "https://static.makuake.com/upload/project/54438/main_54438.png?version=1794278755&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-10T09:47:12.527Z"
+    },
+    {
+      "id": "534ee3f0538d49e1a791b98d1a93108639447b0a",
+      "title": "Faraday Future’s Aegis Classic Pro robot dog just took a real Black Friday cut",
+      "titleZh": "Faraday Future’s Aegis Classic Pro robot dog just took a real Black Friday cut",
+      "summary": "Faraday Future’s Aegis Classic Pro is a 15 kg robot dog with a 4K camera for an eye and a backflip in its pocket. Robot dogs were lab equipment, all trade show theater and university prices. Black Friday already knocks…",
+      "summaryZh": "Faraday Future’s Aegis Classic Pro is a 15 kg robot dog with a 4K camera for an eye and a backflip in its pocket. Robot dogs were lab equipment, all trade show theater and university prices. Black Friday already knocks…",
+      "url": "https://the-gadgeteer.com/2026/11/21/faraday-future-aegis-classic-pro-robot-dog-black-friday-deal/",
+      "normalizedUrl": "https://the-gadgeteer.com/2026/11/21/faraday-future-aegis-classic-pro-robot-dog-black-friday-deal",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "source": {
+        "id": "the-gadgeteer",
+        "name": "The Gadgeteer",
+        "category": "新兴产品/硬件",
+        "priority": "P1",
+        "language": "en",
+        "region": "US"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 80,
+      "innovationReasons": [
+        "便携形态",
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "Faraday Future’s Aegis Classic Pro robot dog just took a real Black Friday cut",
+          "url": "https://the-gadgeteer.com/2026/11/21/faraday-future-aegis-classic-pro-robot-dog-black-friday-deal/",
+          "source": "The Gadgeteer",
+          "publishedAt": "2026-11-21T17:00:00.000Z"
+        }
+      ],
+      "baseScore": 80,
+      "firstSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/aegis-hero.jpg",
+      "imageCheckedAt": "2026-11-21T17:29:53.647Z"
+    },
+    {
+      "id": "1bae77d43de37ed126f3124e7f7f8696e8f004e2",
+      "title": "High-Speed Camera Robot Can Track a Bee in Real-Time",
+      "titleZh": "High-Speed Camera Robot Can Track a Bee in Real-Time",
+      "summary": "Jeremy Fielding built this high-speed camera robot that can track a flying bee in real-time.",
+      "summaryZh": "Jeremy Fielding built this high-speed camera robot that can track a flying bee in real-time.",
+      "url": "https://www.hackster.io/news/high-speed-camera-robot-can-track-a-bee-in-real-time-f8cc477ac408",
+      "normalizedUrl": "https://hackster.io/news/high-speed-camera-robot-can-track-a-bee-in-real-time-f8cc477ac408",
+      "publishedAt": "2026-11-20T21:37:37.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 79,
+      "innovationReasons": [
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "High-Speed Camera Robot Can Track a Bee in Real-Time",
+          "url": "https://www.hackster.io/news/high-speed-camera-robot-can-track-a-bee-in-real-time-f8cc477ac408",
+          "source": "Hackster News",
+          "publishedAt": "2026-11-20T21:37:37.000Z"
+        }
+      ],
+      "baseScore": 79,
+      "firstSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2023526/_RObJoOVpDT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-11-21T17:29:53.647Z"
     },
     {
       "id": "915c84799855d64a01eb72e395d5544999b98cba",
@@ -214,7 +291,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-20T03:12:21.380Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2022719/_wmRyHAmprE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-20T03:12:21.380Z"
     },
@@ -368,7 +445,7 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-11-18T04:18:21.878Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
       "imageCheckedAt": "2026-11-18T04:18:21.878Z"
     },
@@ -484,7 +561,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -639,7 +716,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -678,7 +755,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -1273,7 +1350,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1394,7 +1471,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1884,7 +1961,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4710,7 +4787,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-20T11:34:46.962Z",
+      "lastSeenAt": "2026-11-21T17:29:53.647Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
