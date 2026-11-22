@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T17:29:53.647Z",
-  "sourceGeneratedAt": "2026-11-21T17:29:47.248Z",
+  "generatedAt": "2026-11-22T03:10:52.992Z",
+  "sourceGeneratedAt": "2026-11-22T03:10:46.872Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 158,
-    "acceptedThisRun": 11,
-    "newThisRun": 2,
+    "scannedThisRun": 155,
+    "acceptedThisRun": 10,
+    "newThisRun": 0,
     "projectCount": 120,
     "categoryCount": 7,
     "sourceCount": 22,
@@ -132,7 +132,7 @@
       ],
       "baseScore": 80,
       "firstSeenAt": "2026-11-21T17:29:53.647Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/11/aegis-hero.jpg",
       "imageCheckedAt": "2026-11-21T17:29:53.647Z"
     },
@@ -170,7 +170,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-11-21T17:29:53.647Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2023526/_RObJoOVpDT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-21T17:29:53.647Z"
     },
@@ -291,7 +291,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-20T03:12:21.380Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2022719/_wmRyHAmprE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-20T03:12:21.380Z"
     },
@@ -445,7 +445,7 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-11-18T04:18:21.878Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
       "imageCheckedAt": "2026-11-18T04:18:21.878Z"
     },
@@ -561,7 +561,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -716,7 +716,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -755,7 +755,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -1350,7 +1350,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1471,7 +1471,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1961,7 +1961,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-22T03:10:52.992Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
