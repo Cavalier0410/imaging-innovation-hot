@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-23T09:00:15.866Z",
-  "sourceGeneratedAt": "2026-11-23T09:00:09.568Z",
+  "generatedAt": "2026-11-23T21:19:44.281Z",
+  "sourceGeneratedAt": "2026-11-23T21:19:37.833Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 159,
-    "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 120,
+    "scannedThisRun": 161,
+    "acceptedThisRun": 11,
+    "newThisRun": 1,
+    "projectCount": 121,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 106
+    "withImageCount": 107
   },
   "categoryCounts": {
     "专业影像新技术": 39,
@@ -18,7 +18,7 @@
     "智能相机与机器人": 12,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
-    "便携与移动创作": 3
+    "便携与移动创作": 4
   },
   "projects": [
     {
@@ -58,6 +58,45 @@
       "lastSeenAt": "2026-11-20T03:12:21.380Z",
       "imageUrl": "https://static.makuake.com/upload/project/54501/main_54501.png?version=1794541467&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
+    },
+    {
+      "id": "1201320ee03c5a2e4e69b83ced7e267a98892369",
+      "title": "SIRUI PC03 ScopeGrip Introduced – 3x Telephoto Lens Kit with Grip and Bluetooth Remote for iPhone Pro",
+      "titleZh": "SIRUI PC03 ScopeGrip Introduced – 3x Telephoto Lens Kit with Grip and Bluetooth Remote for iPhone Pro",
+      "summary": "SIRUI has introduced the PC03 ScopeGrip, a 3x telephoto lens kit for the iPhone 16 Pro, 17 Pro and 18 Pro models. The kit combines an optical telephoto attachment with a camera-style photography grip and a wireless Bluetooth remote, and SIRUI designed the system for compact, all-in-one storage. Most of our SIRUI coverage focuses on camera lenses, most recently the Aurora 15mm F1.6 and 24mm F1.4 autofocus primes. However, the company also makes mobile accessories, such as the VD-01 1.33x anamorphic lens for smartphones. Add-on telephoto lenses for the iPhone are not new either. We have previously reported on the SANDMARC Telephoto Tetraprism lens and on Tilta’s T-mount iPhone lenses. […]",
+      "summaryZh": "SIRUI has introduced the PC03 ScopeGrip, a 3x telephoto lens kit for the iPhone 16 Pro, 17 Pro and 18 Pro models. The kit combines an optical telephoto attachment with a camera-style photography grip and a wireless Bluetooth remote, and SIRUI designed the system for compact, all-in-one storage. Most of our SIRUI coverage focuses on camera lenses, most recently the Aurora 15mm F1.6 and 24mm F1.4 autofocus primes. However, the company also makes mobile accessories, such as the VD-01 1.33x anamorphic lens for smartpho",
+      "url": "https://www.cined.com/sirui-pc03-scopegrip-introduced-3x-telephoto-lens-kit-with-grip-and-bluetooth-remote-for-iphone-pro/",
+      "normalizedUrl": "https://cined.com/sirui-pc03-scopegrip-introduced-3x-telephoto-lens-kit-with-grip-and-bluetooth-remote-for-iphone-pro",
+      "publishedAt": "2026-11-23T12:42:37.000Z",
+      "source": {
+        "id": "cined",
+        "name": "CineD",
+        "category": "电影机/视频器材",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "便携与移动创作",
+      "projectStage": "已公布",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "便携形态",
+        "云端与远程协作"
+      ],
+      "references": [
+        {
+          "title": "SIRUI PC03 ScopeGrip Introduced – 3x Telephoto Lens Kit with Grip and Bluetooth Remote for iPhone Pro",
+          "url": "https://www.cined.com/sirui-pc03-scopegrip-introduced-3x-telephoto-lens-kit-with-grip-and-bluetooth-remote-for-iphone-pro/",
+          "source": "CineD",
+          "publishedAt": "2026-11-23T12:42:37.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-11-23T21:19:44.281Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
+      "imageUrl": "https://www.cined.com/content/uploads/2026/11/sirui-pc03-scopegrip-iphone-kit-featured-16x9-2.jpg",
+      "imageCheckedAt": "2026-11-23T21:19:44.281Z"
     },
     {
       "id": "ef3bcab7a998fc258a095249b5f912f15461c120",
@@ -170,7 +209,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-11-21T17:29:53.647Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2023526/_RObJoOVpDT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-21T17:29:53.647Z"
     },
@@ -291,7 +330,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-20T03:12:21.380Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2022719/_wmRyHAmprE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-20T03:12:21.380Z"
     },
@@ -445,7 +484,7 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-11-18T04:18:21.878Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
       "imageCheckedAt": "2026-11-18T04:18:21.878Z"
     },
@@ -561,7 +600,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -716,7 +755,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -755,7 +794,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-12T18:54:16.810Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/Blackmagic-Expands-Apple-Partnership-With-108-Microphone-Spatial-Audio-System.001.webp",
       "imageCheckedAt": "2026-11-12T18:54:16.810Z"
     },
@@ -1350,7 +1389,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1471,7 +1510,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -1961,7 +2000,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-23T09:00:15.866Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4748,7 +4787,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-10-27T16:37:49.137Z",
-      "lastSeenAt": "2026-11-23T00:50:35.576Z",
+      "lastSeenAt": "2026-11-23T21:19:44.281Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-27T16:37:49.137Z"
     },
