@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T06:00:12.230Z",
-  "sourceGeneratedAt": "2026-11-24T06:00:05.855Z",
+  "generatedAt": "2026-11-24T17:40:32.661Z",
+  "sourceGeneratedAt": "2026-11-24T17:40:26.275Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 167,
+    "scannedThisRun": 178,
     "acceptedThisRun": 11,
-    "newThisRun": 0,
-    "projectCount": 121,
+    "newThisRun": 1,
+    "projectCount": 122,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 107
+    "withImageCount": 108
   },
   "categoryCounts": {
     "专业影像新技术": 39,
     "空间影像与显示": 27,
     "创新光学与传感": 26,
-    "智能相机与机器人": 12,
+    "智能相机与机器人": 13,
     "运动影像与航拍": 7,
     "AI 与计算影像": 6,
     "便携与移动创作": 4
@@ -60,6 +60,45 @@
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
     {
+      "id": "587fdee811ada7be70bf8a16dbf6e0c8b00bd3e6",
+      "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+      "titleZh": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+      "summary": "Leader-and-follower arm system with depth-sensing camera links to a compact PC powered by an Intel Core Ultra chip.",
+      "summaryZh": "Leader-and-follower arm system with depth-sensing camera links to a compact PC powered by an Intel Core Ultra chip.",
+      "url": "https://www.hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+      "normalizedUrl": "https://hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+      "publishedAt": "2026-11-24T10:09:22.000Z",
+      "source": {
+        "id": "hackster",
+        "name": "Hackster News",
+        "category": "新兴产品/创客",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "智能相机与机器人",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 76,
+      "innovationReasons": [
+        "便携形态",
+        "自动化拍摄"
+      ],
+      "references": [
+        {
+          "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+          "url": "https://www.hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+          "source": "Hackster News",
+          "publishedAt": "2026-11-24T10:09:22.000Z"
+        }
+      ],
+      "baseScore": 76,
+      "firstSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "imageUrl": "https://hackster.imgix.net/uploads/attachments/2029501/_oslDB3Aopf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+      "imageCheckedAt": "2026-11-24T17:40:32.661Z"
+    },
+    {
       "id": "1201320ee03c5a2e4e69b83ced7e267a98892369",
       "title": "SIRUI PC03 ScopeGrip Introduced – 3x Telephoto Lens Kit with Grip and Bluetooth Remote for iPhone Pro",
       "titleZh": "SIRUI PC03 ScopeGrip Introduced – 3x Telephoto Lens Kit with Grip and Bluetooth Remote for iPhone Pro",
@@ -94,7 +133,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-23T21:19:44.281Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/sirui-pc03-scopegrip-iphone-kit-featured-16x9-2.jpg",
       "imageCheckedAt": "2026-11-23T21:19:44.281Z"
     },
@@ -209,7 +248,7 @@
       ],
       "baseScore": 79,
       "firstSeenAt": "2026-11-21T17:29:53.647Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2023526/_RObJoOVpDT.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-21T17:29:53.647Z"
     },
@@ -330,7 +369,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-20T03:12:21.380Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2022719/_wmRyHAmprE.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-20T03:12:21.380Z"
     },
@@ -484,7 +523,7 @@
       ],
       "baseScore": 88,
       "firstSeenAt": "2026-11-18T04:18:21.878Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://www.provideocoalition.com/wp-content/uploads/Shure-MV-360-hero.jpg",
       "imageCheckedAt": "2026-11-18T04:18:21.878Z"
     },
@@ -600,7 +639,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -755,7 +794,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-13T16:20:16.976Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://ymcinema.com/wp-content/uploads/2026/11/IMAX-Is-Coming-to-Metas-1300-VR-Glasses-but-Can-They-Deliver-the-Real-Experience.001.webp",
       "imageCheckedAt": "2026-11-13T16:20:16.976Z"
     },
@@ -1389,7 +1428,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1510,7 +1549,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -2000,7 +2039,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-24T06:00:12.230Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4826,7 +4865,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-21T17:29:53.647Z",
+      "lastSeenAt": "2026-11-24T17:40:32.661Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
