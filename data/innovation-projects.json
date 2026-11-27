@@ -1,26 +1,64 @@
 {
-  "generatedAt": "2026-11-24T17:40:32.661Z",
-  "sourceGeneratedAt": "2026-11-24T17:40:26.275Z",
+  "generatedAt": "2026-11-26T23:50:50.135Z",
+  "sourceGeneratedAt": "2026-11-26T23:50:43.901Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 178,
-    "acceptedThisRun": 11,
-    "newThisRun": 1,
-    "projectCount": 122,
+    "scannedThisRun": 167,
+    "acceptedThisRun": 9,
+    "newThisRun": 2,
+    "projectCount": 124,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 108
+    "withImageCount": 109
   },
   "categoryCounts": {
-    "专业影像新技术": 39,
+    "专业影像新技术": 40,
     "空间影像与显示": 27,
     "创新光学与传感": 26,
     "智能相机与机器人": 13,
-    "运动影像与航拍": 7,
+    "运动影像与航拍": 8,
     "AI 与计算影像": 6,
     "便携与移动创作": 4
   },
   "projects": [
+    {
+      "id": "11e8b76afd167269ad6bef8253ed062b93946f1d",
+      "title": "外して撮る 手元で見る 親指サイズに最大4Kを凝縮した分離式カメラ「S100」",
+      "titleZh": "外して撮る 手元で見る 親指サイズに最大4Kを凝縮した分離式カメラ「S100」",
+      "summary": "※ リターン品の配送が完了するまで、 伊蒂科技有限公司 は 深市安尼泰科信息技有限公司 の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 プロジェクトに関する情報 ・メーカー名：深市安尼泰科信息技有限公司 ・プロジェクトの属性：輸入商品 ・代理店によるサポート：日本語カスタマーサービス・対応 ・プロジェクト実行地：香港 ・製品者（国）：中国 ・製造者（国）：中国",
+      "summaryZh": "※ リターン品の配送が完了するまで、 伊蒂科技有限公司 は 深市安尼泰科信息技有限公司 の日本における独占販売権を有する正規代理店です。詳細に関しては、ページ下部のリスク＆チャレンジをご確認ください。 プロジェクトに関する情報 ・メーカー名：深市安尼泰科信息技有限公司 ・プロジェクトの属性：輸入商品 ・代理店によるサポート：日本語カスタマーサービス・対応 ・プロジェクト実行地：香港 ・製品者（国）：中国 ・製造者（国）：中国",
+      "url": "https://www.makuake.com/project/s100/",
+      "normalizedUrl": "https://makuake.com/project/s100",
+      "publishedAt": "2026-12-11T02:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 77,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "外して撮る 手元で見る 親指サイズに最大4Kを凝縮した分離式カメラ「S100」",
+          "url": "https://www.makuake.com/project/s100/",
+          "source": "Makuake",
+          "publishedAt": "2026-12-11T02:00:00.000Z"
+        }
+      ],
+      "baseScore": 77,
+      "firstSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "imageUrl": "https://static.makuake.com/upload/project/54707/main_54707.png?version=1795674317&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-11-26T23:50:50.135Z"
+    },
     {
       "id": "41d5425edb91b16aaf77d8aa408e607a85d616ec",
       "title": "【23gの超軽量設計】コンテナがカメラに！フルHD動画も撮れる超小型ミニカメラ",
@@ -60,13 +98,13 @@
       "imageCheckedAt": "2026-11-13T07:55:25.245Z"
     },
     {
-      "id": "587fdee811ada7be70bf8a16dbf6e0c8b00bd3e6",
-      "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
-      "titleZh": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+      "id": "1e1932c9042182ed8662a2d12197ccfe9a955658",
+      "title": "ASRock Industrial Unveils the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+      "titleZh": "ASRock Industrial Unveils the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
       "summary": "Leader-and-follower arm system with depth-sensing camera links to a compact PC powered by an Intel Core Ultra chip.",
       "summaryZh": "Leader-and-follower arm system with depth-sensing camera links to a compact PC powered by an Intel Core Ultra chip.",
-      "url": "https://www.hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
-      "normalizedUrl": "https://hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+      "url": "https://www.hackster.io/news/asrock-industrial-unveils-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+      "normalizedUrl": "https://hackster.io/news/asrock-industrial-unveils-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
       "publishedAt": "2026-11-24T10:09:22.000Z",
       "source": {
         "id": "hackster",
@@ -77,9 +115,9 @@
         "region": "Global"
       },
       "projectCategory": "智能相机与机器人",
-      "projectStage": "持续观察",
+      "projectStage": "已公布",
       "projectFormat": "硬件产品",
-      "innovationScore": 76,
+      "innovationScore": 86,
       "innovationReasons": [
         "便携形态",
         "自动化拍摄"
@@ -90,11 +128,17 @@
           "url": "https://www.hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
           "source": "Hackster News",
           "publishedAt": "2026-11-24T10:09:22.000Z"
+        },
+        {
+          "title": "ASRock Industrial Unveils the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+          "url": "https://www.hackster.io/news/asrock-industrial-unveils-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937",
+          "source": "Hackster News",
+          "publishedAt": "2026-11-24T10:09:22.000Z"
         }
       ],
-      "baseScore": 76,
+      "baseScore": 86,
       "firstSeenAt": "2026-11-24T17:40:32.661Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2029501/_oslDB3Aopf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-24T17:40:32.661Z"
     },
@@ -133,7 +177,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-23T21:19:44.281Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/sirui-pc03-scopegrip-iphone-kit-featured-16x9-2.jpg",
       "imageCheckedAt": "2026-11-23T21:19:44.281Z"
     },
@@ -639,7 +683,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -1428,7 +1472,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1549,7 +1593,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -2039,7 +2083,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4865,7 +4909,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-24T17:40:32.661Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -4906,6 +4950,44 @@
       "lastSeenAt": "2026-10-31T02:21:19.623Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-31T02:21:19.623Z"
+    },
+    {
+      "id": "07bfaf332542bf91769189273a3ad7125bb72797",
+      "title": "AirDog: World's First Auto-follow Drone for GoPro Camera - Kickstarter",
+      "titleZh": "AirDog: World's First Auto-follow Drone for GoPro Camera - Kickstarter",
+      "summary": "AirDog: World's First Auto-follow Drone for GoPro Camera &nbsp;&nbsp; Kickstarter",
+      "summaryZh": "AirDog: World's First Auto-follow Drone for GoPro Camera &nbsp;&nbsp; Kickstarter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzJLY19xbHlIX3Y1dWNGUmhlU2RiRFBqREloNklEMmFYSUxHV3VZVUVfOHNZWmZqZ2h0YkJueWtJcmo1eHhKYnFOLVE1NVU4TEkyQ3ZHM1p5VDdaV1NKcGRkWmYxS2tuMkdBd3JVRUhyMVo2SmJpSWZKV1pyM3poZndnUldZZFkxVDZkc2NHU2pBVlpfcG84LWt3?oc=5",
+      "normalizedUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzJLY19xbHlIX3Y1dWNGUmhlU2RiRFBqREloNklEMmFYSUxHV3VZVUVfOHNZWmZqZ2h0YkJueWtJcmo1eHhKYnFOLVE1NVU4TEkyQ3ZHM1p5VDdaV1NKcGRkWmYxS2tuMkdBd3JVRUhyMVo2SmJpSWZKV1pyM3poZndnUldZZFkxVDZkc2NHU2pBVlpfcG84LWt3?oc=5",
+      "publishedAt": "2017-02-01T08:00:00.000Z",
+      "source": {
+        "id": "kickstarter-news",
+        "name": "Kickstarter",
+        "category": "众筹/全球",
+        "priority": "P1",
+        "language": "en",
+        "region": "Global"
+      },
+      "projectCategory": "运动影像与航拍",
+      "projectStage": "众筹中",
+      "projectFormat": "硬件产品",
+      "innovationScore": 85,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "AirDog: World's First Auto-follow Drone for GoPro Camera - Kickstarter",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzJLY19xbHlIX3Y1dWNGUmhlU2RiRFBqREloNklEMmFYSUxHV3VZVUVfOHNZWmZqZ2h0YkJueWtJcmo1eHhKYnFOLVE1NVU4TEkyQ3ZHM1p5VDdaV1NKcGRkWmYxS2tuMkdBd3JVRUhyMVo2SmJpSWZKV1pyM3poZndnUldZZFkxVDZkc2NHU2pBVlpfcG84LWt3?oc=5",
+          "source": "Kickstarter",
+          "publishedAt": "2017-02-01T08:00:00.000Z"
+        }
+      ],
+      "baseScore": 85,
+      "firstSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "imageUrl": "",
+      "imageCheckedAt": "2026-11-26T23:50:50.135Z"
     }
   ]
 }
