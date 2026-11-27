@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T23:50:50.135Z",
-  "sourceGeneratedAt": "2026-11-26T23:50:43.901Z",
+  "generatedAt": "2026-11-27T08:26:18.131Z",
+  "sourceGeneratedAt": "2026-11-27T08:26:11.936Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 167,
+    "scannedThisRun": 156,
     "acceptedThisRun": 9,
-    "newThisRun": 2,
+    "newThisRun": 0,
     "projectCount": 124,
     "categoryCount": 7,
     "sourceCount": 22,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-11-26T23:50:50.135Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://static.makuake.com/upload/project/54707/main_54707.png?version=1795674317&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-26T23:50:50.135Z"
     },
@@ -138,7 +138,7 @@
       ],
       "baseScore": 86,
       "firstSeenAt": "2026-11-24T17:40:32.661Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://hackster.imgix.net/uploads/attachments/2029501/_oslDB3Aopf.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
       "imageCheckedAt": "2026-11-24T17:40:32.661Z"
     },
@@ -177,7 +177,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-23T21:19:44.281Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/sirui-pc03-scopegrip-iphone-kit-featured-16x9-2.jpg",
       "imageCheckedAt": "2026-11-23T21:19:44.281Z"
     },
@@ -683,7 +683,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -1472,7 +1472,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1593,7 +1593,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -2083,7 +2083,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4909,7 +4909,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
@@ -4985,7 +4985,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-26T23:50:50.135Z",
-      "lastSeenAt": "2026-11-26T23:50:50.135Z",
+      "lastSeenAt": "2026-11-27T08:26:18.131Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-11-26T23:50:50.135Z"
     }
