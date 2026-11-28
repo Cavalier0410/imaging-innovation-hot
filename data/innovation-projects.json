@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-27T18:57:07.238Z",
-  "sourceGeneratedAt": "2026-11-27T18:57:00.884Z",
+  "generatedAt": "2026-11-28T10:23:52.350Z",
+  "sourceGeneratedAt": "2026-11-28T10:23:45.779Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 140,
+    "scannedThisRun": 143,
     "acceptedThisRun": 7,
-    "newThisRun": 1,
+    "newThisRun": 0,
     "projectCount": 125,
     "categoryCount": 7,
     "sourceCount": 22,
@@ -55,7 +55,7 @@
       ],
       "baseScore": 66,
       "firstSeenAt": "2026-11-27T18:57:07.238Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://static.makuake.com/upload/project/54742/main_54742.png?version=1795779421&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-27T18:57:07.238Z"
     },
@@ -93,7 +93,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-11-26T23:50:50.135Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://static.makuake.com/upload/project/54707/main_54707.png?version=1795674317&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-26T23:50:50.135Z"
     },
@@ -721,7 +721,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -1510,7 +1510,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1631,7 +1631,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -2121,7 +2121,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
@@ -4947,7 +4947,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-10-19T09:56:42.316Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-28T10:23:52.350Z",
       "imageUrl": "",
       "imageCheckedAt": "2026-10-19T09:56:42.316Z"
     },
