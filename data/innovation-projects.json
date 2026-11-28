@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-27T08:26:18.131Z",
-  "sourceGeneratedAt": "2026-11-27T08:26:11.936Z",
+  "generatedAt": "2026-11-27T18:57:07.238Z",
+  "sourceGeneratedAt": "2026-11-27T18:57:00.884Z",
   "criteriaVersion": 2,
   "stats": {
-    "scannedThisRun": 156,
-    "acceptedThisRun": 9,
-    "newThisRun": 0,
-    "projectCount": 124,
+    "scannedThisRun": 140,
+    "acceptedThisRun": 7,
+    "newThisRun": 1,
+    "projectCount": 125,
     "categoryCount": 7,
     "sourceCount": 22,
-    "withImageCount": 109
+    "withImageCount": 110
   },
   "categoryCounts": {
-    "专业影像新技术": 40,
+    "专业影像新技术": 41,
     "空间影像与显示": 27,
     "创新光学与传感": 26,
     "智能相机与机器人": 13,
@@ -21,6 +21,44 @@
     "便携与移动创作": 4
   },
   "projects": [
+    {
+      "id": "021843870d8ecade545b73c8bac1f15fd0c74cc8",
+      "title": "【自分だけの1台】8インチIPS×2枚に好きな映像を映すエルゴノミクスキーボード",
+      "titleZh": "【自分だけの1台】8インチIPS×2枚に好きな映像を映すエルゴノミクスキーボード",
+      "summary": "リターン品の配送が完了するまで、 株式会社CHEERS は DS PIXEL PRO の日本における独占販売権を有する正規代理店です。 詳細に関しては、ページ下部のリスク&チャレンジをご確認ください。 写真・アニメーション・MP4に対応し、本体に10GBぶん入れておける ので、気分で使い分けても入れ替えの手間はありません。 デスクに座るたび、自分で選んだものが目に入ります。 左右のディスプレイに別々の映像を置くことも、2枚をまたいだ1枚絵として使うこともできます。 手元に色んな姿の推しを並べ、あなたなりの推し活を実現してください。 映像やアニメーションの処理はすべてキーボード本体で処理 するため、高性能なゲーミングPCでなくても見たい映像の良さを活かしたまま楽しめます。 キーキャップもスイッチも下のプレートも透明 なため、映像がキーに遮られず、キーの隙間からではなく、キーを通して絵が見えます。 映像と一緒に楽しみながら作業ができる 、そんなキーボードです。 キーを押すとその位置から光やエフェクトが広がります。 絵文字を飛ばすことも、色だけを散らすこともできます。 ただの作業時間が、ちょっとした遊び時間に 変わります。 カスタマイズできる製品でいちばん多い失敗は、面倒になって結局そのまま使うことです。 DS PIXEL PROは ブラウザ上で設定が保存されるので、別のPCに替えても簡単に設定を引き継げます。 画面上のキーをつかんで、置きたい位置に落とすだけ。 QWERTYのままでも、自分だけの配列も思うがまま。 無理に伸ばしていた小指を親指の位置に移す、それだけで1日に何百回あった無理な動きがなくなります。 ※本製品はUS（英語）配列を採用しています。日本語入力にも対応していますが、一般的なJIS配列とは一部のキー配置や記号の位置が異なります。 指を置いた重さに少し足すだけで反応し、押し込んだ際の反応も抜群。 長い文章作成でもいつも通りに作業でき、クリエイターやワーカーの心強い味方 です。 磁気スイッチは磁石の位置からキーの押し込み量を連続的に検知します。 接点が擦れ合わない構造のため摩耗しにくく、よく使うキーも安定した反応を保ちやすい設計 です。 「反応が速すぎて誤爆する」と「遅くて間に合わない」は、本来キーごとに答えが違う問題 です。それを1台の中で両立できます。 左右に広げたスプリット配列により 肩幅のまま手を置けるので、ひねる必要がありません。 自然な状態で無理なく、効率的に作業できる設計 です。 DS PIXEL PRO は何度も検証し、7°のエルゴノミック傾斜にたどり着きました。 長時間タイピングする仕事やゲームでも、 毎日使いやすい形を追求した設計 です。 テンキーを省いた69キー なので、右手を大きく伸ばしてマウスを取る必要はありません。 肩が",
+      "summaryZh": "リターン品の配送が完了するまで、 株式会社CHEERS は DS PIXEL PRO の日本における独占販売権を有する正規代理店です。 詳細に関しては、ページ下部のリスク&チャレンジをご確認ください。 写真・アニメーション・MP4に対応し、本体に10GBぶん入れておける ので、気分で使い分けても入れ替えの手間はありません。 デスクに座るたび、自分で選んだものが目に入ります。 左右のディスプレイに別々の映像を置くことも、2枚をまたいだ1枚絵として使うこともできます。 手元に色んな姿の推しを並べ、あなたなりの推し活を実現してください。 映像やアニメーションの処理はすべてキーボード本体で処理 するため、高性能なゲーミングPCでなくても見たい映像の良さを活かしたまま楽しめます。 キーキャップもスイッチも下のプレートも透明 なため、映像がキーに遮られず、キーの隙間からではなく、キーを通して絵が見えます。 映像と一緒に楽しみながら作業ができる 、そんなキーボードです。 キーを押すとその位置から光やエフェクトが広がります。 絵文字を飛ばすことも、色だけを散らすこともできます。 ただの作業時間が、ちょっとした遊び時間に 変わります。 カスタ",
+      "url": "https://www.makuake.com/project/dspixelpro/",
+      "normalizedUrl": "https://makuake.com/project/dspixelpro",
+      "publishedAt": "2026-12-16T23:00:00.000Z",
+      "source": {
+        "id": "makuake",
+        "name": "Makuake",
+        "category": "众筹/日本",
+        "priority": "P1",
+        "language": "ja",
+        "region": "JP"
+      },
+      "projectCategory": "专业影像新技术",
+      "projectStage": "持续观察",
+      "projectFormat": "硬件产品",
+      "innovationScore": 66,
+      "innovationReasons": [
+        "众筹验证"
+      ],
+      "references": [
+        {
+          "title": "【自分だけの1台】8インチIPS×2枚に好きな映像を映すエルゴノミクスキーボード",
+          "url": "https://www.makuake.com/project/dspixelpro/",
+          "source": "Makuake",
+          "publishedAt": "2026-12-16T23:00:00.000Z"
+        }
+      ],
+      "baseScore": 66,
+      "firstSeenAt": "2026-11-27T18:57:07.238Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
+      "imageUrl": "https://static.makuake.com/upload/project/54742/main_54742.png?version=1795779421&amp;width=690&amp;height=388",
+      "imageCheckedAt": "2026-11-27T18:57:07.238Z"
+    },
     {
       "id": "11e8b76afd167269ad6bef8253ed062b93946f1d",
       "title": "外して撮る 手元で見る 親指サイズに最大4Kを凝縮した分離式カメラ「S100」",
@@ -55,7 +93,7 @@
       ],
       "baseScore": 77,
       "firstSeenAt": "2026-11-26T23:50:50.135Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://static.makuake.com/upload/project/54707/main_54707.png?version=1795674317&amp;width=690&amp;height=388",
       "imageCheckedAt": "2026-11-26T23:50:50.135Z"
     },
@@ -177,7 +215,7 @@
       ],
       "baseScore": 85,
       "firstSeenAt": "2026-11-23T21:19:44.281Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://www.cined.com/content/uploads/2026/11/sirui-pc03-scopegrip-iphone-kit-featured-16x9-2.jpg",
       "imageCheckedAt": "2026-11-23T21:19:44.281Z"
     },
@@ -683,7 +721,7 @@
       ],
       "baseScore": 81,
       "firstSeenAt": "2026-11-15T01:53:53.293Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/librem-5v2-e1794696405875.jpg",
       "imageCheckedAt": "2026-11-15T01:53:53.293Z"
     },
@@ -1472,7 +1510,7 @@
       ],
       "baseScore": 74,
       "firstSeenAt": "2026-11-04T21:20:28.318Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-another-mini-laptop-for-distraction-free.webp",
       "imageCheckedAt": "2026-11-04T21:20:28.318Z"
     },
@@ -1593,7 +1631,7 @@
       ],
       "baseScore": 73,
       "firstSeenAt": "2026-11-03T02:54:59.857Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/11/featured-zotacs-new-fanless-wildcat-lake-mini-pc-a.webp",
       "imageCheckedAt": "2026-11-03T02:54:59.857Z"
     },
@@ -2083,7 +2121,7 @@
       ],
       "baseScore": 89,
       "firstSeenAt": "2026-10-28T21:02:49.460Z",
-      "lastSeenAt": "2026-11-27T08:26:18.131Z",
+      "lastSeenAt": "2026-11-27T18:57:07.238Z",
       "imageUrl": "https://liliputing.com/wp-content/uploads/2026/10/featured-gpd-win-mini-ultra-mini-laptop-with-intel.webp",
       "imageCheckedAt": "2026-10-28T21:02:49.460Z"
     },
